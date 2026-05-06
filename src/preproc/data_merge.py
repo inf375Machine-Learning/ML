@@ -24,8 +24,6 @@ def merge_csv_files(input_folder='../../data/final', output_file='../../data/fin
 
             file_name = os.path.basename(file)
             
-            df['source'] = f"hh_parser_{file_name}" 
-            
             df_list.append(df)
             print(f"{file_name} lines loaded {len(df)})")
             
