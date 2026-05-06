@@ -3,3 +3,5 @@ numpy
 scikit-learn
 joblib
 matplotlib
+playwright==1.59.0
+selenium==4.43.0
