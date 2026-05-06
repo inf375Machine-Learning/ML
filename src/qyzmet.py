@@ -6,11 +6,10 @@ from playwright.async_api import async_playwright
 
 async def scrape_qyzmet_deep(keywords, max_pages=20):
     os.makedirs('data', exist_ok=True)
-    
+
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=False) 
         context = await browser.new_context(
-            
             viewport={'width': 1920, 'height': 1080},
             user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
         )
@@ -84,10 +83,10 @@ async def scrape_qyzmet_deep(keywords, max_pages=20):
                                     'qyzmet_deep_parser'
                                 ])
                             else:
-                                print(f"      Can't take information from {page.url}")
+                                print(f" Can't take information from {page.url}")
                                 
                         except Exception as e:
-                            print(f" TimeOut ")
+                            print("Time Out")
             
             print(f"Dat was saved{filename}")
         
