@@ -1,0 +1,713 @@
+﻿job_id,job_title,skills,experience_level,education_level,label,source,is_custom
+14fb27aa,Middle Data Engineer (Lakehouse / Big Data),"python, sql, postgresql",Более 6 лет,Not Specified,Data Engineer,hh,no
+46dcdc75,Data analyst (Senior),sql,Без опыта,Not Specified,Data Analyst,hh,no
+aaab5c89,Senior Data Software Engineer (Big Data Engineer),"python, java, sql, kafka, ml",От 3 до 6 лет,Not Specified,Data Engineer,hh,no
+301dce0f,ML-инженер,"python, sql, ml, data science, pandas, numpy",Без опыта,Not Specified,Data Scientist,hh,no
+fabf1938,ML-инженер/Data Scientist,"python, sql, machine learning, ml, pandas, numpy, scikit-learn",Более 6 лет,Высшее образование,Data Scientist,hh,no
+3d91d8d3,Data Analyst (Junior) в Департамент кредитных рисков,"python, sql, pandas",От 1 года до 3 лет,Not Specified,Data Analyst,hh,no
+91835ce8,Data Engineer (Analytics),"python, sql, postgresql, mysql, pandas, numpy",Более 6 лет,Not Specified,Data Engineer,hh,no
+edcefe7f,Data Analyst (Аналитик данных),"python, sql, ml",Без опыта,Not Specified,Data Analyst,hh,no
+7324d82a,Аналитик данных,"python, sql, pandas, numpy",Без опыта,Среднее образование,Data Analyst,hh,no
+47b80eee,Backend-разработчик,"golang, sql, postgresql, mysql, kafka, rabbitmq, docker, kubernetes, ci/cd",Без опыта,Not Specified,Backend Developer,hh,no
+0cd3323f,Middle Machine Learning Engineer – Financial Applications,"python, machine learning, data science, scikit-learn, pytorch",Без опыта,Not Specified,Data Scientist,hh,no
+7cecf7a7,Аналитик данных / Marketing Data Analyst — международная онлайн-школа K-12,"python, sql",От 1 года до 3 лет,Not Specified,Data Analyst,hh,no
+a689a18d,Data Analyst,"python, sql, ci/cd, git, ml",От 1 года до 3 лет,Not Specified,Data Analyst,hh,no
+963e71d3,Data Scientist,"python, ml, data science, pandas, numpy, scikit-learn, pytorch, tensorflow",От 1 года до 3 лет,Not Specified,Data Scientist,hh,no
+52f1dfdc,DevOps Engineer,"python, php, mysql, docker, ci/cd, linux, bash, ansible",Более 6 лет,Not Specified,DevOps Engineer,hh,no
+b3bb2a08,Middle Data Scientist,"python, sql, machine learning, ml",От 3 до 6 лет,Высшее образование,Data Scientist,hh,no
+2b7ad7f6,"Senior Data Scientist, Отдел развития и внедрения AI","python, sql, postgresql, git, machine learning, ml, data science, pandas, numpy, scikit-learn",От 1 года до 3 лет,Not Specified,Data Scientist,hh,no
+b7a25895,Middle Data Scientist (Отдел развития и внедрения AI),"python, sql, postgresql, git, ml, data science, pandas, numpy, scikit-learn",От 1 года до 3 лет,Not Specified,Data Scientist,hh,no
+c51b05c4,Lead Data Scientist,"python, sql, ml, data science, pandas, numpy, scikit-learn",От 1 года до 3 лет,Высшее образование,Data Scientist,hh,no
+7c51f16b,Senior Data Scientist,"python, sql, ci/cd",От 1 года до 3 лет,Высшее образование,Data Scientist,hh,no
+53a3890a,Data Scientist,"python, java, golang, sql, postgresql, linux, ml, data science, pandas, numpy, scikit-learn, pytorch",От 1 года до 3 лет,Not Specified,Data Scientist,hh,no
+0a300e46,Data Scientist,"python, sql, docker, machine learning, data science, pandas, numpy, scikit-learn, pytorch, tensorflow",От 1 года до 3 лет,Not Specified,Data Scientist,hh,no
+07fc75ed,Data Scientist,"python, fastapi, sql, docker, git, ml, data science, pandas, numpy, scikit-learn, pytorch, tensorflow",От 1 года до 3 лет,Высшее образование,Data Scientist,hh,no
+d1684c4b,1. QA Automation Engineer (Banking / Mobile / API),"python, java, sql, ci/cd, git",Более 6 лет,Not Specified,QA Engineer,hh,no
+89249734,Full Stack Test Engineer Trainee,sql,От 1 года до 3 лет,Not Specified,Full Stack Developer,hh,no
+66db4d05,QA Engineer,"sql, postgresql",Более 6 лет,Not Specified,QA Engineer,hh,no
+6a105d71,QA engineer (Middle/Team Lead),"python, javascript, sql, docker, ci/cd, git",Без опыта,Not Specified,QA Engineer,hh,no
+f885e750,QA Engineer (SaaS / EdTech),ci/cd,Без опыта,Not Specified,QA Engineer,hh,no
+3168d9c6,Automation QA Senior Engineer,"java, ci/cd",Более 6 лет,Not Specified,QA Engineer,hh,no
+14d0524b,QA Engineer (gamedev),"git, linux",Без опыта,Not Specified,QA Engineer,hh,no
+c392b015,AQA Python engineer,"python, postgresql, mongodb, kafka, ci/cd, git",От 1 года до 3 лет,Not Specified,QA Engineer,hh,no
+a4d87752,QA инженер (Middle),"sql, postgresql, git",От 1 года до 3 лет,Not Specified,QA Engineer,hh,no
+817f71a6,Middle QA Engineer,"python, java, javascript, mongodb, ci/cd, cypress",Без опыта,Not Specified,QA Engineer,hh,no
+aee2bc17,Senior Java-разработчик,java,От 3 до 6 лет,Not Specified,Backend Developer,hh,no
+d71f8d28,Главный риск-менеджер (QA / тестирование решений),"python, sql, postgresql, docker, ci/cd",От 3 до 6 лет,Not Specified,QA Engineer,hh,no
+8a311254,Тестировщик (манульное),"sql, postgresql, ci/cd, ui/ux, cypress",От 3 до 6 лет,Not Specified,QA Engineer,hh,no
+5793fb73,QA Engineer (Middle+),"kubernetes, ci/cd, cypress",От 1 года до 3 лет,Not Specified,QA Engineer,hh,no
+a23b83d0,"Fullstack-разработчик (PostgreSQL, Java , Vue.js)","java, javascript, typescript, vue, spring, postgresql, css, sass",Более 6 лет,Not Specified,Frontend Developer,hh,no
+ce48dca0,QA Engineer in Almaty,sql,От 1 года до 3 лет,Not Specified,QA Engineer,hh,no
+fb3ecda5,QA AI specialist,"python, sql, docker, git, ml",От 1 года до 3 лет,Not Specified,QA Engineer,hh,no
+b73e8ba8,Automation QA Middle Engineer,"python, javascript, sql, ci/cd",От 3 до 6 лет,Not Specified,QA Engineer,hh,no
+92969ba4,Тестировщик Colvir,"sql, postgresql",Более 6 лет,Высшее образование,QA Engineer,hh,no
+8f86e088,QA Automation Engineer (JavaScript),"javascript, cypress, jest",От 3 до 6 лет,Not Specified,QA Engineer,hh,no
+d86d1a84,Manual QA Engineer,"sql, git",От 1 года до 3 лет,Not Specified,QA Engineer,hh,no
+9f83554e,Инженер-тестировщик (QA engineer),linux,От 1 года до 3 лет,Высшее образование,QA Engineer,hh,no
+e87663be,Тестировщик (middle/middle+) в интернет-магазин,"python, docker, ci/cd, git, figma",От 1 года до 3 лет,Not Specified,QA Engineer,hh,no
+bbdc872b,Full Stack Test Engineer Trainee,sql,Более 6 лет,Not Specified,Full Stack Developer,hh,no
+4ec088db,QA тестировщик,"sql, cypress",От 3 до 6 лет,Not Specified,QA Engineer,hh,no
+0febbc7e,Backend Tech Lead,"python, php, mysql, docker, ci/cd, git, bash",От 3 до 6 лет,Not Specified,Backend Developer,hh,no
+6b2d1e25,Программист-тестировщик (QA Engineer),"python, java, javascript",От 1 года до 3 лет,Not Specified,QA Engineer,hh,no
+427cc3c0,QA Automation Engineer (Kotlin\Java),"java, ci/cd, git",Без опыта,Not Specified,QA Engineer,hh,no
+d8da40f0,QA-инженер,"sql, ci/cd, cypress",От 1 года до 3 лет,Not Specified,QA Engineer,hh,no
+25299576,Manual QA инженер (Офис),"java, javascript, sql, html, css",Без опыта,Not Specified,QA Engineer,hh,no
+36fa4788,QA engineer,"python, kafka, docker, linux",Без опыта,Not Specified,QA Engineer,hh,no
+fbb23f04,QA инженер,"sql, git",Без опыта,Not Specified,QA Engineer,hh,no
+732c915e,QA Automation Engineer в офис Алматы,"javascript, ci/cd, git, linux",От 3 до 6 лет,Not Specified,QA Engineer,hh,no
+826646ad,QA тестировщик (Autotesting),sql,От 1 года до 3 лет,Высшее образование,QA Engineer,hh,no
+68d1e20a,.NET Developer (C#),".net, sql, postgresql, redis, kafka, rabbitmq, kubernetes, ci/cd",От 1 года до 3 лет,Not Specified,Backend Developer,hh,no
+df05260a,Тестировщик Управления тестирования и контроля качества Департамент корпоративной архитектуры,"python, java, javascript, sql, html, css",Более 6 лет,Not Specified,QA Engineer,hh,no
+22992256,Senior QA Test Automation Engineer,"java, sql, ci/cd",Без опыта,Not Specified,QA Engineer,hh,no
+48a89236,Middle QA Engineer,"sql, docker, ci/cd, git, linux, figma",Более 6 лет,Not Specified,QA Engineer,hh,no
+776e93ff,Manual QA Engineer (Junior),git,От 1 года до 3 лет,Not Specified,QA Engineer,hh,no
+204b0a26,QA-инженер,"sql, postgresql",Без опыта,Not Specified,QA Engineer,hh,no
+f731cabe,Senior Performance QA Engineer,"java, ci/cd",Более 6 лет,Not Specified,QA Engineer,hh,no
+377bf184,Android Developer,"ci/cd, git",От 3 до 6 лет,Not Specified,Mobile Developer,hh,no
+899a0df2,QA Engineer,"python, java, javascript",От 1 года до 3 лет,Not Specified,QA Engineer,hh,no
+c2ccd029,Middle QA Engineer,"python, sql, postgresql, ci/cd",От 3 до 6 лет,Not Specified,QA Engineer,hh,no
+3ac56241,Manual QA инженер (Middle),"sql, kafka, ci/cd",Более 6 лет,Not Specified,QA Engineer,hh,no
+0c6bed07,QA Engineer,angular,От 1 года до 3 лет,Not Specified,QA Engineer,hh,no
+f6d978fb,QA Automation Engineer (Mobile),"javascript, sql, git",От 1 года до 3 лет,Not Specified,QA Engineer,hh,no
+9ce9365c,QA Engineer Junior (Mobile),mysql,От 1 года до 3 лет,Not Specified,QA Engineer,hh,no
+a6d2a1df,Тестировщик Colvir,sql,От 1 года до 3 лет,Not Specified,QA Engineer,hh,no
+358af338,QA engineer,"ci/cd, ml",От 1 года до 3 лет,Not Specified,QA Engineer,hh,no
+1b4ad4f1,"QA Engineer (onsite, Almaty)","sql, ci/cd",Более 6 лет,Not Specified,QA Engineer,hh,no
+c0e59c96,QA-инженер / Тестировщик мобильных приложений,figma,Без опыта,Not Specified,QA Engineer,hh,no
+f10bd680,QA Engineer,"java, ci/cd, git",От 1 года до 3 лет,Not Specified,QA Engineer,hh,no
+a854aaf3,QA инженер Middle/Middle+,"python, sql, postgresql, ci/cd",Без опыта,Not Specified,QA Engineer,hh,no
+f9942aec,Full-stack разработчик (Middle),"python, fastapi, django, git",От 3 до 6 лет,Not Specified,Full Stack Developer,hh,no
+0ce98e57,QA manual/Ручной тестировщик Алматы (офис),"sql, mysql, linux",От 3 до 6 лет,Not Specified,QA Engineer,hh,no
+7796337f,Support & QA Engineer,sql,От 1 года до 3 лет,Not Specified,QA Engineer,hh,no
+6bb630b8,Видеограф / Motion-дизайнер (Full-stack контент-мейкер),figma,От 3 до 6 лет,Not Specified,Full Stack Developer,hh,no
+555f75ef,UI/UX Designer (Fintech / Crypto / Web + Mobile),"figma, ui/ux",От 1 года до 3 лет,Not Specified,Mobile Developer,hh,no
+1caadbd6,Frontend-разработчик,"javascript, typescript, angular, git, html, css, figma",Без опыта,Not Specified,Frontend Developer,hh,no
+51ba8883,General/Full-Stack QA - specialist,"javascript, docker, ci/cd, figma",От 1 года до 3 лет,Not Specified,Full Stack Developer,hh,no
+37225258,Senior Full Stack Developer / Product Engineer,"python, javascript, typescript, php, react, vue, postgresql, mysql",От 1 года до 3 лет,Not Specified,Full Stack Developer,hh,no
+7a44c7f5,Data Analyst / Product Owner,"python, sql",От 1 года до 3 лет,Not Specified,Data Analyst,hh,no
+a2d8411e,Senior Machine Learning Engineer,"python, fastapi, sql, postgresql, redis, docker, kubernetes, ci/cd, git, ml, data science",От 1 года до 3 лет,Not Specified,Data Scientist,hh,no
+3d2cedd1,Data engineer (Middle),"python, sql, postgresql, redis, kafka, docker, git, linux, ml",Без опыта,Not Specified,Data Engineer,hh,no
+1bacecbd,Middle/Senior NLP Engineer,"python, sql, docker, kubernetes, ml, pandas, numpy, pytorch",Более 6 лет,Not Specified,Data Scientist,hh,no
+78b20157,ML Engineer (NLP / RAG),"python, fastapi, ml",От 1 года до 3 лет,Not Specified,Data Scientist,hh,no
+1a55d6d2,Начальник отдела аналитики (DWH),"python, sql, ml, data science",Без опыта,Высшее образование,Data Engineer,hh,no
+995822d0,Senior Data Engineer (Greenplum),"sql, kafka, ml",От 3 до 6 лет,Not Specified,Data Engineer,hh,no
+0a132c80,Full-Stack Developer (Python / TypeScript),"python, typescript, react, fastapi, sql, postgresql, redis, kafka, docker, kubernetes, ci/cd, ml, tailwind",От 1 года до 3 лет,Not Specified,Full Stack Developer,hh,no
+39b4321b,Middle ML engineer,"python, fastapi, postgresql, redis, kafka, docker, ml, pytorch",Более 6 лет,Not Specified,Data Scientist,hh,no
+efb5de44,"ML-инженер (рекомендательные системы, ALS/ANN)","python, fastapi, sql, redis, kafka",От 3 до 6 лет,Not Specified,Data Scientist,hh,no
+d9207fba,"NLP Engineer (ML-Engineer) в проект ""Чат-бот""","ci/cd, ml",От 1 года до 3 лет,Not Specified,Data Scientist,hh,no
+f7484341,Middle / Senior NLP Engineer,"sql, docker, kubernetes, ml",Без опыта,Not Specified,Data Scientist,hh,no
+a6836f76,Computer Vision/ML Engineer для запуска проекта (реал-тайм видеоанализ),"python, postgresql, docker, pytorch, tensorflow",От 1 года до 3 лет,Not Specified,Data Scientist,hh,no
+ce6643ca,MLOps/DevOps Specialist,"python, docker, kubernetes, ci/cd, linux, bash, ansible, terraform, ml",Без опыта,Not Specified,Data Scientist,hh,no
+fdd4647f,Data Engineer,"python, sql, postgresql, ml, pandas",Более 6 лет,Not Specified,Data Engineer,hh,no
+0b843f43,Senior ML Engineer (LLM / RAG),"python, fastapi, sql, elasticsearch, docker, ci/cd, ml",Более 6 лет,Not Specified,Data Scientist,hh,no
+ad678137,Middle Data Engineer (Отдел развития и внедрения AI),"python, sql, postgresql, kafka, ml, data science, pandas",От 1 года до 3 лет,Not Specified,Data Engineer,hh,no
+15278f54,Senior AI / ML Engineer (Applied AI Systems Lead),"python, fastapi, sql, docker, kubernetes, ml, pandas",Без опыта,Not Specified,Data Scientist,hh,no
+241c3936,ML Engineer / CV Engineer,"python, pytorch, tensorflow",От 1 года до 3 лет,Not Specified,Data Scientist,hh,no
+8a7556c7,Senior/Middle DevOps инженер,"python, kafka, docker, kubernetes, ci/cd, linux, bash, ansible, terraform, ml",От 3 до 6 лет,Not Specified,DevOps Engineer,hh,no
+ff9e0bb9,C++ Разработчик робототехники (Unitree / ROS2),"python, c++, docker, git, linux, ml",От 1 года до 3 лет,Not Specified,Backend Developer,hh,no
+1ebd2a56,Senior Data Engineer,"sql, ml",Более 6 лет,Not Specified,Data Engineer,hh,no
+6bb535b5,DevOps Engineer,"docker, kubernetes, ci/cd, linux, ansible, terraform",От 1 года до 3 лет,Not Specified,DevOps Engineer,hh,no
+296c9265,Support / DevOps Engineer,"python, javascript, typescript, react, express, sql, postgresql, docker, git, linux, bash",Без опыта,Not Specified,DevOps Engineer,hh,no
+c5c8db10,DevOps Trainee,"ci/cd, linux",От 3 до 6 лет,Not Specified,DevOps Engineer,hh,no
+6055cbef,Senior DevOps инженер,"kubernetes, ci/cd, terraform",От 3 до 6 лет,Not Specified,DevOps Engineer,hh,no
+91ac0687,Team Lead DevOps engineer,"redis, ci/cd, linux, bash, ansible",От 3 до 6 лет,Not Specified,DevOps Engineer,hh,no
+b3645782,Team Lead DevOps / Infrastructure Engineer,"postgresql, rabbitmq, docker, kubernetes, ci/cd, linux",От 3 до 6 лет,Not Specified,DevOps Engineer,hh,no
+c70fe8b9,DevOps-разработчик,"python, docker, kubernetes, ci/cd, linux, bash, ansible, terraform",От 3 до 6 лет,Not Specified,DevOps Engineer,hh,no
+28c5dc1c,DevOps Engineer/L2,"mysql, mongodb, redis, kafka, rabbitmq, kubernetes, ci/cd, linux",Без опыта,Not Specified,DevOps Engineer,hh,no
+b50e9609,DevOps Engineer,"docker, ci/cd, linux",Более 6 лет,Not Specified,DevOps Engineer,hh,no
+47319958,Стажер Support Engineer/ DevOps (IoT/Linux),"docker, linux, bash",Более 6 лет,Not Specified,DevOps Engineer,hh,no
+dba697d1,DevOps Engineer,"python, sql, docker, kubernetes, ci/cd, bash, ansible, terraform",От 1 года до 3 лет,Not Specified,DevOps Engineer,hh,no
+d95a548c,DevOps инженер (Команда анализа данных),"python, sql, kubernetes, ci/cd, bash",Без опыта,Not Specified,DevOps Engineer,hh,no
+c1dc66a8,DevOps - инженер,"python, java, go, postgresql, docker, kubernetes, ci/cd, linux, bash",Более 6 лет,Not Specified,DevOps Engineer,hh,no
+ced29e79,Middle Data Engineer,"python, fastapi, sql, postgresql, docker, ci/cd, git, pandas",Более 6 лет,Высшее образование,Data Engineer,hh,no
+090a7eb6,DevOps / SysAdmin,"postgresql, docker, k8s, ci/cd, linux, bash, ansible, terraform",От 3 до 6 лет,Not Specified,DevOps Engineer,hh,no
+099474ad,DevOps-инженер,"python, docker, kubernetes, ci/cd, git, linux, bash, ansible, terraform",От 1 года до 3 лет,Not Specified,DevOps Engineer,hh,no
+2fb0121a,Senior DevOps Engineer,"python, go, docker, kubernetes, ci/cd, git, linux, bash, ansible, terraform",Без опыта,Not Specified,DevOps Engineer,hh,no
+a64609bd,DevOps-инженер,"python, docker, kubernetes, ci/cd, git, linux, bash, ansible, terraform",От 1 года до 3 лет,Not Specified,DevOps Engineer,hh,no
+42d31d88,DevOps Engineer,"postgresql, mongodb, kafka, docker, kubernetes, linux, ansible, terraform",От 1 года до 3 лет,Not Specified,DevOps Engineer,hh,no
+34daefea,Software Engineer in DevOps \ Инженер-программист в области DevOps,"python, go, docker, kubernetes, git, linux, ansible, terraform",От 3 до 6 лет,Not Specified,DevOps Engineer,hh,no
+ad5f9934,Senior DevOps инженер / Направление моделирования и внутренней валидации,"postgresql, docker, kubernetes, k8s, ci/cd, ml, data science",От 1 года до 3 лет,Not Specified,DevOps Engineer,hh,no
+4f9d98d2,Старший DevOps инженер,"docker, kubernetes, ci/cd, linux",От 1 года до 3 лет,Not Specified,DevOps Engineer,hh,no
+b7361c67,Senior DevOps engineer,"kubernetes, ci/cd, linux",От 1 года до 3 лет,Not Specified,DevOps Engineer,hh,no
+94a7104e,Senior DevOps-инженер,ci/cd,От 1 года до 3 лет,Not Specified,DevOps Engineer,hh,no
+4aa5129e,DevOps-инженер,"javascript, php, docker, kubernetes, ci/cd, git, linux",Без опыта,Not Specified,DevOps Engineer,hh,no
+059a1fa0,Middle DevOps Engineer,"docker, ci/cd, git, linux, ansible, terraform",Без опыта,Not Specified,DevOps Engineer,hh,no
+4aeffcc7,DevOps инженер (Middle / Senior),"sql, postgresql, redis, rabbitmq, docker, kubernetes, ci/cd, linux, ansible",От 3 до 6 лет,Not Specified,DevOps Engineer,hh,no
+73a56b2f,Software Engineer in DevOps \ Инженер-программист в области DevOps,"python, go, docker, kubernetes, git, linux, ansible, terraform",От 1 года до 3 лет,Not Specified,DevOps Engineer,hh,no
+17d2f6eb,DevOps-инженер в команду базовой инфраструктуры,"python, go, postgresql, redis, kafka, rabbitmq, docker, kubernetes, k8s, ci/cd, git, bash, ansible, terraform",От 3 до 6 лет,Not Specified,DevOps Engineer,hh,no
+12df1ae5,DevOps-инженер,"python, mysql, docker, ci/cd, linux, bash, ansible, terraform",Более 6 лет,Not Specified,DevOps Engineer,hh,no
+660ab489,Инженер по автоматизации (DevOps),"sql, postgresql, mongodb, redis, kubernetes, ci/cd, git, linux, bash, ansible",Без опыта,Not Specified,DevOps Engineer,hh,no
+b74c590a,Senior DevOps Engineer,"python, go, docker, kubernetes, ci/cd, git, linux, bash, ansible, terraform",Без опыта,Not Specified,DevOps Engineer,hh,no
+814c391b,Middle React Native Developer,"javascript, typescript, react, ci/cd",Без опыта,Not Specified,Frontend Developer,hh,no
+6d755963,DevOps-инженер,"postgresql, docker, kubernetes, linux, bash",Более 6 лет,Not Specified,DevOps Engineer,hh,no
+6443f20e,Senior DevOps Engineer,"python, postgresql, mysql, redis, docker, kubernetes, ci/cd, linux, bash, ansible, terraform",От 1 года до 3 лет,Not Specified,DevOps Engineer,hh,no
+d1ab44bd,Senior Lead DevOps engineer,"python, postgresql, elasticsearch, kubernetes, k8s, linux, ansible",Более 6 лет,Not Specified,DevOps Engineer,hh,no
+ff69d2db,DevOps Engineer,"python, golang, kubernetes, linux, bash, ansible, terraform",Без опыта,Not Specified,DevOps Engineer,hh,no
+005e76b0,DevOps-инженер,"python, postgresql, mongodb, redis, docker, kubernetes, ci/cd, git, linux, bash, ansible, terraform",От 1 года до 3 лет,Not Specified,DevOps Engineer,hh,no
+0a40d944,DevOps,"docker, kubernetes, ci/cd",От 1 года до 3 лет,Not Specified,DevOps Engineer,hh,no
+14b2aa43,Full-Stack Инженер,"javascript, typescript, react, express, sql, postgresql, mysql, docker, ci/cd, git",От 1 года до 3 лет,Not Specified,Full Stack Developer,hh,no
+16408aae,DevOps-инженер в Направление развития платформы и каналов коммуникаций,"python, go, kafka, rabbitmq, ci/cd, linux, bash",От 1 года до 3 лет,Высшее образование,DevOps Engineer,hh,no
+ad8f4475,DevOps Engineer,"python, postgresql, mysql, redis, docker, kubernetes, ci/cd, linux, bash, ansible, terraform",Без опыта,Not Specified,DevOps Engineer,hh,no
+2461bb7d,DevOps-инженер,"postgresql, mysql, mongodb, redis, kafka, rabbitmq, kubernetes, ci/cd, git, linux",От 1 года до 3 лет,Not Specified,DevOps Engineer,hh,no
+665dec2c,DevOps-инженер,"python, go, postgresql, docker, kubernetes, ci/cd, linux, bash, ansible, terraform",Без опыта,Not Specified,DevOps Engineer,hh,no
+4081b0b5,Senior Python Backend Engineer,"python, fastapi, django, postgresql, redis, rabbitmq, docker, ci/cd, linux",От 3 до 6 лет,Not Specified,Backend Developer,hh,no
+e51ec47d,Lead Backend Developer (Java/Angular),"java, angular, spring, sql, docker, kubernetes, ci/cd",От 3 до 6 лет,Not Specified,Frontend Developer,hh,no
+1f49264b,Junior DevOps Engineer (Azure),"python, javascript, typescript, php, sql, postgresql, mysql, mongodb, redis, docker, kubernetes, ci/cd, git, bash, ansible, terraform, html",Более 6 лет,Not Specified,DevOps Engineer,hh,no
+ec80a793,"Java Backend Engineer / Solution Architect (AI-first, Fintech)","java, sql",От 1 года до 3 лет,Not Specified,Backend Developer,hh,no
+c4e5bb99,Mobile Developer (Flutter) + UI/UX (Senior),"ci/cd, ui/ux",Без опыта,Not Specified,Mobile Developer,hh,no
+a7f31567,Middle Android разработчик,"java, javascript, ci/cd",От 1 года до 3 лет,Not Specified,Mobile Developer,hh,no
+8b3dd639,Mobile Developer (React Native),"typescript, react",Без опыта,Not Specified,Mobile Developer,hh,no
+62fc14ae,Middle Android разработчик,"ci/cd, git",Без опыта,Not Specified,Mobile Developer,hh,no
+5b6913c7,Lead C++ Software Engineer (Gameplay),"python, ci/cd",От 1 года до 3 лет,Not Specified,Backend Developer,hh,no
+9e3610cd,IOS/ANDROID Разработчик,ui/ux,От 3 до 6 лет,Not Specified,Mobile Developer,hh,no
+18a09a6b,Android Developer,"ci/cd, figma",От 1 года до 3 лет,Not Specified,Mobile Developer,hh,no
+21eec0d6,"Android-разработчик (Java), Алматы","java, git",От 3 до 6 лет,Not Specified,Mobile Developer,hh,no
+c963e978,Android-разработчик (Middle/Senior),"java, ci/cd, git",Без опыта,Not Specified,Mobile Developer,hh,no
+2cc270a1,Android Development Program Trainee,java,От 1 года до 3 лет,Not Specified,Mobile Developer,hh,no
+d3648e6a,Android Trainee,java,От 1 года до 3 лет,Not Specified,Mobile Developer,hh,no
+ceac0d87,Full-Stack Engineer (JavaScript/PHP),"javascript, php, sql, ci/cd",От 1 года до 3 лет,Not Specified,Full Stack Developer,hh,no
+f74884c7,Middle Frontend Developer (React native),"javascript, typescript, react, express, postgresql, mongodb, redis, docker, git",От 1 года до 3 лет,Not Specified,Frontend Developer,hh,no
+0c80f28b,Программист Mobile Developer,"javascript, react, ci/cd, git",От 1 года до 3 лет,Not Specified,Mobile Developer,hh,no
+93f96747,Android-разработчик,"java, ci/cd, git",Более 6 лет,Not Specified,Mobile Developer,hh,no
+b734c1eb,Android Trainee,"java, git",Без опыта,Not Specified,Mobile Developer,hh,no
+1564f340,Senior Android-разработчик,"java, ci/cd, git",Без опыта,Not Specified,Mobile Developer,hh,no
+9b3cb63c,Flutter-разработчик (Mobile) / GeOnline,"ci/cd, git",От 1 года до 3 лет,Not Specified,Mobile Developer,hh,no
+53ecc788,Mobile Developer (Kotlin / Android),"ci/cd, git, figma, ui/ux",Без опыта,Not Specified,Mobile Developer,hh,no
+9aacebb1,Android-разработчик во Freedom Business (middle/middle+),ci/cd,Без опыта,Not Specified,Mobile Developer,hh,no
+7563215b,Android Trainee,"java, git",От 1 года до 3 лет,Not Specified,Mobile Developer,hh,no
+2b86d262,React-native разработчик,"javascript, typescript, react, ci/cd",От 3 до 6 лет,Not Specified,Frontend Developer,hh,no
+102d3013,Mobile QA Engineer (Middle),"java, ci/cd",От 1 года до 3 лет,Not Specified,QA Engineer,hh,no
+12262248,Senior React-разработчик,"javascript, typescript, react, css",От 1 года до 3 лет,Not Specified,Frontend Developer,hh,no
+cf1a92ba,React Native Senior Developer,"java, react, ci/cd, html, css, jest",Без опыта,Not Specified,Frontend Developer,hh,no
+4691ec69,Senior Android-разработчик,ci/cd,От 1 года до 3 лет,Not Specified,Mobile Developer,hh,no
+cc05b61e,Middle PHP Backend-разработчик Krisha.kz,"go, php, mysql, mongodb, redis, docker, kubernetes, ci/cd, git, linux",Без опыта,Not Specified,Backend Developer,hh,no
+bfc7b13c,DevOps разработчик,"django, postgresql, redis, docker, git",От 3 до 6 лет,Not Specified,DevOps Engineer,hh,no
+d78fc179,Старший Java-разработчик / Senior Java Spring Developer,"java, spring, sql, elasticsearch, kafka, rabbitmq, docker, kubernetes, ci/cd, ml, pytorch, tensorflow",Без опыта,Not Specified,Backend Developer,hh,no
+ae24871d,PHP-разработчик (Middle/Senior),"php, postgresql, mysql, docker, ci/cd, git",Без опыта,Not Specified,Backend Developer,hh,no
+4e472f8a,JavaScript Trainee,"javascript, react, git, html, css",От 3 до 6 лет,Not Specified,Backend Developer,hh,no
+cbd7a344,Senior Java Backend Developer,"java, go, spring, postgresql, mongodb, redis, elasticsearch, kafka, docker, kubernetes, ci/cd, git",Без опыта,Not Specified,Backend Developer,hh,no
+19de3331,Java разработчик (middle+\senior),"java, spring, postgresql, redis, elasticsearch, kafka, rabbitmq, git",Без опыта,Высшее образование,Backend Developer,hh,no
+9069903b,"Администратор 1С ( серверы, базы данных)","postgresql, docker, git, linux, bash",Без опыта,Not Specified,Backend Developer,hh,no
+2c59d939,Data Engineer / BI Engineer,"python, sql, postgresql, kafka, rabbitmq",От 1 года до 3 лет,Not Specified,Data Engineer,hh,no
+086c7e3f,Backend-разработчик,"javascript, typescript, postgresql, redis, rabbitmq, git",Более 6 лет,Высшее образование,Backend Developer,hh,no
+50ec4850,Fullstack разработчик (Java/Kotlin + Angular),"java, typescript, react, angular, spring, postgresql, redis, docker, kubernetes",Без опыта,Not Specified,Mobile Developer,hh,no
+5b08a88c,Junior Frontend Developer (Angular),"javascript, typescript, angular, git, css, sass, tailwind",От 1 года до 3 лет,Not Specified,Frontend Developer,hh,no
+17661720,SRE/Site Reliability Engineer,"python, java, sql, postgresql, mongodb, docker, kubernetes, git, linux",Более 6 лет,Not Specified,DevOps Engineer,hh,no
+a4013e09,Middle Backend Developer,"php, sql, postgresql, redis, rabbitmq, ci/cd",От 1 года до 3 лет,Not Specified,Backend Developer,hh,no
+20353166,"Backend Developer (Python, Django)","python, fastapi, django, sql, postgresql, mongodb, redis, rabbitmq, docker, kubernetes, ci/cd",Более 6 лет,Not Specified,Backend Developer,hh,no
+20a1127d,"Java Developer, Senior","java, spring, sql, postgresql, redis, docker, kubernetes, ci/cd",Более 6 лет,Not Specified,Backend Developer,hh,no
+cda2145a,Senior/Flutter-разработчик,"fastapi, postgresql, redis, ci/cd",Более 6 лет,Not Specified,Mobile Developer,hh,no
+3f57151b,Middle iOS разработчик,"ci/cd, git",От 1 года до 3 лет,Not Specified,Mobile Developer,hh,no
+2d92aa68,Middle Backend Разработчик (C#),"javascript, react, sql, postgresql",От 3 до 6 лет,Not Specified,Backend Developer,hh,no
+74724c0c,Senior Golang Developer (Adtech),"go, golang, sql, postgresql, mongodb, elasticsearch, rabbitmq, docker, kubernetes, ci/cd",От 3 до 6 лет,Not Specified,Backend Developer,hh,no
+764164db,Junior Frontend Developer Angular,"angular, jest",От 3 до 6 лет,Not Specified,Frontend Developer,hh,no
+a6f26bda,PHP-разработчик (Middle),"java, php, sql, git, linux",От 1 года до 3 лет,Not Specified,Backend Developer,hh,no
+adc01544,Senior Python Developer,"python, fastapi, sql, docker, kubernetes, ci/cd",От 1 года до 3 лет,Not Specified,Backend Developer,hh,no
+91166b04,Test Automation Engineer | SDET | Middle+ | Python,"python, kubernetes, ci/cd",От 1 года до 3 лет,Not Specified,Backend Developer,hh,no
+05900a9d,Middle Golang разработчик,"go, golang, sql, postgresql, docker, kubernetes, ci/cd, git, linux",Более 6 лет,Not Specified,Backend Developer,hh,no
+0e3e21f2,Full-Stack Developer,"javascript, typescript, react",От 1 года до 3 лет,Not Specified,Full Stack Developer,hh,no
+bf2bedf1,WEB-разработчик (PHP/Laravel),"php, sql, postgresql, mysql, docker, git",От 1 года до 3 лет,Not Specified,Backend Developer,hh,no
+6d747990,Ведущий Frontend-разработчик,"java, javascript, typescript, react",От 1 года до 3 лет,Высшее образование,Frontend Developer,hh,no
+a58666cf,Middle C# developer,".net, rabbitmq, git",От 1 года до 3 лет,Not Specified,Backend Developer,hh,no
+7b913596,Backend-разработчик (Java),"java, spring, sql, kafka, rabbitmq, docker, kubernetes, ci/cd",Без опыта,Not Specified,Backend Developer,hh,no
+1e291e27,Эксперт Angular developer,"javascript, typescript, angular, git, html, css, figma",Более 6 лет,Not Specified,Frontend Developer,hh,no
+0ed9ea6b,C#/. NET-разработчик,".net, angular, sql, postgresql, git",От 1 года до 3 лет,Not Specified,Backend Developer,hh,no
+4ccaf95c,QA Manual Trainee,sql,Более 6 лет,Not Specified,QA Engineer,hh,no
+cd217881,Frontend-разработчик,"javascript, typescript, react, docker, ci/cd, git, tailwind",От 1 года до 3 лет,Not Specified,Frontend Developer,hh,no
+eeef38e1,Senior Full-stack Developer,"javascript, typescript, go, react, sql, kafka, docker, kubernetes, ci/cd",От 3 до 6 лет,Not Specified,Full Stack Developer,hh,no
+6924992f,C# Developer (Revit API / BIM Automation),"python, git",Без опыта,Not Specified,Backend Developer,hh,no
+8ee08f51,Frontend-разработчик (middle),"javascript, typescript, vue, css, sass",От 1 года до 3 лет,Not Specified,Frontend Developer,hh,no
+70e65c7c,Веб-разработчик PHP,"javascript, php, postgresql, mysql, redis, elasticsearch, docker, ci/cd, git, linux",Более 6 лет,Not Specified,Backend Developer,hh,no
+e1247bd1,"Frontend middle программист/разработчик (Vue2,3)","javascript, vue, html, css",Более 6 лет,Not Specified,Frontend Developer,hh,no
+75425bc1,Эксперт data engineer,"sql, kafka",Более 6 лет,Not Specified,Data Engineer,hh,no
+26556d74,Middle PHP / Laravel разработчик,"php, mysql, redis, docker, git, linux",От 1 года до 3 лет,Not Specified,Backend Developer,hh,no
+60f73da8,Backend Developer (Senior),"php, postgresql, mysql, redis",От 1 года до 3 лет,Not Specified,Backend Developer,hh,no
+3bc9f792,Backend Developer (Kotlin) in Kazakhstan,"java, spring, sql, postgresql, redis, kafka, docker, kubernetes, ci/cd, git",Без опыта,Not Specified,Mobile Developer,hh,no
+eaa4bdce,Senior Backend Developer (Go),"javascript, go, mysql, mongodb, kubernetes",Более 6 лет,Not Specified,Backend Developer,hh,no
+f13b16f2,Frontend-разработчик Angular,"javascript, angular",Без опыта,Высшее образование,Frontend Developer,hh,no
+f7b9270f,Middle Backend Developer (NodeJS),"javascript, express, postgresql, mongodb, redis, docker",От 1 года до 3 лет,Not Specified,Backend Developer,hh,no
+f6fb42d6,Senior Backend Разработчик (Go + PHP),"go, php, sql, postgresql, redis, kafka, rabbitmq",От 1 года до 3 лет,Not Specified,Backend Developer,hh,no
+7ee56772,Backend-разработчик,"php, sql, redis, docker, ci/cd, git",Без опыта,Not Specified,Backend Developer,hh,no
+ad0c7ed8,PHP Trainee,php,От 1 года до 3 лет,Not Specified,Backend Developer,hh,no
+b6ab2e97,Python-разработчик,"python, redis",От 1 года до 3 лет,Not Specified,Backend Developer,hh,no
+8c72d22b,Frontend-разработчик (верстка),"javascript, php, git, figma",От 3 до 6 лет,Not Specified,Frontend Developer,hh,no
+8b3be82c,Middle/Middle+ PHP Developer,"go, php, postgresql, mysql, kafka, rabbitmq, docker, ci/cd, git, ansible",От 1 года до 3 лет,Not Specified,Backend Developer,hh,no
+23293946,"Senior Backend Developer (Java/Kotlin, Spring, Microservices)","java, spring, sql, postgresql, redis, kafka, docker, kubernetes, ci/cd",От 3 до 6 лет,Not Specified,Mobile Developer,hh,no
+52a2b693,Kotlin Developer,"java, spring, sql, postgresql, redis, kafka, docker, kubernetes, ci/cd, git",Более 6 лет,Not Specified,Mobile Developer,hh,no
+8a95ab26,Middle developer (DWH),"sql, postgresql",Без опыта,Not Specified,Data Engineer,hh,no
+c9e51808,Middle+ / Senior C#. NET Разработчик,".net, sql, postgresql, ci/cd, git, linux",От 1 года до 3 лет,Not Specified,Backend Developer,hh,no
+bdbd0a22,IOS разработчик (Middle),"ci/cd, git",От 3 до 6 лет,Not Specified,Mobile Developer,hh,no
+80d1f686,Ruby on Rails Middle Developer,"javascript, typescript, ruby, react, angular, sql, docker, html",От 1 года до 3 лет,Not Specified,Backend Developer,hh,no
+cbf3ad1f,Старший разработчик ETL процессов ( Data Engineer),"python, sql, postgresql",От 3 до 6 лет,Not Specified,Data Engineer,hh,no
+770f332d,Middle C# Developer,"javascript, ci/cd, git, html, css",От 1 года до 3 лет,Not Specified,Backend Developer,hh,no
+64d2e6ec,Разработчик PHP / Старший разработчик PHP/ Ведущий разработчик PHP (ДЦКЗ),ci/cd,От 1 года до 3 лет,Высшее образование,Backend Developer,hh,no
+66c7c735,C#/.NET-разработчик,sql,Более 6 лет,Not Specified,Backend Developer,hh,no
+ea538cac,Fullstack PHP-разработчик,"javascript, php, vue, nuxt, sql, mysql, redis, elasticsearch, git",Без опыта,Not Specified,Backend Developer,hh,no
+bf053064,Java-разработчик (Middle),"java, spring, sql, postgresql, redis, kafka, rabbitmq, docker, kubernetes, ci/cd, git, linux",От 1 года до 3 лет,Not Specified,Backend Developer,hh,no
+d4a99df6,Senior .NET Developer,".net, mysql",От 1 года до 3 лет,Not Specified,Backend Developer,hh,no
+37cad003,"Frontend developer (React, middle+/senior)","javascript, typescript, react, ci/cd",От 1 года до 3 лет,Not Specified,Frontend Developer,hh,no
+25b155c3,Главный разработчик Java,"java, sql, docker",От 1 года до 3 лет,Not Specified,Backend Developer,hh,no
+51504527,Frontend разработчик (Middle),"javascript, typescript, react, ci/cd, html, css",От 1 года до 3 лет,Not Specified,Frontend Developer,hh,no
+0dee2a68,Backend-разработчик,"javascript, php, vue, nuxt, mysql, redis, docker, ci/cd, git",Более 6 лет,Not Specified,Backend Developer,hh,no
+0808768e,Java-разработчик,"java, git",Без опыта,Not Specified,Backend Developer,hh,no
+d1f160e5,Senior Frontend Developer в Kaspi Delivery Team (в офисе),"javascript, typescript, react, vue, nuxt, docker, ci/cd, cypress, jest",От 1 года до 3 лет,Not Specified,Frontend Developer,hh,no
+f972a31c,Java Developer,"java, spring, sql, mongodb, kafka, rabbitmq, docker, kubernetes, ci/cd",От 1 года до 3 лет,Not Specified,Backend Developer,hh,no
+1b973ae3,Middle Java-разработчик,"java, spring, sql, postgresql, mongodb, redis, kafka, docker, kubernetes, ci/cd",Более 6 лет,Not Specified,Backend Developer,hh,no
+c3922ac2,Backend Developer (Go) + Python (Senior),"python, go, postgresql, redis, kafka, docker, kubernetes, ci/cd",От 1 года до 3 лет,Not Specified,Backend Developer,hh,no
+f20dd4ab,"Ведущий Backend разработчик (Java, Go)","java, go, spring, sql, redis, kafka, kubernetes",От 3 до 6 лет,Высшее образование,Backend Developer,hh,no
+f7c7898b,"Senior Java Developer, AWS","java, kafka",Без опыта,Not Specified,Backend Developer,hh,no
+551cc537,QA manual,"sql, ci/cd, git, linux, ui/ux",Более 6 лет,Not Specified,QA Engineer,hh,no
+e5475fe6,"Senior backend-разработчик (Python, PHP)","python, php, fastapi, sql, mysql",Без опыта,Not Specified,Backend Developer,hh,no
+0eff12ea,Full Stack developer (Back - Node/ Front - React),"javascript, react, express, postgresql, kafka",От 1 года до 3 лет,Not Specified,Full Stack Developer,hh,no
+af7febc7,PHP Developer,"javascript, php, react, vue, postgresql, mysql, mongodb, elasticsearch, rabbitmq, docker, git",От 1 года до 3 лет,Not Specified,Backend Developer,hh,no
+79e73335,Python Developer,"python, go, sql, docker, kubernetes, ci/cd",От 1 года до 3 лет,Not Specified,Backend Developer,hh,no
+8077ef25,Middle Frontend разработчик (React),"typescript, react",От 1 года до 3 лет,Высшее образование,Frontend Developer,hh,no
+1d88497d,PHP-разработчик,"javascript, php, react, vue, mysql, redis, git, bash, html, css",Более 6 лет,Высшее образование,Backend Developer,hh,no
+d50ede51,Системный администратор/инженер технической поддержки (IT Infrastructure & Retail Solutions),"python, postgresql, mysql, linux, bash",От 1 года до 3 лет,Высшее образование,DevOps Engineer,hh,no
+ea26af50,Junior IT Engineer / Python Developer (Video Surveillance),"python, linux",От 1 года до 3 лет,Not Specified,Backend Developer,hh,no
+76c77700,Senior специалист по информационной безопасности (IT Security),"postgresql, redis, docker, kubernetes, ci/cd, linux",Более 6 лет,Not Specified,Cybersecurity Analyst,hh,no
+bb0bc545,IOS Trainee,git,От 1 года до 3 лет,Not Specified,Mobile Developer,hh,no
+b1279c9e,Middle IOS разработчик,ci/cd,От 1 года до 3 лет,Not Specified,Mobile Developer,hh,no
+455f5d46,Senior IOS разработчик,"sql, ci/cd, ui/ux",От 1 года до 3 лет,Not Specified,Mobile Developer,hh,no
+90c7a29b,Mobile Developer (Swift / iOS),"ci/cd, git, ui/ux",От 1 года до 3 лет,Not Specified,Mobile Developer,hh,no
+7eb0183e,Middle IOS разработчик,"ci/cd, git, ui/ux",Более 6 лет,Not Specified,Mobile Developer,hh,no
+94ac4b02,Аналитик данных,"sql, git",Без опыта,Высшее образование,Data Analyst,hh,no
+38420f31,Аналитик данных,"sql, kafka",Более 6 лет,Not Specified,Data Analyst,hh,no
+6f17d832,Data Analyst,"python, sql, machine learning",От 1 года до 3 лет,Not Specified,Data Analyst,hh,no
+0cb493ee,Middle/Senior Data analyst в Kaspi shop,"python, sql, ml",Без опыта,Not Specified,Data Analyst,hh,no
+64c53316,Старший аналитик данных,"python, sql",От 3 до 6 лет,Not Specified,Data Analyst,hh,no
+3144057c,Аналитик данных (Product / Data Analyst) ОФ IQanat,"python, sql, git, pandas, numpy, html, css",Более 6 лет,Not Specified,QA Engineer,hh,no
+bb29d87d,Junior Data Analyst,sql,Более 6 лет,Not Specified,Data Analyst,hh,no
+f4afa8af,Аналитик данных в Департамент цифровизации проектов,"python, sql, pandas, numpy, scikit-learn",Более 6 лет,Not Specified,Data Analyst,hh,no
+1ab1a802,Data Analytics Manager (DWH/BI),sql,Более 6 лет,Not Specified,Data Engineer,hh,no
+ead72675,"Аналитик данных (Power BI, финансы/банки)","sql, git",От 1 года до 3 лет,Not Specified,Data Analyst,hh,no
+7b948202,Manager / Data Engineer / Analyst,sql,Более 6 лет,Not Specified,Data Engineer,hh,no
+c7e9ef93,Marketing Data Analyst/Маркетинговый аналитик,"python, sql",Более 6 лет,Not Specified,Data Analyst,hh,no
+1a9ee7c5,Data Engineer,"python, fastapi, sql, docker",От 1 года до 3 лет,Not Specified,Data Engineer,hh,no
+2cd03af4,Junior Data Analyst,"python, sql, pandas, numpy",От 1 года до 3 лет,Not Specified,Data Analyst,hh,no
+3d3343a0,Commercial Data Analyst,sql,От 1 года до 3 лет,Not Specified,Data Analyst,hh,no
+2c51bf68,Senior Data Analyst,sql,От 1 года до 3 лет,Not Specified,Data Analyst,hh,no
+5d7a7355,Аналитик данных,sql,От 1 года до 3 лет,Not Specified,Data Analyst,hh,no
+26afed77,BI-аналитик,sql,Более 6 лет,Not Specified,Data Analyst,hh,no
+2b2adf55,Senior Data Analyst,"python, sql, ci/cd",Без опыта,Высшее образование,Data Analyst,hh,no
+222d0825,Middle Data analyst (Лаборатория продуктов),"python, sql",Без опыта,Not Specified,Data Analyst,hh,no
+425b1f17,BI-аналитик,"python, sql, postgresql, mysql",Более 6 лет,Not Specified,Data Analyst,hh,no
+68124921,Data Engineer,"python, go, sql, redis, kafka",От 1 года до 3 лет,Not Specified,Data Engineer,hh,no
+9726de57,Senior Data Engineer,"sql, mysql, kafka, kubernetes",Без опыта,Not Specified,Data Engineer,hh,no
+d33d1dcb,Аналитик данных,sql,От 3 до 6 лет,Высшее образование,Data Analyst,hh,no
+a18bad59,Data Engineer,"python, sql, postgresql",От 3 до 6 лет,Not Specified,Data Engineer,hh,no
+33496c37,Analytics Data Engineer (DWH / BI Platform) Middle+ / Senior,"sql, kafka",От 3 до 6 лет,Not Specified,Data Engineer,hh,no
+99e3bce8,Middle Data Engineer,"sql, postgresql",От 1 года до 3 лет,Not Specified,Data Engineer,hh,no
+7c4755f7,Data analyst,sql,От 1 года до 3 лет,Not Specified,Data Analyst,hh,no
+b90ff33c,Data Analyst,sql,Более 6 лет,Not Specified,Data Analyst,hh,no
+10dbc201,Главный аналитик Управления внутренней безопасности,"sql, data science",Без опыта,Высшее образование,Cybersecurity Analyst,hh,no
+3d5d4687,Data Engineer (Insurance / Finance),"python, sql, postgresql, kafka",От 3 до 6 лет,Not Specified,Data Engineer,hh,no
+cac40898,Senior Data Analyst (Data Governance),"sql, postgresql",От 1 года до 3 лет,Not Specified,Data Analyst,hh,no
+76785717,QA Engineer (SaaS / EdTech),ci/cd,От 3 до 6 лет,Not Specified,QA Engineer,qyzmet,no
+4aeca10b,QA Engineer in Almaty,sql,От 1 года до 3 лет,Not Specified,QA Engineer,qyzmet,no
+1271d5ff,QA Engineer,"sql, postgresql",От 1 года до 3 лет,Not Specified,QA Engineer,qyzmet,no
+0aa9c402,Mobile QA Engineer (Middle),"java, ci/cd",От 1 года до 3 лет,Not Specified,QA Engineer,qyzmet,no
+cc25e87d,Manual QA Engineer (ELMA 365),"typescript, sql, postgresql",От 1 года до 3 лет,Not Specified,QA Engineer,qyzmet,no
+4db5d0ea,AQA Python engineer,"python, postgresql, mongodb, kafka, ci/cd, git",От 3 до 6 лет,Not Specified,QA Engineer,qyzmet,no
+31840ffa,QA Automation Engineer (Kotlin\Java),"java, ci/cd, git",От 1 года до 3 лет,Not Specified,QA Engineer,qyzmet,no
+ad74f893,Middle QA Engineer,"python, java, javascript, mongodb, ci/cd, data science, cypress",От 1 года до 3 лет,Not Specified,QA Engineer,qyzmet,no
+40b4d6c0,QA Engineer (gamedev),"git, linux",От 1 года до 3 лет,Not Specified,QA Engineer,qyzmet,no
+e6e3d060,QA engineer,"ci/cd, ml",От 1 года до 3 лет,Not Specified,QA Engineer,qyzmet,no
+a403fcf2,Support & QA Engineer,sql,От 1 года до 3 лет,Not Specified,QA Engineer,qyzmet,no
+a50a395f,QA Automation Engineer в офис Алматы,"javascript, ci/cd, git, linux",От 1 года до 3 лет,Not Specified,QA Engineer,qyzmet,no
+3231e21d,Middle QA Engineer,"python, sql, postgresql, ci/cd",От 1 года до 3 лет,Not Specified,QA Engineer,qyzmet,no
+e24ae42c,Тестировщик (QA Engineer) сектора аутстаффинга Департамента ИСЭЗ,sql,От 1 года до 3 лет,Высшее образование,QA Engineer,qyzmet,no
+50f1227f,QA engineer (Middle/Team Lead),"python, javascript, sql, docker, ci/cd, git",От 3 до 6 лет,Not Specified,QA Engineer,qyzmet,no
+a173a65e,QA-инженер,"sql, ci/cd, cypress",От 3 до 6 лет,Not Specified,QA Engineer,qyzmet,no
+39ff64b7,QA-инженер,"sql, postgresql",От 1 года до 3 лет,Not Specified,QA Engineer,qyzmet,no
+2bfe365e,QA инженер,"sql, git",От 1 года до 3 лет,Not Specified,QA Engineer,qyzmet,no
+fb5a166d,Full Stack Test Engineer Trainee,sql,От 1 года до 3 лет,Not Specified,Full Stack Developer,qyzmet,no
+3f6b07a5,QA инженер (Middle),"sql, postgresql, git",От 1 года до 3 лет,Not Specified,QA Engineer,qyzmet,no
+131253f2,Manual QA Engineer,"sql, git",От 3 до 6 лет,Not Specified,QA Engineer,qyzmet,no
+d57c1523,"QA Engineer (onsite, Almaty)","sql, ci/cd",От 3 до 6 лет,Not Specified,QA Engineer,qyzmet,no
+b755eb3c,Manual QA Engineer (Junior),git,От 1 года до 3 лет,Not Specified,QA Engineer,qyzmet,no
+ece5c65f,QA Engineer (Middle),"python, typescript, react, fastapi, sql, postgresql, docker, ci/cd, git",От 3 до 6 лет,Not Specified,QA Engineer,qyzmet,no
+5b0ab852,Инженер-тестировщик (QA engineer),linux,От 1 года до 3 лет,Высшее образование,QA Engineer,qyzmet,no
+29b2ee02,QA Engineer Junior (Mobile),mysql,От 1 года до 3 лет,Not Specified,QA Engineer,qyzmet,no
+07b455f5,Программист-тестировщик (QA Engineer),"python, java, javascript",От 1 года до 3 лет,Not Specified,QA Engineer,qyzmet,no
+ac967f3c,QA Automation Engineer (JavaScript),"javascript, cypress, jest",От 1 года до 3 лет,Not Specified,QA Engineer,qyzmet,no
+cc52da37,1. QA Automation Engineer (Banking / Mobile / API),"python, java, sql, ci/cd, git",От 3 до 6 лет,Not Specified,QA Engineer,qyzmet,no
+3a5ff862,QA инженер Middle/Middle+,"python, sql, postgresql, ci/cd",От 3 до 6 лет,Not Specified,QA Engineer,qyzmet,no
+c4855ec7,Manual QA инженер (Офис),"java, javascript, sql, html, css",От 3 до 6 лет,Not Specified,QA Engineer,qyzmet,no
+5f6eb415,Manual QA инженер (Middle),".net, sql, postgresql, redis, kafka, ci/cd",От 1 года до 3 лет,Not Specified,QA Engineer,qyzmet,no
+a7e4c8c4,Manual QA Engineer / Quality Assurance / Тестировщик,"sql, kafka, ci/cd",От 3 до 6 лет,Not Specified,QA Engineer,qyzmet,no
+cdcd8972,Automation QA Senior Engineer,"java, ci/cd",От 3 до 6 лет,Not Specified,QA Engineer,qyzmet,no
+6e17bbb3,Automation QA Middle Engineer,"python, javascript, sql, ci/cd",От 3 до 6 лет,Not Specified,QA Engineer,qyzmet,no
+9ecb5dca,Middle QA Engineer,"sql, docker, ci/cd, git, linux, figma",От 1 года до 3 лет,Not Specified,QA Engineer,qyzmet,no
+730f7390,QA Engineer (Middle+),"kubernetes, ci/cd, cypress",От 3 до 6 лет,Not Specified,QA Engineer,qyzmet,no
+65ae36e3,QA Automation Engineer (Mobile),"javascript, sql, git",От 1 года до 3 лет,Not Specified,QA Engineer,qyzmet,no
+9b8777f2,QA Engineer,"java, ci/cd, git",От 3 до 6 лет,Not Specified,QA Engineer,qyzmet,no
+4699cf99,QA Engineer,"python, java, javascript",От 1 года до 3 лет,Not Specified,QA Engineer,qyzmet,no
+bd29d1e1,Senior QA Test Automation Engineer,"java, sql, ci/cd",От 1 года до 3 лет,Not Specified,QA Engineer,qyzmet,no
+c8712fa4,Backend Developer (Kotlin) in Kazakhstan,"java, spring, sql, postgresql, redis, kafka, docker, kubernetes, ci/cd, git",От 3 до 6 лет,Not Specified,Mobile Developer,qyzmet,no
+e9b62f37,Mobile Developer (Flutter) + UI/UX (Senior),"ci/cd, ui/ux",От 3 до 6 лет,Not Specified,Mobile Developer,qyzmet,no
+ea010571,Python Developer,"python, go, sql, docker, kubernetes, ci/cd",От 3 до 6 лет,Not Specified,Backend Developer,qyzmet,no
+dc345b2d,Java Developer in Almaty,"java, spring, sql, postgresql, mysql, redis, kafka, rabbitmq, docker, kubernetes, ci/cd, git, linux",От 1 года до 3 лет,Not Specified,Backend Developer,qyzmet,no
+978bb5d3,Frontend-разработчик (Senior) Freedom AI Labs,"javascript, typescript, react, docker, kubernetes, ci/cd, css, tailwind",От 3 до 6 лет,Not Specified,Frontend Developer,qyzmet,no
+62fbbb22,Mobile Developer (React Native),"typescript, react, ci/cd, git",От 3 до 6 лет,Not Specified,Mobile Developer,qyzmet,no
+b22fb50d,Senior Developer (Flutter / Laravel / React),"javascript, react",От 1 года до 3 лет,Not Specified,Mobile Developer,qyzmet,no
+d116a513,Junior Frontend Developer (Angular),"javascript, typescript, angular, git, css, sass, tailwind",От 1 года до 3 лет,Not Specified,Frontend Developer,qyzmet,no
+0e14ed6c,Senior Fullstack Developer (Java / React),"java, javascript, react, spring, postgresql, redis, docker, ci/cd, figma",От 3 до 6 лет,Высшее образование,Frontend Developer,qyzmet,no
+c28581f7,Программист Mobile Developer,"javascript, react, ci/cd, git",От 1 года до 3 лет,Not Specified,Mobile Developer,qyzmet,no
+cbe9ce42,Mobile Developer (Swift / iOS),"ci/cd, git, ui/ux",От 3 до 6 лет,Not Specified,Mobile Developer,qyzmet,no
+675def8a,Mobile Developer (Kotlin / Android),"ci/cd, git, figma, ui/ux",От 3 до 6 лет,Not Specified,Mobile Developer,qyzmet,no
+dd5ff9fa,Android-разработчик,"java, ci/cd, git",От 1 года до 3 лет,Not Specified,Mobile Developer,qyzmet,no
+5856b6cc,Kotlin Developer,"java, spring, sql, postgresql, redis, kafka, docker, kubernetes, ci/cd, git",От 3 до 6 лет,Not Specified,Mobile Developer,qyzmet,no
+01ad7c48,Middle React Native Developer,"javascript, typescript, react, ci/cd",От 3 до 6 лет,Not Specified,Frontend Developer,qyzmet,no
+b4cc2f2e,Full-Stack Engineer (JavaScript/PHP),"javascript, php, sql, ci/cd",От 3 до 6 лет,Not Specified,Full Stack Developer,qyzmet,no
+f3e9fe26,React Native Senior Developer,"java, react, ci/cd, html, css, jest",От 3 до 6 лет,Not Specified,Frontend Developer,qyzmet,no
+2e9529f8,Data Engineer,"python, fastapi, sql",От 3 до 6 лет,Not Specified,Data Engineer,qyzmet,no
+0f67c7c9,Data Engineer,"postgresql, mysql, mongodb, kafka",От 3 до 6 лет,Not Specified,Data Engineer,qyzmet,no
+fd7d9e7b,Data Engineer,"python, go, sql, redis, kafka",От 1 года до 3 лет,Not Specified,Data Engineer,qyzmet,no
+0805344b,QA Automation Engineer (Kotlin\Java),"java, ci/cd, git",От 1 года до 3 лет,Not Specified,QA Engineer,qyzmet,no
+49c83690,MLOps/DevOps Specialist,"python, docker, kubernetes, ci/cd, linux, bash, ansible, terraform, ml, data science",От 1 года до 3 лет,Not Specified,Data Scientist,qyzmet,no
+13d77330,Senior Data Engineer,"sql, mysql, kafka, kubernetes",От 3 до 6 лет,Not Specified,Data Engineer,qyzmet,no
+7efa7e9f,Data engineer,"sql, kafka",От 3 до 6 лет,Not Specified,Data Engineer,qyzmet,no
+9d38f7bb,Главный Data Engineer,sql,От 1 года до 3 лет,Not Specified,Data Engineer,qyzmet,no
+84c6b726,Эксперт data engineer,"sql, kafka",От 3 до 6 лет,Not Specified,Data Engineer,qyzmet,no
+4d752904,DevOps Engineer,"docker, kubernetes, ci/cd, linux, ansible, terraform",От 3 до 6 лет,Not Specified,DevOps Engineer,qyzmet,no
+496083d6,Senior AI / ML Engineer (Applied AI Systems Lead),"python, fastapi, sql, docker, kubernetes, ml, pandas",От 3 до 6 лет,Not Specified,Data Scientist,qyzmet,no
+39747052,Data Engineer,"python, sql, postgresql",От 1 года до 3 лет,Not Specified,Data Engineer,qyzmet,no
+616ee735,Middle Data Engineer,"python, fastapi, sql, postgresql, docker, ci/cd, git, pandas",От 1 года до 3 лет,Высшее образование,Data Engineer,qyzmet,no
+9eecace8,Data Engineer / BI Engineer,"python, sql, postgresql, kafka, rabbitmq",От 1 года до 3 лет,Not Specified,Data Engineer,qyzmet,no
+bf970cd5,Manager / Data Engineer / Analyst,sql,От 1 года до 3 лет,Not Specified,Data Engineer,qyzmet,no
+5bb8127f,Data Engineer (DWH),"sql, postgresql",От 3 до 6 лет,Not Specified,Data Engineer,qyzmet,no
+d84470aa,Старший разработчик ETL процессов ( Data Engineer),"python, sql, postgresql",От 3 до 6 лет,Not Specified,Data Engineer,qyzmet,no
+7fb060ea,Middle QA Engineer,"python, java, javascript, mongodb, ci/cd, data science, cypress",От 1 года до 3 лет,Not Specified,QA Engineer,qyzmet,no
+309d67ae,Test Automation Engineer | SDET | Middle+ | Python,"python, kubernetes, ci/cd",От 3 до 6 лет,Not Specified,Backend Developer,qyzmet,no
+1342c9e7,AI Engineer (Backend / Python),"python, fastapi, django, postgresql, redis, docker, numpy, scikit-learn",От 3 до 6 лет,Not Specified,Backend Developer,qyzmet,no
+6f17642b,Senior ML Engineer (LLM / RAG),"python, fastapi, sql, elasticsearch, docker, ci/cd, ml",От 3 до 6 лет,Not Specified,Data Scientist,qyzmet,no
+e2681071,Middle Data Engineer (Lakehouse / Big Data),"python, sql, postgresql",От 3 до 6 лет,Not Specified,Data Engineer,qyzmet,no
+0ca2defd,Middle Data Engineer (Отдел развития и внедрения AI),"python, sql, postgresql, kafka, ml, data science, pandas",От 3 до 6 лет,Not Specified,Data Engineer,qyzmet,no
+6ee95fa4,Middle Data Engineer,"sql, postgresql",От 1 года до 3 лет,Not Specified,Data Engineer,qyzmet,no
+e67cc8a1,Data Engineer,"python, fastapi, sql, docker",От 1 года до 3 лет,Not Specified,Data Engineer,qyzmet,no
+f0faf3ab,Middle Data Engineer,"sql, postgresql",От 1 года до 3 лет,Not Specified,Data Engineer,qyzmet,no
+4c5ccb93,Data Engineer (Insurance / Finance),"python, sql, postgresql, kafka",От 3 до 6 лет,Not Specified,Data Engineer,qyzmet,no
+0e25a08f,Junior DevOps Engineer (Azure),"python, javascript, typescript, php, sql, postgresql, mysql, mongodb, redis, docker, kubernetes, ci/cd, git, bash, ansible, terraform, html",От 1 года до 3 лет,Not Specified,DevOps Engineer,qyzmet,no
+d5986432,Senior Machine Learning Engineer,"python, fastapi, sql, postgresql, redis, docker, kubernetes, ci/cd, git, machine learning, ml, data science",От 3 до 6 лет,Not Specified,Data Scientist,qyzmet,no
+2779d410,Senior Backend Engineer (Laravel / Event-Driven / High Load),"php, mysql, redis, kafka, docker",От 3 до 6 лет,Not Specified,Backend Developer,qyzmet,no
+4d1b8519,Data Engineer (Analytics),"python, sql, postgresql, mysql, pandas, numpy",От 3 до 6 лет,Not Specified,Data Engineer,qyzmet,no
+e1e72238,Data engineer (Middle),"python, sql, postgresql, redis, kafka, docker, git, linux, ml",От 1 года до 3 лет,Not Specified,Data Engineer,qyzmet,no
+71d0c18f,Senior Data Engineer (Greenplum),"sql, kafka, ml",Более 6 лет,Not Specified,Data Engineer,qyzmet,no
+b0ef59ba,Data Engineer,"python, sql, rabbitmq, docker, k8s, git, pandas",От 3 до 6 лет,Not Specified,Data Engineer,qyzmet,no
+0dab665f,Data Engineer в Направление системного анализа,sql,От 3 до 6 лет,Not Specified,Data Engineer,qyzmet,no
+27059c39,DevOps Engineer,"python, php, mysql, docker, ci/cd, linux, bash, ansible",От 3 до 6 лет,Not Specified,DevOps Engineer,qyzmet,no
+d7e67dd1,Senior Data Engineer,"sql, ml",Более 6 лет,Not Specified,Data Engineer,qyzmet,no
+27646e5a,Middle ML engineer,"python, fastapi, postgresql, redis, kafka, docker, ml, pytorch",От 3 до 6 лет,Not Specified,Data Scientist,qyzmet,no
+f517c4be,Analytics Data Engineer (DWH / BI Platform) Middle+ / Senior,"sql, kafka",От 3 до 6 лет,Not Specified,Data Engineer,qyzmet,no
+c7222934,Data Scientist,"python, fastapi, sql, docker, git, ml, data science, pandas, numpy, scikit-learn, pytorch, tensorflow",От 3 до 6 лет,Высшее образование,Data Scientist,qyzmet,no
+7397591e,Data Engineer,"python, sql, postgresql, ml, pandas",От 3 до 6 лет,Not Specified,Data Engineer,qyzmet,no
+94f420fe,DevOps Engineer/L2,"mysql, mongodb, redis, kafka, rabbitmq, kubernetes, ci/cd, linux",Более 6 лет,Not Specified,DevOps Engineer,qyzmet,no
+0afaf6fd,Middle Machine Learning Engineer – Financial Applications,"python, machine learning, data science, scikit-learn, pytorch",От 3 до 6 лет,Not Specified,Data Scientist,qyzmet,no
+971ad92f,Full-Stack Developer (Middle),"java, javascript, go, vue, spring, sql, postgresql, mysql, docker, ci/cd, git",От 3 до 6 лет,Not Specified,Full Stack Developer,qyzmet,no
+59afd369,Full-Stack Developer (Python / TypeScript),"python, typescript, react, fastapi, sql, postgresql, redis, kafka, docker, kubernetes, ci/cd, ml, tailwind",От 3 до 6 лет,Not Specified,Full Stack Developer,qyzmet,no
+dfe405c1,General/Full-Stack QA - specialist,"javascript, docker, ci/cd, figma",От 3 до 6 лет,Not Specified,Full Stack Developer,qyzmet,no
+9d5cec1b,Full-stack разработчик (Middle),"python, fastapi, django, git",От 1 года до 3 лет,Not Specified,Full Stack Developer,qyzmet,no
+aa54bc31,Full Stack developer (Back - Node/ Front - React),"javascript, react, express, postgresql, kafka",От 3 до 6 лет,Not Specified,Full Stack Developer,qyzmet,no
+627127bb,Видеограф / Motion-дизайнер (Full-stack контент-мейкер),figma,От 1 года до 3 лет,Not Specified,Full Stack Developer,qyzmet,no
+6746a43e,Fullstack PHP-разработчик,"javascript, php, vue, nuxt, sql, mysql, redis, elasticsearch, git",От 1 года до 3 лет,Not Specified,Backend Developer,qyzmet,no
+f9293e30,Senior Frontend Developer в Kaspi Delivery Team (в офисе),"javascript, typescript, react, vue, nuxt, docker, ci/cd, cypress, jest",Более 6 лет,Not Specified,Frontend Developer,qyzmet,no
+ea8aa05a,Frontend-разработчик,"javascript, typescript, react, angular, git, ui/ux",От 3 до 6 лет,Not Specified,Frontend Developer,qyzmet,no
+75ab1144,Full-Stack Инженер,"javascript, typescript, react, express, sql, postgresql, mysql, docker, ci/cd, git",От 3 до 6 лет,Not Specified,Full Stack Developer,qyzmet,no
+9b658695,Full Stack разработчик (Python / FastAPI + React),"python, react, fastapi, sql, postgresql, redis, kafka, rabbitmq, docker, ci/cd",От 1 года до 3 лет,Not Specified,Full Stack Developer,qyzmet,no
+a4ad12ed,Fullstack-разработчик (Java),"java, react, vue",От 1 года до 3 лет,Not Specified,Backend Developer,qyzmet,no
+fb8224c7,"Разработчик (флуттер), Отдел по проекту QazaqGaz","postgresql, mysql, git",Более 6 лет,Not Specified,QA Engineer,qyzmet,no
+637d9282,Fullstack разработчик (Java/Kotlin + Angular),"java, typescript, react, angular, spring, postgresql, redis, docker, kubernetes",От 3 до 6 лет,Not Specified,Mobile Developer,qyzmet,no
+287a8e22,"Frontend developer (React, middle+/senior)","javascript, typescript, react, ci/cd",От 3 до 6 лет,Not Specified,Frontend Developer,qyzmet,no
+4f759121,Middle Backend Developer (NodeJS),"javascript, typescript, react, express, postgresql, mongodb, redis, docker, ci/cd, git, data science",От 3 до 6 лет,Not Specified,Backend Developer,qyzmet,no
+cc62536f,Frontend-разработчик,"javascript, react, git",От 1 года до 3 лет,Not Specified,Frontend Developer,qyzmet,no
+86badaae,Full Stack Test Engineer Trainee,sql,От 1 года до 3 лет,Not Specified,Full Stack Developer,qyzmet,no
+f3b8f10b,Senior Full Stack Developer / Product Engineer,"python, javascript, typescript, php, react, vue, postgresql, mysql",От 3 до 6 лет,Not Specified,Full Stack Developer,qyzmet,no
+c82fc7c2,"Tech Lead / Full Stack Lead (MedusaJS, Node.js, React)","javascript, react, express, postgresql, redis, kafka, rabbitmq, ci/cd",От 3 до 6 лет,Not Specified,Full Stack Developer,qyzmet,no
+472d661e,Senior Full-stack Developer,"javascript, typescript, go, react, sql, kafka, docker, kubernetes, ci/cd",От 1 года до 3 лет,Not Specified,Full Stack Developer,qyzmet,no
+b3876122,Middle/Senior Full-Stack Developer (C# / JS),"javascript, .net, vue",От 1 года до 3 лет,Not Specified,Full Stack Developer,qyzmet,no
+f944f2d9,"Full stack разработчик веб приложений, сайтов и мобильных приложений","javascript, html, css",От 3 до 6 лет,Not Specified,Full Stack Developer,qyzmet,no
+9ff248b8,"Tech Lead / Lead JavaScript AR Developer (A‑Frame / Three.js, React, Next.js, Node.js, Go)","javascript, go, react, docker, ci/cd, git, html, css",От 1 года до 3 лет,Not Specified,Frontend Developer,qyzmet,no
+fcb9d5fd,Senior Typescript/Node JS разработчик,"javascript, typescript, react, express, postgresql, docker, html, css, tailwind",Более 6 лет,Not Specified,Backend Developer,qyzmet,no
+70c1077a,Backend-разработчик (midle/junior/стажёр),"python, javascript, react, vue, git, html, css",От 1 года до 3 лет,Not Specified,Backend Developer,qyzmet,no
+2c22f7cd,Support / DevOps Engineer,"python, javascript, typescript, react, express, sql, postgresql, docker, git, linux, bash",От 1 года до 3 лет,Not Specified,DevOps Engineer,qyzmet,no
+e88919a7,FullStack - разработчик 1C-Bitrix CMS | WP | JS | PHP,"javascript, php, vue, sql, mysql, git, html, css",От 1 года до 3 лет,Not Specified,Backend Developer,qyzmet,no
+faf9aba0,Senior Developer (Flutter / Laravel / React),"javascript, react",От 1 года до 3 лет,Not Specified,Mobile Developer,qyzmet,no
+d65c949c,Full-Stack Developer,"javascript, typescript, react",От 1 года до 3 лет,Not Specified,Full Stack Developer,qyzmet,no
+0be6b697,Middle Full-Stack Developer Web Platform,"javascript, typescript, react, vue, express, postgresql, mongodb, docker, ci/cd, git",От 3 до 6 лет,Not Specified,Full Stack Developer,qyzmet,no
+865d71e1,"Full-stack разработчик (AI / ChatGPT, мобильное приложение)","python, javascript",От 1 года до 3 лет,Not Specified,Full Stack Developer,qyzmet,no
+0ca1f6fc,Full-Stack JS developer (Ментор),"javascript, react, sql, git, html, css",От 1 года до 3 лет,Студент,Full Stack Developer,qyzmet,no
+b5e51c47,"Fullstack-разработчик (PostgreSQL, Java , Vue.js)","java, javascript, typescript, vue, spring, postgresql, css, sass, ui/ux",От 3 до 6 лет,Not Specified,Frontend Developer,qyzmet,no
+ee5e1a25,Fullstack Javascript/Typescript Developer,"python, java, javascript, typescript, go, php, react, angular, vue, express, django, spring, postgresql, mysql, mongodb, redis, kafka, rabbitmq, docker, ci/cd, git, linux, ml",От 1 года до 3 лет,Not Specified,Backend Developer,qyzmet,no
+9c1f7095,Ведущий инженер (Python backend developer) сектор аутстаффинг,"python, javascript, php, vue, fastapi, django, sql, postgresql, mysql, kafka",Без опыта,Not Specified,Backend Developer,qyzmet,no
+6645470c,Middle Fullstack / Backend Developer (AI-Native Architect),"python, javascript, postgresql, redis, docker, ci/cd",От 3 до 6 лет,Not Specified,Backend Developer,qyzmet,no
+94ccdb58,"AI-first Full Stack Developer (Node.js, React, PostgreSQL)","javascript, typescript, react, postgresql, docker",Более 6 лет,Not Specified,Full Stack Developer,qyzmet,no
+8fd80edc,"Full-Stack developer | React, Next.js, Node.js, Python","python, javascript, react",От 3 до 6 лет,Not Specified,Full Stack Developer,qyzmet,no
+c6e0bf7a,Senior Fullstack-разработчик (Go + React Native),"java, go, golang, react, sql, postgresql, redis, kafka, rabbitmq, docker, ci/cd, tailwind, jest",От 3 до 6 лет,Not Specified,Frontend Developer,qyzmet,no
+19462e07,Middle Frontend Developer (React native),"javascript, typescript, react, express, postgresql, mongodb, redis, docker, git, data science",От 1 года до 3 лет,Not Specified,Frontend Developer,qyzmet,no
+e569e48e,React Native Senior Developer,"java, react, ci/cd, html, css, jest",От 3 до 6 лет,Not Specified,Frontend Developer,qyzmet,no
+1b31365e,Senior / Lead Full-Stack Developer (Python/Django/FastAPI + Vue/PrimeVue),"python, javascript, react, vue, fastapi, django, postgresql, docker, ci/cd, linux",Более 6 лет,Not Specified,Full Stack Developer,qyzmet,no
+0bdab445,Tech Lead / System Architect (Golang| Distributed Systems & IoT),"go, golang, postgresql, ci/cd, linux",От 3 до 6 лет,Not Specified,Backend Developer,qyzmet,no
+7cafe161,React/NodeJS разработчик - Программист Junior/Middle,"javascript, react, sql, git",От 3 до 6 лет,Not Specified,Frontend Developer,qyzmet,no
+440a1527,Ведущий Full Stack Разработчик,"javascript, typescript, react, sql, kubernetes, git, linux",От 3 до 6 лет,Not Specified,Full Stack Developer,qyzmet,no
+779c91e2,Full stack разработчик,"javascript, typescript, php, react, vue, git, css",От 3 до 6 лет,Not Specified,Full Stack Developer,qyzmet,no
+684e2b27,Full-Stack WEB-разработчик,"javascript, php, react, sql, git, html, css, figma",Более 6 лет,Not Specified,Full Stack Developer,qyzmet,no
+831c8f73,Data Scientist,"python, sql, docker, machine learning, data science, pandas, numpy, scikit-learn, pytorch, tensorflow",От 3 до 6 лет,Not Specified,Data Scientist,qyzmet,no
+fcbdf97f,Data Scientist,"python, ml, data science, pandas, numpy, scikit-learn, pytorch, tensorflow",От 3 до 6 лет,Not Specified,Data Scientist,qyzmet,no
+8c6c94a3,Middle Data Scientist,"python, sql, machine learning, ml",От 3 до 6 лет,Высшее образование,Data Scientist,qyzmet,no
+b5aa9279,Middle Data Scientist (Отдел развития и внедрения AI),"python, sql, postgresql, git, ml, data science, pandas, numpy, scikit-learn",От 1 года до 3 лет,Not Specified,Data Scientist,qyzmet,no
+abacd20d,Data Scientist,"python, java, golang, sql, postgresql, linux, ml, data science, pandas, numpy, scikit-learn, pytorch",Более 6 лет,Not Specified,Data Scientist,qyzmet,no
+f75a9e6b,Senior Data Scientist,"python, sql, ci/cd",От 3 до 6 лет,Высшее образование,Data Scientist,qyzmet,no
+5bd3cef0,"Senior Data Scientist, Отдел развития и внедрения AI","python, sql, postgresql, git, machine learning, ml, data science, pandas, numpy, scikit-learn",От 3 до 6 лет,Not Specified,Data Scientist,qyzmet,no
+e16833ed,Lead Data Scientist,"python, sql, ml, data science, pandas, numpy, scikit-learn",От 3 до 6 лет,Высшее образование,Data Scientist,qyzmet,no
+d2b0cefa,ML-инженер/Data Scientist,"python, sql, machine learning, ml, pandas, numpy, scikit-learn",От 3 до 6 лет,Высшее образование,Data Scientist,qyzmet,no
+88aedb52,Data Analyst,"python, sql, ci/cd, git, ml",От 1 года до 3 лет,Not Specified,Data Analyst,qyzmet,no
+d6b40b30,Middle/Senior Data analyst в Kaspi shop,"python, sql, ml",От 1 года до 3 лет,Not Specified,Data Analyst,qyzmet,no
+f6aaebd2,Junior Data Analyst,sql,От 1 года до 3 лет,Not Specified,Data Analyst,qyzmet,no
+d4e82ee8,Senior Data Analyst,"python, sql, ci/cd",От 1 года до 3 лет,Высшее образование,Data Analyst,qyzmet,no
+912537f7,Manager / Data Engineer / Analyst,sql,От 1 года до 3 лет,Not Specified,Data Engineer,qyzmet,no
+b00cc924,Аналитик данных / Marketing Data Analyst — международная онлайн-школа K-12,"python, sql",От 1 года до 3 лет,Not Specified,Data Analyst,qyzmet,no
+f8fcb118,Senior Data Analyst (Data Governance),"sql, postgresql",От 3 до 6 лет,Not Specified,Data Analyst,qyzmet,no
+84fbbf55,Data Analyst,"python, sql, machine learning",От 1 года до 3 лет,Not Specified,Data Analyst,qyzmet,no
+f82cc0cb,Junior Data Analyst,"python, sql, pandas, numpy",От 1 года до 3 лет,Not Specified,Data Analyst,qyzmet,no
+666f5bd6,Аналитик данных (Product / Data Analyst) ОФ IQanat,"python, sql, git, pandas, numpy, html, css",От 3 до 6 лет,Not Specified,QA Engineer,qyzmet,no
+63ddbfd4,"Data Analyst (Junior/middle), Департамент по взысканию проблемных кредитов",sql,От 1 года до 3 лет,Высшее образование,Data Analyst,qyzmet,no
+fb9f56cd,"Tech Lead / Full Stack Lead (MedusaJS, Node.js, React)","javascript, react, express, postgresql, redis, kafka, rabbitmq, ci/cd",От 3 до 6 лет,Not Specified,Full Stack Developer,qyzmet,no
+25a9feda,Commercial Data Analyst,sql,От 3 до 6 лет,Not Specified,Data Analyst,qyzmet,no
+c400d69f,Аналитик данных / Data Analyst,"python, sql, docker, git, ml, pandas, numpy",От 1 года до 3 лет,Not Specified,Data Analyst,qyzmet,no
+11c29b36,Middle Data analyst (Лаборатория продуктов),"python, sql",От 1 года до 3 лет,Not Specified,Data Analyst,qyzmet,no
+7afc9774,Marketing Data Analyst/Маркетинговый аналитик,"python, sql",От 1 года до 3 лет,Not Specified,Data Analyst,qyzmet,no
+83643cdd,Data analyst (Senior),sql,От 1 года до 3 лет,Not Specified,Data Analyst,qyzmet,no
+8a083f97,Data analyst,sql,От 3 до 6 лет,Not Specified,Data Analyst,qyzmet,no
+fc4dd344,Senior Data Analyst,sql,От 3 до 6 лет,Not Specified,Data Analyst,qyzmet,no
+12f99711,Data Analyst / Product Owner,"python, sql",Более 6 лет,Not Specified,Data Analyst,qyzmet,no
+a20b24e1,Data Analyst (Junior) в Департамент кредитных рисков,"python, sql, pandas",От 1 года до 3 лет,Not Specified,Data Analyst,qyzmet,no
+c2dcb99a,Data Analyst (Аналитик данных),"python, sql, ml",От 1 года до 3 лет,Not Specified,Data Analyst,qyzmet,no
+8856d220,DevOps-инженер,"python, docker, kubernetes, ci/cd, git, linux, bash, ansible, terraform",От 1 года до 3 лет,Not Specified,DevOps Engineer,qyzmet,no
+f19416ea,DevOps Engineer,"python, golang, kubernetes, linux, bash, ansible, terraform",От 3 до 6 лет,Not Specified,DevOps Engineer,qyzmet,no
+505e3d04,DevOps-инженер,"python, docker, kubernetes, ci/cd, git, linux, bash, ansible, terraform",От 1 года до 3 лет,Not Specified,DevOps Engineer,qyzmet,no
+e1df014d,DevOps Engineer (FinTech),"python, docker, kubernetes, ci/cd, ansible, terraform, ml",От 1 года до 3 лет,Not Specified,DevOps Engineer,qyzmet,no
+58e4df40,Senior DevOps Engineer,"python, go, docker, kubernetes, ci/cd, git, linux, bash, ansible, terraform",Без опыта,Not Specified,DevOps Engineer,qyzmet,no
+82ccb45d,DevOps-инженер,"postgresql, docker, kubernetes, linux, bash",От 1 года до 3 лет,Not Specified,DevOps Engineer,qyzmet,no
+bfece71d,DevOps-инженер,"sql, mysql, k8s, ci/cd, linux",От 1 года до 3 лет,Not Specified,DevOps Engineer,qyzmet,no
+2bb25af7,Стажер Support Engineer/ DevOps (IoT/Linux),"docker, linux, bash",Более 6 лет,Not Specified,DevOps Engineer,qyzmet,no
+3beb6e79,Тимлид разработки (PHP/Laravel),"php, postgresql, redis, kafka, rabbitmq, docker, ci/cd",Более 6 лет,Not Specified,Backend Developer,qyzmet,no
+fe811c9a,AQA Python engineer,"python, postgresql, mongodb, kafka, ci/cd, git",От 3 до 6 лет,Not Specified,QA Engineer,qyzmet,no
+6d861322,Инженер информационной безопасности (SecOps),"python, linux, bash",От 3 до 6 лет,Not Specified,Cybersecurity Analyst,qyzmet,no
+970bb713,DevOps-инженер,"python, mysql, docker, ci/cd, linux, bash, ansible, terraform",От 1 года до 3 лет,Not Specified,DevOps Engineer,qyzmet,no
+7b476c25,DevOps Trainee,"ci/cd, linux",От 1 года до 3 лет,Not Specified,DevOps Engineer,qyzmet,no
+5f17c8f1,DevOps Engineer,"docker, ci/cd, linux",От 1 года до 3 лет,Not Specified,DevOps Engineer,qyzmet,no
+8b881a7a,DevOps-инженер,"python, go, postgresql, docker, kubernetes, ci/cd, linux, bash, ansible, terraform",От 3 до 6 лет,Not Specified,DevOps Engineer,qyzmet,no
+8b7d1a61,Senior DevOps Engineer,"python, postgresql, mysql, redis, docker, kubernetes, ci/cd, linux, bash, ansible, terraform",От 3 до 6 лет,Not Specified,DevOps Engineer,qyzmet,no
+254963f6,Старший DevOps инженер,"docker, kubernetes, ci/cd, linux",От 3 до 6 лет,Not Specified,DevOps Engineer,qyzmet,no
+38068159,Middle DevOps Engineer,"docker, ci/cd, git, linux, ansible, terraform",От 3 до 6 лет,Not Specified,DevOps Engineer,qyzmet,no
+06cbfba2,Software Engineer in DevOps \ Инженер-программист в области DevOps,"python, go, docker, kubernetes, git, linux, ansible, terraform",От 3 до 6 лет,Not Specified,DevOps Engineer,qyzmet,no
+3e758bda,Team Lead DevOps engineer,"redis, ci/cd, linux, bash, ansible",От 3 до 6 лет,Not Specified,DevOps Engineer,qyzmet,no
+c3f4147b,Senior Lead DevOps engineer,"python, postgresql, elasticsearch, kubernetes, k8s, linux, ansible",Более 6 лет,Not Specified,DevOps Engineer,qyzmet,no
+27fb88bc,Старший администратор (Devops/Linux),"python, java, sql, postgresql, mysql, docker, kubernetes, ci/cd, linux, bash, ansible",От 3 до 6 лет,Высшее образование,DevOps Engineer,qyzmet,no
+7f4ec4d8,DevOps-инженер,"postgresql, mysql, mongodb, redis, kafka, rabbitmq, kubernetes, ci/cd, git, linux",От 3 до 6 лет,Not Specified,DevOps Engineer,qyzmet,no
+995faba1,Senior DevOps инженер,"kubernetes, ci/cd, terraform",От 3 до 6 лет,Not Specified,DevOps Engineer,qyzmet,no
+8164b06d,Middle C# Developer,"javascript, ci/cd, git, html, css",От 1 года до 3 лет,Not Specified,Backend Developer,qyzmet,no
+5d9edd61,Эксперт Департамента инфраструктуры и техподдержки Направление администрирования баз данных,"postgresql, linux",От 3 до 6 лет,Высшее образование,DevOps Engineer,qyzmet,no
+7bb961e9,Backend-разработчик,"python, java, javascript, php, sql",От 1 года до 3 лет,Not Specified,Backend Developer,qyzmet,no
+bc6b4f90,Golang-Developer (Senior),"python, go, golang, mysql, kafka, rabbitmq, docker, kubernetes, ci/cd",Более 6 лет,Not Specified,Backend Developer,qyzmet,no
+95ad1def,"Администратор 1С ( серверы, базы данных)","postgresql, docker, git, linux, bash",От 3 до 6 лет,Not Specified,Backend Developer,qyzmet,no
+f9301aca,Full-Stack Инженер,"javascript, typescript, react, express, sql, postgresql, mysql, docker, ci/cd, git",От 3 до 6 лет,Not Specified,Full Stack Developer,qyzmet,no
+969eb21c,Инженер Информационной безопасности (AppSec),"python, java, javascript, typescript, docker, kubernetes, ci/cd, git",От 3 до 6 лет,Высшее образование,Cybersecurity Analyst,qyzmet,no
+0c23c713,Тестировщик (манульное),"sql, postgresql, ci/cd, ui/ux, cypress",От 1 года до 3 лет,Not Specified,QA Engineer,qyzmet,no
+acf488f0,Senior AI Architect / Архитектор ИИ-ассистентов и инфраструктуры,"python, fastapi, elasticsearch, docker, kubernetes, ci/cd, ml",Более 6 лет,Not Specified,DevOps Engineer,qyzmet,no
+47c1b75f,DevOps Engineer,"python, postgresql, mysql, redis, docker, kubernetes, ci/cd, linux, bash, ansible, terraform",От 3 до 6 лет,Not Specified,DevOps Engineer,qyzmet,no
+e151d4df,DevOps-инженер,"javascript, php, docker, kubernetes, ci/cd, git, linux",От 1 года до 3 лет,Not Specified,DevOps Engineer,qyzmet,no
+e6a6094e,Support / DevOps Engineer,"python, javascript, typescript, react, express, sql, postgresql, docker, git, linux, bash",От 1 года до 3 лет,Not Specified,DevOps Engineer,qyzmet,no
+ca82fd32,Senior DevOps-инженер,ci/cd,От 3 до 6 лет,Not Specified,DevOps Engineer,qyzmet,no
+60577821,AI-first DevOps (+Python),"python, docker, kubernetes, ci/cd, bash, ansible, terraform, ml",От 3 до 6 лет,Not Specified,DevOps Engineer,qyzmet,no
+693c560b,DevOps-инженер в команду базовой инфраструктуры,"python, go, postgresql, redis, kafka, rabbitmq, docker, kubernetes, k8s, ci/cd, git, bash, ansible, terraform",От 3 до 6 лет,Not Specified,DevOps Engineer,qyzmet,no
+3be14715,Старший DevOps-инженер сектора аутстаффинга Департамента информационных технологий,"python, go, postgresql, mysql, redis, elasticsearch, docker, kubernetes, ci/cd, git, linux, bash, ansible, terraform",От 1 года до 3 лет,Высшее образование,DevOps Engineer,qyzmet,no
+67eec97d,Team Lead DevOps / Infrastructure Engineer,"postgresql, rabbitmq, docker, kubernetes, ci/cd, linux",От 3 до 6 лет,Not Specified,DevOps Engineer,qyzmet,no
+d26b0f64,QA-инженер,"sql, ci/cd, cypress",От 3 до 6 лет,Not Specified,QA Engineer,qyzmet,no
+249dfc05,Senior Full-stack Developer,"javascript, typescript, go, react, sql, kafka, docker, kubernetes, ci/cd",От 1 года до 3 лет,Not Specified,Full Stack Developer,qyzmet,no
+97087dda,Системный администратор,"php, sql, postgresql, docker, linux, bash",От 1 года до 3 лет,Not Specified,DevOps Engineer,qyzmet,no
+b67f53a5,Системный администратор,linux,От 3 до 6 лет,Высшее образование,DevOps Engineer,qyzmet,no
+9984522e,"Администратор 1С ( серверы, базы данных)","postgresql, docker, git, linux, bash",От 3 до 6 лет,Not Specified,Backend Developer,qyzmet,no
+cda39261,Senior Backend Разработчик (Go + PHP),"go, php, sql, postgresql, redis, kafka, rabbitmq",От 3 до 6 лет,Not Specified,Backend Developer,qyzmet,no
+ad261cc4,Senior специалист по информационной безопасности (IT Security),"postgresql, redis, docker, kubernetes, ci/cd, linux",От 3 до 6 лет,Not Specified,Cybersecurity Analyst,qyzmet,no
+f21a25e6,Старший архитектор решений по информационной безопасности,"python, java, spring, kafka, rabbitmq, docker, kubernetes, ci/cd",От 3 до 6 лет,Высшее образование,Cybersecurity Analyst,qyzmet,no
+532d88c7,DevOps Engineer,"postgresql, mongodb, kafka, docker, kubernetes, linux, ansible, terraform",От 1 года до 3 лет,Not Specified,DevOps Engineer,qyzmet,no
+4190ed10,DevOps-разработчик,"python, docker, kubernetes, ci/cd, linux, bash, ansible, terraform",От 1 года до 3 лет,Not Specified,DevOps Engineer,qyzmet,no
+c2b9b322,DevOps Engineer,"python, php, mysql, docker, ci/cd, linux, bash, ansible",От 3 до 6 лет,Not Specified,DevOps Engineer,qyzmet,no
+073fe692,Senior DevOps engineer,"kubernetes, ci/cd, linux",От 3 до 6 лет,Not Specified,DevOps Engineer,qyzmet,no
+e5f5fdf9,DevOps инженер (Middle / Senior),"sql, postgresql, redis, rabbitmq, docker, kubernetes, ci/cd, linux, ansible",От 3 до 6 лет,Not Specified,DevOps Engineer,qyzmet,no
+3f545219,Ведущий инженер (DevOps Engineer) сектор аутстаффинг,"python, docker, kubernetes, ci/cd, linux, bash, ansible, terraform",Более 6 лет,Not Specified,DevOps Engineer,qyzmet,no
+129206bb,DevOps разработчик,"django, postgresql, redis, docker, git",От 1 года до 3 лет,Not Specified,DevOps Engineer,qyzmet,no
+4c948bb8,DevOps / SysAdmin,"postgresql, docker, kubernetes, k8s, ci/cd, linux, bash, ansible, terraform",От 1 года до 3 лет,Not Specified,DevOps Engineer,qyzmet,no
+043106bd,Senior DevOps инженер / Направление моделирования и внутренней валидации,"postgresql, docker, kubernetes, k8s, ci/cd, ml, data science",От 1 года до 3 лет,Not Specified,DevOps Engineer,qyzmet,no
+b96c3f86,DevOps-инженер в Направление развития платформы и каналов коммуникаций,"python, go, kafka, rabbitmq, ci/cd, linux, bash",От 1 года до 3 лет,Высшее образование,DevOps Engineer,qyzmet,no
+cba1f176,Senior Python Backend Engineer,"python, fastapi, django, postgresql, redis, rabbitmq, docker, ci/cd, linux",От 3 до 6 лет,Not Specified,Backend Developer,qyzmet,no
+1ff8c9cb,Senior Java Backend Developer,"java, go, spring, postgresql, mongodb, redis, elasticsearch, kafka, docker, kubernetes, ci/cd, git",От 3 до 6 лет,Not Specified,Backend Developer,qyzmet,no
+15cbb3d5,Backend-разработчик,"php, sql, redis, docker, ci/cd, git",От 1 года до 3 лет,Not Specified,Backend Developer,qyzmet,no
+380c1089,.NET Developer (C#),".net, sql, postgresql, redis, kafka, rabbitmq, kubernetes, ci/cd",От 3 до 6 лет,Not Specified,Backend Developer,qyzmet,no
+8cbe60fb,1. QA Automation Engineer (Banking / Mobile / API),"python, java, sql, ci/cd, git",От 3 до 6 лет,Not Specified,QA Engineer,qyzmet,no
+b93d891d,Middle Golang разработчик,"go, golang, sql, postgresql, docker, kubernetes, ci/cd, git, linux",От 1 года до 3 лет,Not Specified,Backend Developer,qyzmet,no
+a2fcd509,Backend Tech Lead,"python, php, mysql, docker, ci/cd, git, bash",От 3 до 6 лет,Not Specified,Backend Developer,qyzmet,no
+c2527b70,DevOps Engineer,"python, sql, docker, kubernetes, ci/cd, bash, ansible, terraform",От 1 года до 3 лет,Not Specified,DevOps Engineer,qyzmet,no
+1b66d5d2,Java Backend Developer (middle+/senior),"java, spring, docker, k8s, ci/cd",От 3 до 6 лет,Not Specified,Backend Developer,qyzmet,no
+214b8bc8,C#/.NET Software Developer,"golang, sql, postgresql, docker, ci/cd",От 1 года до 3 лет,Not Specified,Backend Developer,qyzmet,no
+c5545d2f,Backend разработчик (.NET) (Астана),"javascript, typescript, .net, postgresql, mongodb, redis, elasticsearch, kafka, docker, kubernetes, ci/cd, git, html, css",От 1 года до 3 лет,Высшее образование,Backend Developer,qyzmet,no
+636f2bb8,Middle React Native Developer,"javascript, typescript, react, ci/cd",От 3 до 6 лет,Not Specified,Frontend Developer,qyzmet,no
+3a7da10d,Application Security Lead,ci/cd,Более 6 лет,Not Specified,Cybersecurity Analyst,qyzmet,no
+3af97721,DevOps,"docker, kubernetes, ci/cd",От 3 до 6 лет,Not Specified,DevOps Engineer,qyzmet,no
+8f87cd28,DevOps - инженер,"python, java, go, postgresql, docker, kubernetes, ci/cd, linux, bash",От 3 до 6 лет,Not Specified,DevOps Engineer,qyzmet,no
+260a3879,DevOps инженер (Команда анализа данных),"python, sql, kubernetes, ci/cd, bash",От 3 до 6 лет,Not Specified,DevOps Engineer,qyzmet,no
+505f2c9d,"Backend Developer (Python, Django)","python, fastapi, django, sql, postgresql, mongodb, redis, rabbitmq, docker, kubernetes, ci/cd",От 3 до 6 лет,Not Specified,Backend Developer,qyzmet,no
+31a943a2,Middle DWH/SQL разработчик,"python, sql, postgresql, ci/cd, git",От 1 года до 3 лет,Not Specified,Data Engineer,qyzmet,no
+ec533277,"Senior Backend Developer (Java/Kotlin, Spring, Microservices)","java, spring, sql, postgresql, redis, kafka, docker, kubernetes, ci/cd",Более 6 лет,Not Specified,Mobile Developer,qyzmet,no
+797fda3c,Senior AQA,"python, typescript, sql, docker, ci/cd",От 3 до 6 лет,Not Specified,QA Engineer,qyzmet,no
+3543768f,Senior/Middle DevOps инженер,"python, kafka, docker, kubernetes, ci/cd, linux, bash, ansible, terraform, ml",От 3 до 6 лет,Not Specified,DevOps Engineer,qyzmet,no
+20217ae6,DevOPS администратор,"python, go, kubernetes, k8s, ci/cd, linux, bash, ansible",От 3 до 6 лет,Высшее образование,DevOps Engineer,qyzmet,no
+41efea16,DevOps-инженер,"python, postgresql, mongodb, redis, docker, kubernetes, ci/cd, git, linux, bash, ansible, terraform",От 3 до 6 лет,Not Specified,DevOps Engineer,qyzmet,no
+9521a39b,Инженер по автоматизации (DevOps),"sql, postgresql, mongodb, redis, kubernetes, ci/cd, git, linux, bash, ansible",От 3 до 6 лет,Not Specified,DevOps Engineer,qyzmet,no
+2cf12250,DevOps-инженер,"docker, kubernetes, ci/cd, git, linux",От 1 года до 3 лет,Not Specified,DevOps Engineer,qyzmet,no
+1fbd58dc,Middle DevOps Engineer,terraform,От 3 до 6 лет,Not Specified,DevOps Engineer,qyzmet,no
+b046075d,Frontend-разработчик,"javascript, typescript, react, cypress, jest",От 3 до 6 лет,Not Specified,Frontend Developer,qyzmet,no
+20ed70fd,Frontend-разработчик,"javascript, html, css, figma",От 1 года до 3 лет,Not Specified,Frontend Developer,qyzmet,no
+97e33a71,Full-Stack Developer (Python / TypeScript),"python, typescript, react, fastapi, sql, postgresql, redis, kafka, docker, kubernetes, ci/cd, ml, tailwind",От 3 до 6 лет,Not Specified,Full Stack Developer,qyzmet,no
+600d2760,"Frontend middle программист/разработчик (Vue2,3)","javascript, vue, html, css",От 1 года до 3 лет,Not Specified,Frontend Developer,qyzmet,no
+ef3e985b,Back-end разработчик,"python, javascript, php, express, django, postgresql, mysql, mongodb, redis, rabbitmq, docker, ci/cd, git, linux, html, css",От 1 года до 3 лет,Not Specified,Backend Developer,qyzmet,no
+c17c646a,Senior Android-разработчик,"java, ci/cd, git",От 3 до 6 лет,Not Specified,Mobile Developer,qyzmet,no
+a452dc8a,Fullstack PHP-разработчик,"javascript, php, vue, nuxt, sql, mysql, redis, elasticsearch, git",От 1 года до 3 лет,Not Specified,Backend Developer,qyzmet,no
+cc8d744a,Senior Java-разработчик,"java, spring, postgresql, mongodb, redis, kafka, docker, kubernetes, ci/cd, git",От 3 до 6 лет,Not Specified,Backend Developer,qyzmet,no
+3e4adf85,"Frontend разработчик (Nuxt / Vue, TailwindCSS)","vue, nuxt, docker, figma",От 3 до 6 лет,Not Specified,Frontend Developer,qyzmet,no
+f01bc251,Senior React-разработчик,"javascript, typescript, react, css",От 3 до 6 лет,Not Specified,Frontend Developer,qyzmet,no
+7bf6e416,Application Security Engineer,"java, javascript, ci/cd",От 3 до 6 лет,Not Specified,Cybersecurity Analyst,qyzmet,no
+686ad0cf,PHP Developer,"javascript, php, react, vue, postgresql, mysql, mongodb, elasticsearch, rabbitmq, docker, git",От 1 года до 3 лет,Not Specified,Backend Developer,qyzmet,no
+0f944080,Frontend Developer,"javascript, typescript, vue, git",От 1 года до 3 лет,Not Specified,Frontend Developer,qyzmet,no
+4168350a,Frontend-разработчик (middle),"javascript, typescript, vue, css, sass",От 3 до 6 лет,Not Specified,Frontend Developer,qyzmet,no
+d56cccd5,Middle Frontend разработчик (React),"typescript, react",От 1 года до 3 лет,Высшее образование,Frontend Developer,qyzmet,no
+0372cfd6,Junior Frontend Developer Angular,"angular, jest",От 1 года до 3 лет,Not Specified,Frontend Developer,qyzmet,no
+0d85ad61,Frontend-разработчик Angular,"javascript, angular",От 3 до 6 лет,Высшее образование,Frontend Developer,qyzmet,no
+1b1a51a5,Junior+ Frontend Developer (Angular),"javascript, typescript, angular, git, html, sass",От 1 года до 3 лет,Высшее образование,Frontend Developer,qyzmet,no
+0c6e5627,Frontend-разработчик (Senior) Freedom AI Labs,"javascript, typescript, react, docker, kubernetes, ci/cd, css, tailwind",От 3 до 6 лет,Not Specified,Frontend Developer,qyzmet,no
+c02aa262,Backend-разработчик,"javascript, typescript, postgresql, redis, rabbitmq, git",От 1 года до 3 лет,Высшее образование,Backend Developer,qyzmet,no
+7ebbad03,Backend-разработчик,"python, java, javascript, php, sql",От 1 года до 3 лет,Not Specified,Backend Developer,qyzmet,no
+88e27530,Senior React Developer,"javascript, typescript, react, jest",От 3 до 6 лет,Not Specified,Frontend Developer,qyzmet,no
+ea56fa26,Senior Python Developer,"python, react, fastapi, django, sql, postgresql, mongodb, redis, docker, ci/cd, linux",От 3 до 6 лет,Not Specified,Backend Developer,qyzmet,no
+71d08db9,Ruby on Rails Middle Developer,"javascript, typescript, ruby, react, angular, sql, docker, html",От 1 года до 3 лет,Not Specified,Backend Developer,qyzmet,no
+ce7ae1f7,Системный администратор (Техническая поддержка),"docker, kubernetes, k8s, ci/cd, git, linux, cypress",От 3 до 6 лет,Not Specified,DevOps Engineer,qyzmet,no
+54da2f31,Веб-разработчик PHP,"javascript, php, postgresql, mysql, redis, elasticsearch, docker, ci/cd, git, linux",От 1 года до 3 лет,Not Specified,Backend Developer,qyzmet,no
+ba36564b,UI/UX Designer (Fintech / Crypto / Web + Mobile),"figma, ui/ux",Более 6 лет,Not Specified,Mobile Developer,qyzmet,no
+2f24c47d,Frontend-разработчик,"javascript, typescript, react, ci/cd, ui/ux",От 1 года до 3 лет,Not Specified,Frontend Developer,qyzmet,no
+66edfa88,Frontend-разработчик (верстка),"javascript, php, git, figma",От 1 года до 3 лет,Not Specified,Frontend Developer,qyzmet,no
+a788f846,Front-End Developer,"javascript, typescript, react, vue, ci/cd, git, html, css, ui/ux",От 1 года до 3 лет,Not Specified,Frontend Developer,qyzmet,no
+60d7efcf,Middle Frontend Developer (Laravel + Vue),"javascript, vue, git, linux, figma",От 3 до 6 лет,Not Specified,Frontend Developer,qyzmet,no
+285fe6c8,Разработчик Front-End в Проектный офис,"typescript, vue, nuxt, docker, git, css, tailwind",От 1 года до 3 лет,Высшее образование,Frontend Developer,qyzmet,no
+56ccb993,PHP-разработчик,"javascript, php, react, vue, mysql, redis, git, bash, html, css",От 3 до 6 лет,Высшее образование,Backend Developer,qyzmet,no
+fe134e4e,Senior Typescript/Node JS разработчик,"javascript, typescript, react, express, postgresql, docker, html, css, tailwind",Более 6 лет,Not Specified,Backend Developer,qyzmet,no
+896e26ed,Middle/Senior Full-Stack Developer (C# / JS),"javascript, .net, vue",От 1 года до 3 лет,Not Specified,Full Stack Developer,qyzmet,no
+b79b310b,Python Developer (Middle+/Senior),"python, fastapi, django, postgresql, mysql, redis, rabbitmq, docker",От 3 до 6 лет,Not Specified,Backend Developer,qyzmet,no
+13097130,Senior Fullstack Developer (Java / React),"java, javascript, react, spring, postgresql, redis, docker, ci/cd, figma",От 3 до 6 лет,Высшее образование,Frontend Developer,qyzmet,no
+88d9fef0,"Full stack разработчик веб приложений, сайтов и мобильных приложений","javascript, html, css",От 3 до 6 лет,Not Specified,Full Stack Developer,qyzmet,no
+f3305fc4,"Tech Lead / Lead JavaScript AR Developer (A‑Frame / Three.js, React, Next.js, Node.js, Go)","javascript, go, react, docker, ci/cd, git, html, css",От 1 года до 3 лет,Not Specified,Frontend Developer,qyzmet,no
+9203d838,QA engineer (Middle/Team Lead),"python, javascript, sql, docker, ci/cd, git",От 3 до 6 лет,Not Specified,QA Engineer,qyzmet,no
+443278ac,Frontend разработчик (Middle),"javascript, typescript, react, ci/cd, html, css",От 3 до 6 лет,Not Specified,Frontend Developer,qyzmet,no
+75ecf0b3,Fullstack Javascript/Typescript Developer,"python, java, javascript, typescript, go, php, react, angular, vue, express, django, spring, postgresql, mysql, mongodb, redis, kafka, rabbitmq, docker, ci/cd, git, linux, ml",От 1 года до 3 лет,Not Specified,Backend Developer,qyzmet,no
+c480515f,"Fullstack-разработчик (PostgreSQL, Java , Vue.js)","java, javascript, typescript, vue, spring, postgresql, css, sass, ui/ux",От 3 до 6 лет,Not Specified,Frontend Developer,qyzmet,no
+e8c3bf2f,Frontend-разработчик,"javascript, typescript, react, ci/cd, git, css, figma, jest",От 1 года до 3 лет,Not Specified,Frontend Developer,qyzmet,no
+3f0dbf5a,Senior Python developer,"python, javascript, golang, react, vue, fastapi, django, sql, docker, ci/cd, git, data science, pandas",Более 6 лет,Not Specified,Backend Developer,qyzmet,no
+7cce7bf5,Full-Stack Engineer (JavaScript/PHP),"javascript, php, sql, ci/cd",От 3 до 6 лет,Not Specified,Full Stack Developer,qyzmet,no
+8fc2efb1,"Full-Stack developer | React, Next.js, Node.js, Python","python, javascript, react",От 3 до 6 лет,Not Specified,Full Stack Developer,qyzmet,no
+98550c0d,Frontend-разработчик,"javascript, typescript, react, docker, ci/cd, git, tailwind",От 1 года до 3 лет,Not Specified,Frontend Developer,qyzmet,no
+14855be8,React Front-end Developer,"javascript, typescript, react, docker, sass, jest",От 3 до 6 лет,Not Specified,Frontend Developer,qyzmet,no
+c50518ee,Senior AQA,"python, typescript, sql, docker, ci/cd",От 3 до 6 лет,Not Specified,QA Engineer,qyzmet,no
+fde37e7d,QA manual/Ручной тестировщик Алматы (офис),"sql, mysql, linux",От 3 до 6 лет,Not Specified,QA Engineer,qyzmet,no
+2f448ad7,Программист PHP,php,От 1 года до 3 лет,Not Specified,Backend Developer,qyzmet,no
+d8b3feaa,Senior / Lead Full-Stack Developer (Python/Django/FastAPI + Vue/PrimeVue),"python, javascript, react, vue, fastapi, django, postgresql, docker, ci/cd, linux",Более 6 лет,Not Specified,Full Stack Developer,qyzmet,no
+96547d8a,Преподаватель Python и Roblox в онлайн-школу программирования,python,От 1 года до 3 лет,Not Specified,Backend Developer,qyzmet,no
+cb786d53,Java Developer,"java, spring, sql, mongodb, kafka, rabbitmq, docker, kubernetes, ci/cd",От 3 до 6 лет,Not Specified,Backend Developer,qyzmet,no
+3904e96a,Разработчик php,"php, sql, mysql, redis, rabbitmq, docker, git, linux, sass",От 1 года до 3 лет,Not Specified,Backend Developer,qyzmet,no
+7ec87b72,Ведущий Full Stack Разработчик,"javascript, typescript, react, sql, kubernetes, git, linux",От 1 года до 3 лет,Not Specified,Full Stack Developer,qyzmet,no
+a281350f,Frontend разработчик,"javascript, typescript, react, docker, kubernetes, ci/cd, git, sass",Без опыта,Not Specified,Frontend Developer,qyzmet,no
+9f49a9cc,Backend-разработчик,"javascript, php, vue, nuxt, mysql, redis, docker, ci/cd, git",От 3 до 6 лет,Not Specified,Backend Developer,qyzmet,no
+8a36afbe,"Senior backend-разработчик (Python, PHP)","python, php, fastapi, sql, mysql",От 3 до 6 лет,Not Specified,Backend Developer,qyzmet,no
+c9daf4b5,Senior Kotlin/Java Developer (Backend),"java, spring, sql, postgresql, redis, kafka, docker, kubernetes, ci/cd",От 3 до 6 лет,Not Specified,Mobile Developer,qyzmet,no
+72f436f9,Senior Backend-разработчик в команду Бэкофис,"python, go, fastapi, postgresql, redis, kafka",Более 6 лет,Not Specified,Backend Developer,qyzmet,no
+b40792b1,Backend-разработчик (язык GO),"go, postgresql, redis, kafka, rabbitmq, docker, kubernetes, ci/cd",Более 6 лет,Not Specified,Backend Developer,qyzmet,no
+63315031,Программист Node.js + Flutter,"javascript, express, mongodb, redis, docker, ci/cd, git",От 1 года до 3 лет,Not Specified,Mobile Developer,qyzmet,no
+364a9f7f,C#/. NET-разработчик,".net, angular, sql, postgresql, git",От 3 до 6 лет,Not Specified,Backend Developer,qyzmet,no
+368af492,QA AI specialist,"python, sql, docker, ci/cd, git, ml",От 1 года до 3 лет,Not Specified,QA Engineer,qyzmet,no
+7f42f30b,Senior Java-разработчик,"java, spring, postgresql, mongodb, redis, kafka, docker, kubernetes, ci/cd, git",От 3 до 6 лет,Not Specified,Backend Developer,qyzmet,no
+75c76a36,Senior/Flutter-разработчик,"fastapi, postgresql, redis, ci/cd",Более 6 лет,Not Specified,Mobile Developer,qyzmet,no
+8877efd8,Flutter-разработчик (Mobile) / GeOnline,"ci/cd, git",От 1 года до 3 лет,Not Specified,Mobile Developer,qyzmet,no
+39af5378,MLOps/DevOps Specialist,"python, docker, kubernetes, ci/cd, linux, bash, ansible, terraform, ml, data science",От 1 года до 3 лет,Not Specified,Data Scientist,qyzmet,no
+1185354f,QA manual,"sql, ci/cd, git, linux, ui/ux",От 1 года до 3 лет,Not Specified,QA Engineer,qyzmet,no
+f63b849b,Android-разработчик (Middle/Senior),"java, ci/cd, git",От 3 до 6 лет,Not Specified,Mobile Developer,qyzmet,no
+40c6797d,Senior Golang Developer (Adtech),"go, golang, sql, postgresql, mongodb, elasticsearch, rabbitmq, docker, kubernetes, ci/cd",От 3 до 6 лет,Not Specified,Backend Developer,qyzmet,no
+b3dd8dcb,Backend-разработчик Python (junior +),"python, django",От 1 года до 3 лет,Not Specified,Backend Developer,qyzmet,no
+f066e60b,Python-разработчик,"python, django, postgresql, redis, kafka, kubernetes",От 1 года до 3 лет,Not Specified,Backend Developer,qyzmet,no
+f6aa1673,Middle/Middle+ PHP Developer,"go, php, postgresql, mysql, kafka, rabbitmq, docker, ci/cd, git, ansible",От 3 до 6 лет,Not Specified,Backend Developer,qyzmet,no
+550c99f8,Senior Go (Golang) Developer,"python, go, golang, sql, kafka, rabbitmq, docker, kubernetes, ci/cd",Более 6 лет,Not Specified,Backend Developer,qyzmet,no
+67f8ee5e,Senior AI / ML Engineer (Applied AI Systems Lead),"python, fastapi, sql, docker, kubernetes, ml, pandas",От 3 до 6 лет,Not Specified,Data Scientist,qyzmet,no
+b4fc2ea7,Разработчик PHP / Старший разработчик PHP/ Ведущий разработчик PHP (ДЦКЗ),"php, ci/cd",От 3 до 6 лет,Высшее образование,Backend Developer,qyzmet,no
+1c5abd7f,C#/.NET-разработчик,sql,От 3 до 6 лет,Not Specified,Backend Developer,qyzmet,no
+9cfa55c7,Middle Android Developer,"ci/cd, git",От 1 года до 3 лет,Not Specified,Mobile Developer,qyzmet,no
+9eeb2cd3,Backend разработчик,"python, go, postgresql",От 3 до 6 лет,Not Specified,Backend Developer,qyzmet,no
+0ed5c2c1,Middle Backend Developer,"php, sql, postgresql, redis, rabbitmq, ci/cd",От 3 до 6 лет,Not Specified,Backend Developer,qyzmet,no
+37dab009,Backend Developer (Senior),"php, postgresql, mysql, redis",От 3 до 6 лет,Not Specified,Backend Developer,qyzmet,no
+95fd4d10,Backend Go Developer,"go, golang, postgresql, redis, kafka, rabbitmq, docker, kubernetes, ci/cd, git",От 3 до 6 лет,Not Specified,Backend Developer,qyzmet,no
+319301ff,Backend GO Developer,"go, golang, postgresql, ci/cd, git, linux",От 1 года до 3 лет,Not Specified,Backend Developer,qyzmet,no
+6386e45c,"Ведущий Backend разработчик (Java, Go)","java, go, spring, sql, redis, kafka, kubernetes",От 3 до 6 лет,Высшее образование,Backend Developer,qyzmet,no
+aba83a19,Backend Developer (Go) + Python (Senior),"python, go, postgresql, redis, kafka, docker, kubernetes, ci/cd",От 3 до 6 лет,Not Specified,Backend Developer,qyzmet,no
+75c5ad4a,"Разработчик Backend Python, Django","python, django, postgresql, docker",От 3 до 6 лет,Not Specified,Backend Developer,qyzmet,no
+02f3e32d,Senior Backend Developer (Go),"javascript, go, mysql, mongodb, kubernetes",От 3 до 6 лет,Not Specified,Backend Developer,qyzmet,no
+8c41e433,Middle Backend Разработчик (C#),"javascript, react, sql, postgresql",От 1 года до 3 лет,Not Specified,Backend Developer,qyzmet,no
+26299362,Backend-разработчик Senoir Java,"java, spring, sql, postgresql, redis, kafka, rabbitmq, ci/cd",От 3 до 6 лет,Not Specified,Backend Developer,qyzmet,no
+2f847832,Backend разработчик (middle-senior),"python, java, go, spring, sql, postgresql, kafka, rabbitmq, docker, kubernetes, git",От 3 до 6 лет,Высшее образование,Backend Developer,qyzmet,no
+b795b57a,Python Developer,"python, go, sql, docker, kubernetes, ci/cd",От 3 до 6 лет,Not Specified,Backend Developer,qyzmet,no
+cc8b3557,Системный администратор,"java, spring, git",Без опыта,Not Specified,DevOps Engineer,qyzmet,no
+3064e303,DevOps Engineer,"docker, ci/cd, linux",От 1 года до 3 лет,Not Specified,DevOps Engineer,qyzmet,no
+50482db5,Старший Java-разработчик / Senior Java Spring Developer,"java, spring, sql, elasticsearch, kafka, rabbitmq, docker, kubernetes, ci/cd, ml, pytorch, tensorflow",От 1 года до 3 лет,Not Specified,Backend Developer,qyzmet,no
+a4a4c4df,Fullstack разработчик (Java/Kotlin + Angular),"java, typescript, react, angular, spring, postgresql, redis, docker, kubernetes",От 3 до 6 лет,Not Specified,Mobile Developer,qyzmet,no
+526f4568,Senior IOS разработчик,"sql, ci/cd, ui/ux",От 3 до 6 лет,Not Specified,Mobile Developer,qyzmet,no
+08de3526,Senior ML Engineer (LLM / RAG),"python, fastapi, sql, elasticsearch, docker, ci/cd, ml",От 3 до 6 лет,Not Specified,Data Scientist,qyzmet,no
+462599cc,Golang-Developer (Senior),"python, go, golang, mysql, kafka, rabbitmq, docker, kubernetes, ci/cd",Более 6 лет,Not Specified,Backend Developer,qyzmet,no
+cf3f5207,Senior Golang Developer,"go, golang, redis, kafka, docker, kubernetes, ci/cd, git",От 3 до 6 лет,Not Specified,Backend Developer,qyzmet,no
+9f76b287,Backend-разработчик,"golang, sql, postgresql, mysql, kafka, rabbitmq, docker, kubernetes, ci/cd",От 3 до 6 лет,Not Specified,Backend Developer,qyzmet,no
+a918fe1f,Backend-разработчик (Java),"java, spring, sql, kafka, rabbitmq, docker, kubernetes, ci/cd",От 1 года до 3 лет,Not Specified,Backend Developer,qyzmet,no
+6191d1cf,Middle PHP Backend-разработчик Krisha.kz,"go, php, mysql, mongodb, redis, docker, kubernetes, ci/cd, git, linux",От 3 до 6 лет,Not Specified,Backend Developer,qyzmet,no
+5369e829,"Java Backend Engineer / Solution Architect (AI-first, Fintech)","java, sql",От 1 года до 3 лет,Not Specified,Backend Developer,qyzmet,no
+a84cf5f0,Senior Backend Engineer (Laravel / Event-Driven / High Load),"php, mysql, redis, kafka, docker",От 3 до 6 лет,Not Specified,Backend Developer,qyzmet,no
+85f08127,Middle QA Engineer,"python, sql, postgresql, ci/cd",От 1 года до 3 лет,Not Specified,QA Engineer,qyzmet,no
+cfa0dee9,Senior специалист по информационной безопасности (IT Security),"postgresql, redis, docker, kubernetes, ci/cd, linux",От 1 года до 3 лет,Not Specified,Cybersecurity Analyst,qyzmet,no
+48f6fb83,Python-разработчик,"python, fastapi, django, sql, mongodb, redis, docker, git",От 1 года до 3 лет,Not Specified,Backend Developer,qyzmet,no
+5103c76d,Middle Android разработчик,"ci/cd, git",От 1 года до 3 лет,Not Specified,Mobile Developer,qyzmet,no
+e8cda1a9,Android Developer,"ci/cd, git",От 3 до 6 лет,Not Specified,Mobile Developer,qyzmet,no
+fd5d3808,Backend-разработчик,"php, sql, redis, docker, ci/cd, git",От 1 года до 3 лет,Not Specified,Backend Developer,qyzmet,no
+959784cf,Backend Tech Lead,"python, php, mysql, docker, ci/cd, git, bash",От 3 до 6 лет,Not Specified,Backend Developer,qyzmet,no
+414df87f,Junior Backend-разработчик (PHP),"php, sql, mysql, git",От 1 года до 3 лет,Высшее образование,Backend Developer,qyzmet,no
+601334ad,Senior Python Backend Engineer,"python, fastapi, django, postgresql, redis, rabbitmq, docker, ci/cd, linux",От 3 до 6 лет,Not Specified,Backend Developer,qyzmet,no
+7cc9de5a,Middle Java Backend Developer,"java, go, spring, mongodb, kafka, kubernetes, ci/cd",От 1 года до 3 лет,Not Specified,Backend Developer,qyzmet,no
+47c2157b,Senior Java Backend Developer,"java, go, spring, postgresql, mongodb, redis, elasticsearch, kafka, docker, kubernetes, ci/cd, git",От 3 до 6 лет,Not Specified,Backend Developer,qyzmet,no
+89907059,Middle Python Backend Developer,"python, fastapi, django, postgresql, redis, rabbitmq, git",От 1 года до 3 лет,Not Specified,Backend Developer,qyzmet,no
+6b58d520,Middle Fullstack / Backend Developer (AI-Native Architect),"python, javascript, postgresql, redis, docker, ci/cd",От 3 до 6 лет,Not Specified,Backend Developer,qyzmet,no
+a39e4264,Backend Tech lead Python GO,"python, go, fastapi, django, postgresql, mongodb, redis, kafka, rabbitmq, docker, kubernetes, ci/cd, git, terraform",Более 6 лет,Not Specified,Backend Developer,qyzmet,no
+8c795125,Backend Java Developer \ Бэкенд-разработчик на Java,"java, golang, spring, sql, postgresql, mysql, mongodb, elasticsearch, kafka, rabbitmq, kubernetes, linux",От 1 года до 3 лет,Not Specified,Backend Developer,qyzmet,no
+6b6c9192,Backend Golang Developer \ Бэкенд-разработчик на Go (Golang),"java, go, golang, spring, sql, postgresql, mysql, mongodb, elasticsearch, kafka, rabbitmq, docker, kubernetes, linux",От 1 года до 3 лет,Not Specified,Backend Developer,qyzmet,no
+737862ca,Mobile Developer (Kotlin / Android),"ci/cd, git, figma, ui/ux",От 3 до 6 лет,Not Specified,Mobile Developer,qyzmet,no
+18814c0d,Middle Full-Stack Developer Web Platform,"javascript, typescript, react, vue, express, postgresql, mongodb, docker, ci/cd, git",От 3 до 6 лет,Not Specified,Full Stack Developer,qyzmet,no
+90686a8d,QA инженер Middle/Middle+,"python, sql, postgresql, ci/cd",От 3 до 6 лет,Not Specified,QA Engineer,qyzmet,no
+f3d12560,Программист Mobile Developer,"javascript, react, ci/cd, git",От 1 года до 3 лет,Not Specified,Mobile Developer,qyzmet,no
+03378ad8,Программист (backend-разработчик) в госорганизацию,"java, sql",От 1 года до 3 лет,Not Specified,Backend Developer,qyzmet,no
+389f517b,Java Backend Developer (middle+/senior),"java, spring, docker, k8s, ci/cd",От 3 до 6 лет,Not Specified,Backend Developer,qyzmet,no
+a5eddfd1,Senior .NET Developer (Backend),".net, sql, postgresql, mongodb, redis, kafka, rabbitmq, docker, kubernetes, ci/cd",От 3 до 6 лет,Not Specified,Backend Developer,qyzmet,no
+a798012b,Backend разработчик (.NET) (Астана),"javascript, typescript, .net, postgresql, mongodb, redis, elasticsearch, kafka, docker, kubernetes, ci/cd, git, html, css",От 1 года до 3 лет,Высшее образование,Backend Developer,qyzmet,no
+d76aa058,Android-разработчик во Freedom Business (middle/middle+),ci/cd,От 3 до 6 лет,Not Specified,Mobile Developer,qyzmet,no
+9f933cf7,Senior Backend Developer (PHP),"php, sql, postgresql, mysql, redis, elasticsearch, kafka, docker, git",От 3 до 6 лет,Not Specified,Backend Developer,qyzmet,no
+4fe63f45,"Backend Developer (Python, Django)","python, fastapi, django, sql, postgresql, mongodb, redis, rabbitmq, docker, kubernetes, ci/cd",От 3 до 6 лет,Not Specified,Backend Developer,qyzmet,no
+8c01bed5,Senior Fullstack-разработчик (Go + React Native),"java, go, golang, react, sql, postgresql, redis, kafka, rabbitmq, docker, ci/cd, tailwind, jest",От 3 до 6 лет,Not Specified,Frontend Developer,qyzmet,no
+1646b9eb,React Front-end Developer,"javascript, typescript, react, docker, sass, jest",От 3 до 6 лет,Not Specified,Frontend Developer,qyzmet,no
+f213298d,Frontend-разработчик,"javascript, typescript, react, docker, ci/cd, git, tailwind",От 1 года до 3 лет,Not Specified,Frontend Developer,qyzmet,no
+d68eb36f,Tech Lead / System Architect (Golang| Distributed Systems & IoT),"go, golang, postgresql, ci/cd, linux",От 3 до 6 лет,Not Specified,Backend Developer,qyzmet,no
+e9fee5c0,Java разработчик (middle+\senior),"java, spring, postgresql, redis, elasticsearch, kafka, rabbitmq, git",От 1 года до 3 лет,Высшее образование,Backend Developer,qyzmet,no
+4aae837b,Разработчик php,"php, sql, mysql, redis, rabbitmq, docker, git, linux, sass",От 3 до 6 лет,Not Specified,Backend Developer,qyzmet,no
+495ae21d,QA Automation Engineer (Kotlin\Java),"java, ci/cd, git",От 1 года до 3 лет,Not Specified,QA Engineer,qyzmet,no
+e76a7092,Java Developer in Almaty,"java, spring, sql, postgresql, mysql, redis, kafka, rabbitmq, docker, kubernetes, ci/cd, git, linux",От 1 года до 3 лет,Not Specified,Backend Developer,qyzmet,no
+61652fd6,Kotlin Developer,"java, spring, sql, postgresql, redis, kafka, docker, kubernetes, ci/cd, git",От 3 до 6 лет,Not Specified,Mobile Developer,qyzmet,no

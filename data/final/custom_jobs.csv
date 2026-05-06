@@ -1,0 +1,551 @@
+﻿job_id,job_title,skills,experience_level,education_level,label,source,is_custom
+cb23dd29,Cybersecurity Analyst,"информационная безопасность, bash, криптография, kali linux",Опыт более 6 лет,Не имеет значения,Cybersecurity Analyst,synthetic_generator,yes
+db338c28,Cybersecurity Analyst,"siem, linux, пентестер, bash",Опыт работы от 3 до 6 лет,Студент,Cybersecurity Analyst,synthetic_generator,yes
+d72c1a8c,Cybersecurity Analyst,"криптография, siem, owasp, защита данных, уязвимости, wireshark, security, appsec",Опыт более 6 лет,Высшее техническое образование,Cybersecurity Analyst,synthetic_generator,yes
+c16f3f1c,Cybersecurity Analyst,"защита данных, информационная безопасность, owasp, bash, security, безопасность, siem, kali linux",Опыт работы от 1 до 3 лет,Не имеет значения,Cybersecurity Analyst,synthetic_generator,yes
+9e506793,Cybersecurity Analyst,"soc, защита данных, сети, security, bash, уязвимости, kali linux, информационная безопасность",Без опыта,Высшее техническое образование,Cybersecurity Analyst,synthetic_generator,yes
+be1fbad5,Cybersecurity Analyst,"информационная безопасность, owasp, appsec, linux, soc, защита данных, wireshark",Опыт более 6 лет,Среднее специальное образование,Cybersecurity Analyst,synthetic_generator,yes
+0c17d810,Cybersecurity Analyst,"информационная безопасность, siem, сети, криптография, wireshark, kali linux, защита данных",Опыт работы от 1 до 3 лет,Высшее техническое образование,Cybersecurity Analyst,synthetic_generator,yes
+5c023622,Cybersecurity Analyst,"soc, appsec, security, уязвимости, siem, owasp",Опыт работы от 3 до 6 лет,Студент,Cybersecurity Analyst,synthetic_generator,yes
+31117e4f,Cybersecurity Analyst,"bash, appsec, уязвимости, security",Опыт более 6 лет,Высшее техническое образование,Cybersecurity Analyst,synthetic_generator,yes
+8024fdf3,Cybersecurity Analyst,"криптография, пентестер, soc, siem, уязвимости, wireshark, bash, безопасность",Опыт работы от 3 до 6 лет,Высшее образование,Cybersecurity Analyst,synthetic_generator,yes
+49c405fb,Cybersecurity Analyst,"безопасность, security, kali linux, bash, siem, криптография, уязвимости",Опыт работы от 1 до 3 лет,Высшее образование,Cybersecurity Analyst,synthetic_generator,yes
+794e302d,Cybersecurity Analyst,"пентестер, kali linux, wireshark, информационная безопасность",Опыт работы от 3 до 6 лет,Не имеет значения,Cybersecurity Analyst,synthetic_generator,yes
+7700a8e0,Cybersecurity Analyst,"информационная безопасность, сети, appsec, siem, owasp, soc, wireshark",Опыт работы от 1 до 3 лет,Высшее образование,Cybersecurity Analyst,synthetic_generator,yes
+992fa5e0,Cybersecurity Analyst,"siem, kali linux, пентестер, защита данных, информационная безопасность, сети",Опыт работы от 1 до 3 лет,Студент,Cybersecurity Analyst,synthetic_generator,yes
+b2609c95,Cybersecurity Analyst,"appsec, пентестер, siem, безопасность, криптография, сети, owasp",Опыт более 6 лет,Не имеет значения,Cybersecurity Analyst,synthetic_generator,yes
+7635b9fd,Cybersecurity Analyst,"linux, пентестер, siem, bash, криптография",Опыт более 6 лет,Высшее техническое образование,Cybersecurity Analyst,synthetic_generator,yes
+546afebd,Cybersecurity Analyst,"сети, информационная безопасность, пентестер, уязвимости, soc, appsec, kali linux, security",Опыт работы от 1 до 3 лет,Высшее техническое образование,Cybersecurity Analyst,synthetic_generator,yes
+97aa258a,Cybersecurity Analyst,"пентестер, криптография, security, soc, siem, уязвимости",Опыт более 6 лет,Среднее специальное образование,Cybersecurity Analyst,synthetic_generator,yes
+bc0fc7bc,Cybersecurity Analyst,"уязвимости, owasp, linux, сети, security",Опыт работы от 1 до 3 лет,Высшее техническое образование,Cybersecurity Analyst,synthetic_generator,yes
+24b18d24,Cybersecurity Analyst,"owasp, soc, kali linux, wireshark, криптография, безопасность, пентестер",Без опыта,Не имеет значения,Cybersecurity Analyst,synthetic_generator,yes
+dae60407,Cybersecurity Analyst,"linux, защита данных, уязвимости, wireshark, криптография, пентестер, soc, безопасность",Опыт работы от 1 до 3 лет,Не имеет значения,Cybersecurity Analyst,synthetic_generator,yes
+41fe00d0,Cybersecurity Analyst,"owasp, linux, безопасность, bash, защита данных, soc",Опыт работы от 1 до 3 лет,Не имеет значения,Cybersecurity Analyst,synthetic_generator,yes
+8e78613d,Cybersecurity Analyst,"криптография, appsec, wireshark, пентестер, сети, уязвимости, security",Опыт работы от 1 до 3 лет,Среднее специальное образование,Cybersecurity Analyst,synthetic_generator,yes
+182e00f0,Cybersecurity Analyst,"безопасность, wireshark, криптография, siem, сети",Без опыта,Среднее специальное образование,Cybersecurity Analyst,synthetic_generator,yes
+a678417e,Cybersecurity Analyst,"linux, криптография, security, siem",Опыт работы от 1 до 3 лет,Высшее техническое образование,Cybersecurity Analyst,synthetic_generator,yes
+ff7fb0ab,Cybersecurity Analyst,"wireshark, уязвимости, защита данных, siem, security, appsec",Опыт более 6 лет,Высшее техническое образование,Cybersecurity Analyst,synthetic_generator,yes
+9d411986,Cybersecurity Analyst,"siem, linux, уязвимости, криптография, kali linux, wireshark",Опыт более 6 лет,Высшее образование,Cybersecurity Analyst,synthetic_generator,yes
+7cb1047b,Cybersecurity Analyst,"сети, информационная безопасность, soc, kali linux, защита данных, appsec, owasp, уязвимости",Без опыта,Не имеет значения,Cybersecurity Analyst,synthetic_generator,yes
+6b60bf45,Cybersecurity Analyst,"информационная безопасность, пентестер, kali linux, siem",Опыт работы от 1 до 3 лет,Среднее специальное образование,Cybersecurity Analyst,synthetic_generator,yes
+9a241c1e,Cybersecurity Analyst,"siem, security, bash, owasp, soc, appsec, защита данных",Опыт более 6 лет,Высшее техническое образование,Cybersecurity Analyst,synthetic_generator,yes
+fcd67e50,Cybersecurity Analyst,"bash, сети, owasp, защита данных, linux",Опыт более 6 лет,Высшее техническое образование,Cybersecurity Analyst,synthetic_generator,yes
+8aec6c3f,Cybersecurity Analyst,"безопасность, bash, сети, криптография, wireshark",Опыт работы от 1 до 3 лет,Высшее техническое образование,Cybersecurity Analyst,synthetic_generator,yes
+9fb2060b,Cybersecurity Analyst,"криптография, siem, информационная безопасность, уязвимости, bash, owasp",Без опыта,Студент,Cybersecurity Analyst,synthetic_generator,yes
+ce7a4660,Cybersecurity Analyst,"криптография, security, linux, siem, appsec",Опыт работы от 3 до 6 лет,Среднее специальное образование,Cybersecurity Analyst,synthetic_generator,yes
+2333df3e,Cybersecurity Analyst,"информационная безопасность, siem, защита данных, уязвимости, криптография, security",Без опыта,Высшее образование,Cybersecurity Analyst,synthetic_generator,yes
+67af3762,Cybersecurity Analyst,"security, защита данных, soc, linux, уязвимости, безопасность",Опыт более 6 лет,Студент,Cybersecurity Analyst,synthetic_generator,yes
+e61e87af,Cybersecurity Analyst,"пентестер, soc, security, linux, криптография, siem",Опыт работы от 3 до 6 лет,Высшее образование,Cybersecurity Analyst,synthetic_generator,yes
+8f39283a,Cybersecurity Analyst,"owasp, пентестер, kali linux, security, siem",Опыт работы от 1 до 3 лет,Высшее техническое образование,Cybersecurity Analyst,synthetic_generator,yes
+4f6b06b2,Cybersecurity Analyst,"appsec, сети, owasp, security",Без опыта,Высшее техническое образование,Cybersecurity Analyst,synthetic_generator,yes
+0191fde4,Cybersecurity Analyst,"owasp, kali linux, siem, защита данных, wireshark, сети",Опыт работы от 3 до 6 лет,Не имеет значения,Cybersecurity Analyst,synthetic_generator,yes
+87c8feb4,Cybersecurity Analyst,"уязвимости, owasp, kali linux, защита данных, bash, криптография, soc",Опыт более 6 лет,Не имеет значения,Cybersecurity Analyst,synthetic_generator,yes
+24346533,Cybersecurity Analyst,"kali linux, owasp, информационная безопасность, security",Опыт работы от 3 до 6 лет,Высшее техническое образование,Cybersecurity Analyst,synthetic_generator,yes
+55398b22,Cybersecurity Analyst,"kali linux, безопасность, защита данных, owasp, сети, криптография, linux",Опыт работы от 3 до 6 лет,Высшее образование,Cybersecurity Analyst,synthetic_generator,yes
+7a798a11,Cybersecurity Analyst,"soc, криптография, kali linux, security, уязвимости, appsec, пентестер",Опыт более 6 лет,Высшее техническое образование,Cybersecurity Analyst,synthetic_generator,yes
+cb8f41c1,Cybersecurity Analyst,"security, информационная безопасность, owasp, siem",Опыт работы от 3 до 6 лет,Высшее образование,Cybersecurity Analyst,synthetic_generator,yes
+97375205,Cybersecurity Analyst,"owasp, linux, bash, пентестер, security",Опыт более 6 лет,Не имеет значения,Cybersecurity Analyst,synthetic_generator,yes
+47816abf,Cybersecurity Analyst,"криптография, безопасность, security, bash, kali linux, soc",Без опыта,Среднее специальное образование,Cybersecurity Analyst,synthetic_generator,yes
+03778c00,Cybersecurity Analyst,"linux, пентестер, appsec, security",Без опыта,Студент,Cybersecurity Analyst,synthetic_generator,yes
+fd982a65,Cybersecurity Analyst,"owasp, безопасность, appsec, bash, защита данных, сети, kali linux, пентестер",Опыт работы от 1 до 3 лет,Высшее техническое образование,Cybersecurity Analyst,synthetic_generator,yes
+2a01d4e6,Cybersecurity Analyst,"сети, security, информационная безопасность, wireshark, siem, owasp, пентестер, криптография",Опыт более 6 лет,Среднее специальное образование,Cybersecurity Analyst,synthetic_generator,yes
+f9ca9caf,Cybersecurity Analyst,"защита данных, security, owasp, информационная безопасность",Опыт работы от 1 до 3 лет,Студент,Cybersecurity Analyst,synthetic_generator,yes
+c50ab2b1,Cybersecurity Analyst,"siem, безопасность, linux, soc, пентестер, сети, уязвимости",Без опыта,Студент,Cybersecurity Analyst,synthetic_generator,yes
+3d96ad73,Cybersecurity Analyst,"security, wireshark, siem, защита данных, bash",Опыт работы от 1 до 3 лет,Высшее образование,Cybersecurity Analyst,synthetic_generator,yes
+56083eb2,Cybersecurity Analyst,"siem, soc, wireshark, kali linux, owasp, сети, bash",Опыт более 6 лет,Среднее специальное образование,Cybersecurity Analyst,synthetic_generator,yes
+38e6f371,Cybersecurity Analyst,"siem, сети, защита данных, wireshark, kali linux, уязвимости, безопасность, криптография",Опыт работы от 3 до 6 лет,Высшее образование,Cybersecurity Analyst,synthetic_generator,yes
+7f0db7b5,Cybersecurity Analyst,"security, уязвимости, защита данных, siem, bash, owasp",Опыт работы от 1 до 3 лет,Высшее техническое образование,Cybersecurity Analyst,synthetic_generator,yes
+24d65341,Cybersecurity Analyst,"криптография, bash, пентестер, защита данных, soc, сети, siem, owasp",Опыт более 6 лет,Не имеет значения,Cybersecurity Analyst,synthetic_generator,yes
+c1ed07ee,Cybersecurity Analyst,"bash, security, soc, уязвимости, информационная безопасность, owasp, kali linux, защита данных",Опыт работы от 1 до 3 лет,Высшее образование,Cybersecurity Analyst,synthetic_generator,yes
+458a9178,Cybersecurity Analyst,"уязвимости, owasp, защита данных, безопасность, криптография, appsec",Опыт работы от 1 до 3 лет,Студент,Cybersecurity Analyst,synthetic_generator,yes
+e380c58e,Cybersecurity Analyst,"wireshark, security, bash, криптография, kali linux",Опыт более 6 лет,Высшее техническое образование,Cybersecurity Analyst,synthetic_generator,yes
+3fdce2eb,Cybersecurity Analyst,"информационная безопасность, пентестер, bash, owasp, security, защита данных, linux",Опыт работы от 3 до 6 лет,Высшее техническое образование,Cybersecurity Analyst,synthetic_generator,yes
+bd3e451d,Cybersecurity Analyst,"owasp, kali linux, appsec, soc, сети, linux, siem, пентестер",Опыт более 6 лет,Студент,Cybersecurity Analyst,synthetic_generator,yes
+4c8eef50,Cybersecurity Analyst,"owasp, уязвимости, kali linux, сети, защита данных, siem, linux",Опыт более 6 лет,Высшее образование,Cybersecurity Analyst,synthetic_generator,yes
+5450c16b,Cybersecurity Analyst,"appsec, siem, linux, информационная безопасность, security, пентестер",Опыт работы от 3 до 6 лет,Не имеет значения,Cybersecurity Analyst,synthetic_generator,yes
+d83bf67f,Cybersecurity Analyst,"защита данных, wireshark, пентестер, криптография",Опыт работы от 1 до 3 лет,Высшее техническое образование,Cybersecurity Analyst,synthetic_generator,yes
+64ff85f9,Cybersecurity Analyst,"защита данных, wireshark, пентестер, appsec, linux, информационная безопасность, безопасность, криптография",Опыт более 6 лет,Студент,Cybersecurity Analyst,synthetic_generator,yes
+6a2541a6,Cybersecurity Analyst,"bash, уязвимости, пентестер, security, siem, appsec",Опыт более 6 лет,Не имеет значения,Cybersecurity Analyst,synthetic_generator,yes
+29fc8dfc,Cybersecurity Analyst,"защита данных, пентестер, криптография, siem, kali linux",Опыт работы от 1 до 3 лет,Высшее техническое образование,Cybersecurity Analyst,synthetic_generator,yes
+22484e3e,Cybersecurity Analyst,"bash, пентестер, защита данных, appsec, kali linux, linux, siem, wireshark",Опыт работы от 1 до 3 лет,Высшее образование,Cybersecurity Analyst,synthetic_generator,yes
+14c6ba75,Cybersecurity Analyst,"криптография, security, soc, информационная безопасность, безопасность, appsec, wireshark, siem",Без опыта,Среднее специальное образование,Cybersecurity Analyst,synthetic_generator,yes
+94d4c6cb,Cybersecurity Analyst,"siem, kali linux, linux, security, bash, информационная безопасность",Без опыта,Среднее специальное образование,Cybersecurity Analyst,synthetic_generator,yes
+706acb28,Cybersecurity Analyst,"защита данных, soc, уязвимости, owasp, security",Опыт более 6 лет,Среднее специальное образование,Cybersecurity Analyst,synthetic_generator,yes
+6496dcef,Cybersecurity Analyst,"linux, appsec, пентестер, wireshark, kali linux, security",Без опыта,Высшее образование,Cybersecurity Analyst,synthetic_generator,yes
+9f9c5e9c,Cybersecurity Analyst,"уязвимости, linux, криптография, owasp",Без опыта,Студент,Cybersecurity Analyst,synthetic_generator,yes
+f41a5432,Cybersecurity Analyst,"безопасность, защита данных, уязвимости, linux",Опыт более 6 лет,Не имеет значения,Cybersecurity Analyst,synthetic_generator,yes
+e9541cd7,Cybersecurity Analyst,"wireshark, защита данных, bash, security, криптография, уязвимости, информационная безопасность, siem",Опыт работы от 3 до 6 лет,Не имеет значения,Cybersecurity Analyst,synthetic_generator,yes
+58339ed0,Cybersecurity Analyst,"kali linux, информационная безопасность, linux, siem, owasp, уязвимости, пентестер, appsec",Опыт работы от 1 до 3 лет,Не имеет значения,Cybersecurity Analyst,synthetic_generator,yes
+4cb11715,Cybersecurity Analyst,"soc, kali linux, appsec, wireshark, linux",Опыт более 6 лет,Не имеет значения,Cybersecurity Analyst,synthetic_generator,yes
+39d953b3,Cybersecurity Analyst,"bash, пентестер, appsec, owasp",Без опыта,Среднее специальное образование,Cybersecurity Analyst,synthetic_generator,yes
+9548616b,Cybersecurity Analyst,"защита данных, bash, kali linux, owasp, безопасность",Без опыта,Высшее техническое образование,Cybersecurity Analyst,synthetic_generator,yes
+c1f8583d,Cybersecurity Analyst,"security, bash, защита данных, soc, безопасность, wireshark",Без опыта,Не имеет значения,Cybersecurity Analyst,synthetic_generator,yes
+2602df4c,Cybersecurity Analyst,"защита данных, сети, siem, bash, kali linux",Опыт работы от 3 до 6 лет,Высшее техническое образование,Cybersecurity Analyst,synthetic_generator,yes
+686c5533,Cybersecurity Analyst,"siem, уязвимости, security, linux, appsec, soc, bash",Опыт работы от 1 до 3 лет,Среднее специальное образование,Cybersecurity Analyst,synthetic_generator,yes
+bb5e1868,Cybersecurity Analyst,"информационная безопасность, appsec, защита данных, security, пентестер",Опыт работы от 1 до 3 лет,Не имеет значения,Cybersecurity Analyst,synthetic_generator,yes
+37dd5d68,Cybersecurity Analyst,"wireshark, bash, owasp, информационная безопасность, security",Опыт работы от 3 до 6 лет,Не имеет значения,Cybersecurity Analyst,synthetic_generator,yes
+63524ffd,Cybersecurity Analyst,"уязвимости, linux, kali linux, security, безопасность, криптография, wireshark",Опыт более 6 лет,Высшее техническое образование,Cybersecurity Analyst,synthetic_generator,yes
+f80e2853,Cybersecurity Analyst,"безопасность, сети, wireshark, linux, уязвимости, kali linux, owasp, защита данных",Без опыта,Студент,Cybersecurity Analyst,synthetic_generator,yes
+836f31f1,Cybersecurity Analyst,"пентестер, защита данных, security, уязвимости, kali linux",Опыт более 6 лет,Не имеет значения,Cybersecurity Analyst,synthetic_generator,yes
+85efe219,Cybersecurity Analyst,"bash, информационная безопасность, security, siem, wireshark",Опыт более 6 лет,Среднее специальное образование,Cybersecurity Analyst,synthetic_generator,yes
+74ef6637,Cybersecurity Analyst,"пентестер, bash, kali linux, siem, appsec",Опыт работы от 3 до 6 лет,Среднее специальное образование,Cybersecurity Analyst,synthetic_generator,yes
+8f4b473c,Cybersecurity Analyst,"wireshark, уязвимости, сети, kali linux, security, защита данных",Без опыта,Высшее образование,Cybersecurity Analyst,synthetic_generator,yes
+6fc992e7,Cybersecurity Analyst,"уязвимости, linux, bash, wireshark, информационная безопасность, owasp, пентестер, сети",Опыт работы от 3 до 6 лет,Среднее специальное образование,Cybersecurity Analyst,synthetic_generator,yes
+f35227e1,Cybersecurity Analyst,"security, безопасность, kali linux, appsec, siem, защита данных, криптография, информационная безопасность",Без опыта,Не имеет значения,Cybersecurity Analyst,synthetic_generator,yes
+c5d600b8,Cybersecurity Analyst,"appsec, siem, kali linux, безопасность, сети",Опыт работы от 3 до 6 лет,Не имеет значения,Cybersecurity Analyst,synthetic_generator,yes
+72817635,Cybersecurity Analyst,"защита данных, безопасность, пентестер, сети, owasp, bash",Опыт более 6 лет,Высшее техническое образование,Cybersecurity Analyst,synthetic_generator,yes
+c266295d,Cybersecurity Analyst,"информационная безопасность, сети, защита данных, пентестер",Опыт более 6 лет,Среднее специальное образование,Cybersecurity Analyst,synthetic_generator,yes
+fea5dcb5,Cybersecurity Analyst,"appsec, сети, уязвимости, owasp, пентестер",Опыт работы от 1 до 3 лет,Не имеет значения,Cybersecurity Analyst,synthetic_generator,yes
+75f2c4bd,Cybersecurity Analyst,"wireshark, soc, kali linux, linux",Опыт более 6 лет,Не имеет значения,Cybersecurity Analyst,synthetic_generator,yes
+6921a34a,Cybersecurity Analyst,"bash, информационная безопасность, сети, kali linux, криптография",Опыт работы от 3 до 6 лет,Среднее специальное образование,Cybersecurity Analyst,synthetic_generator,yes
+10e5dfe9,Cybersecurity Analyst,"owasp, уязвимости, wireshark, сети, siem, bash",Опыт более 6 лет,Среднее специальное образование,Cybersecurity Analyst,synthetic_generator,yes
+2bbf6fd4,Cybersecurity Analyst,"kali linux, security, owasp, wireshark, пентестер, защита данных, bash",Без опыта,Среднее специальное образование,Cybersecurity Analyst,synthetic_generator,yes
+fb0b996b,Cybersecurity Analyst,"сети, security, информационная безопасность, kali linux, appsec, wireshark, bash, owasp",Опыт работы от 1 до 3 лет,Не имеет значения,Cybersecurity Analyst,synthetic_generator,yes
+dcf4af75,Cybersecurity Analyst,"пентестер, appsec, информационная безопасность, owasp, сети",Опыт более 6 лет,Студент,Cybersecurity Analyst,synthetic_generator,yes
+5ea5b189,Cybersecurity Analyst,"appsec, криптография, siem, уязвимости",Без опыта,Не имеет значения,Cybersecurity Analyst,synthetic_generator,yes
+cb607db3,Cybersecurity Analyst,"сети, siem, security, kali linux, информационная безопасность, пентестер",Без опыта,Среднее специальное образование,Cybersecurity Analyst,synthetic_generator,yes
+553f9dbe,Cybersecurity Analyst,"безопасность, wireshark, информационная безопасность, appsec, защита данных",Опыт более 6 лет,Среднее специальное образование,Cybersecurity Analyst,synthetic_generator,yes
+e6255157,Cybersecurity Analyst,"безопасность, защита данных, security, уязвимости, криптография",Без опыта,Студент,Cybersecurity Analyst,synthetic_generator,yes
+0076c418,Cybersecurity Analyst,"информационная безопасность, owasp, пентестер, безопасность, сети",Без опыта,Студент,Cybersecurity Analyst,synthetic_generator,yes
+bb3c8ac9,Cybersecurity Analyst,"security, soc, пентестер, bash, криптография",Без опыта,Высшее образование,Cybersecurity Analyst,synthetic_generator,yes
+633d2e46,Cybersecurity Analyst,"wireshark, сети, bash, soc",Опыт работы от 3 до 6 лет,Студент,Cybersecurity Analyst,synthetic_generator,yes
+349e60c0,Cybersecurity Analyst,"защита данных, linux, siem, информационная безопасность, криптография",Без опыта,Студент,Cybersecurity Analyst,synthetic_generator,yes
+77697807,Cybersecurity Analyst,"wireshark, сети, appsec, security, информационная безопасность, уязвимости",Опыт работы от 3 до 6 лет,Среднее специальное образование,Cybersecurity Analyst,synthetic_generator,yes
+f284c7ef,Cybersecurity Analyst,"сети, wireshark, уязвимости, bash, безопасность, защита данных",Опыт работы от 1 до 3 лет,Высшее образование,Cybersecurity Analyst,synthetic_generator,yes
+d16ca899,Cybersecurity Analyst,"linux, wireshark, пентестер, информационная безопасность, kali linux",Опыт работы от 1 до 3 лет,Высшее техническое образование,Cybersecurity Analyst,synthetic_generator,yes
+1db2a5b2,Cybersecurity Analyst,"wireshark, kali linux, soc, owasp, уязвимости, безопасность, пентестер, bash",Опыт работы от 3 до 6 лет,Высшее техническое образование,Cybersecurity Analyst,synthetic_generator,yes
+40ceb710,Cybersecurity Analyst,"информационная безопасность, пентестер, kali linux, безопасность, сети, siem, wireshark, linux",Опыт более 6 лет,Среднее специальное образование,Cybersecurity Analyst,synthetic_generator,yes
+8b8e2643,Cybersecurity Analyst,"криптография, уязвимости, soc, kali linux, защита данных, siem",Опыт более 6 лет,Среднее специальное образование,Cybersecurity Analyst,synthetic_generator,yes
+e0aef50d,Cybersecurity Analyst,"wireshark, linux, security, bash, защита данных",Опыт работы от 3 до 6 лет,Высшее образование,Cybersecurity Analyst,synthetic_generator,yes
+a58dfc20,Cybersecurity Analyst,"owasp, kali linux, bash, appsec, криптография, security, информационная безопасность, soc",Без опыта,Студент,Cybersecurity Analyst,synthetic_generator,yes
+6e8e5daa,Cybersecurity Analyst,"уязвимости, security, криптография, linux, appsec, сети",Опыт работы от 1 до 3 лет,Высшее техническое образование,Cybersecurity Analyst,synthetic_generator,yes
+c81cef07,Cybersecurity Analyst,"уязвимости, kali linux, безопасность, security, wireshark",Опыт работы от 3 до 6 лет,Высшее образование,Cybersecurity Analyst,synthetic_generator,yes
+ae0437a2,Cybersecurity Analyst,"bash, siem, сети, уязвимости, soc, безопасность, информационная безопасность",Опыт более 6 лет,Не имеет значения,Cybersecurity Analyst,synthetic_generator,yes
+d4061650,Cybersecurity Analyst,"security, appsec, защита данных, siem, soc, криптография, пентестер",Опыт более 6 лет,Высшее техническое образование,Cybersecurity Analyst,synthetic_generator,yes
+098f69a0,Cybersecurity Analyst,"appsec, security, безопасность, сети",Опыт более 6 лет,Студент,Cybersecurity Analyst,synthetic_generator,yes
+0bd5e82c,Cybersecurity Analyst,"soc, wireshark, пентестер, appsec, криптография, сети, защита данных, bash",Опыт работы от 3 до 6 лет,Студент,Cybersecurity Analyst,synthetic_generator,yes
+e924b2df,Cybersecurity Analyst,"уязвимости, appsec, информационная безопасность, security, owasp, криптография, wireshark, linux",Без опыта,Высшее образование,Cybersecurity Analyst,synthetic_generator,yes
+a74c5edd,Cybersecurity Analyst,"уязвимости, криптография, bash, linux, защита данных, siem, owasp",Опыт работы от 3 до 6 лет,Среднее специальное образование,Cybersecurity Analyst,synthetic_generator,yes
+24892011,Cybersecurity Analyst,"безопасность, сети, appsec, linux, soc",Опыт работы от 3 до 6 лет,Среднее специальное образование,Cybersecurity Analyst,synthetic_generator,yes
+1e1715a3,Cybersecurity Analyst,"уязвимости, security, сети, soc",Без опыта,Высшее техническое образование,Cybersecurity Analyst,synthetic_generator,yes
+a5d4f459,Cybersecurity Analyst,"информационная безопасность, сети, безопасность, kali linux, защита данных",Без опыта,Студент,Cybersecurity Analyst,synthetic_generator,yes
+be63e27d,Data Scientist,"data science, нейросети, математика, deep learning, scikit-learn",Без опыта,Студент,Data Scientist,synthetic_generator,yes
+9a9e01ce,Data Scientist,"computer vision, ml, deep learning, pytorch, python, scikit-learn",Опыт работы от 1 до 3 лет,Не имеет значения,Data Scientist,synthetic_generator,yes
+35a14476,Data Scientist,"computer vision, machine learning, ml, data science, нейросети, статистика",Без опыта,Высшее образование,Data Scientist,synthetic_generator,yes
+99c004ff,Data Scientist,"machine learning, computer vision, nlp, pytorch, tensorflow, ml",Опыт работы от 3 до 6 лет,Студент,Data Scientist,synthetic_generator,yes
+b8e02630,Data Scientist,"nlp, scikit-learn, pytorch, computer vision, pandas, tensorflow, deep learning",Опыт работы от 3 до 6 лет,Не имеет значения,Data Scientist,synthetic_generator,yes
+2d1f1ac0,Data Scientist,"machine learning, нейросети, scikit-learn, математика, ml, data science, python",Без опыта,Студент,Data Scientist,synthetic_generator,yes
+c60ea0ef,Data Scientist,"machine learning, математика, нейросети, tensorflow, scikit-learn, pytorch",Опыт работы от 1 до 3 лет,Среднее специальное образование,Data Scientist,synthetic_generator,yes
+d10e6e12,Data Scientist,"ml, python, deep learning, статистика",Опыт более 6 лет,Не имеет значения,Data Scientist,synthetic_generator,yes
+50a68ad4,Data Scientist,"статистика, ml, scikit-learn, pytorch, nlp, математика",Опыт работы от 1 до 3 лет,Студент,Data Scientist,synthetic_generator,yes
+5d7df884,Data Scientist,"deep learning, статистика, python, математика, machine learning, computer vision",Без опыта,Высшее техническое образование,Data Scientist,synthetic_generator,yes
+963f6c5d,Data Scientist,"deep learning, pandas, data science, computer vision, pytorch, ml, machine learning, nlp",Опыт более 6 лет,Студент,Data Scientist,synthetic_generator,yes
+75215c63,Data Scientist,"nlp, scikit-learn, deep learning, data science, python, нейросети",Опыт работы от 3 до 6 лет,Высшее образование,Data Scientist,synthetic_generator,yes
+46e170c6,Data Scientist,"data science, pytorch, статистика, deep learning, machine learning, ml, scikit-learn, computer vision",Опыт работы от 3 до 6 лет,Студент,Data Scientist,synthetic_generator,yes
+f518ee82,Data Scientist,"pytorch, статистика, data science, ml",Опыт более 6 лет,Среднее специальное образование,Data Scientist,synthetic_generator,yes
+55e77d3a,Data Scientist,"pytorch, machine learning, scikit-learn, математика, статистика, tensorflow, pandas",Опыт работы от 3 до 6 лет,Высшее образование,Data Scientist,synthetic_generator,yes
+47b7fb34,Data Scientist,"tensorflow, pandas, python, nlp, ml, machine learning, нейросети, scikit-learn",Опыт более 6 лет,Студент,Data Scientist,synthetic_generator,yes
+59781855,Data Scientist,"data science, нейросети, nlp, tensorflow",Опыт работы от 1 до 3 лет,Студент,Data Scientist,synthetic_generator,yes
+b4a05b67,Data Scientist,"data science, deep learning, tensorflow, математика, нейросети",Опыт более 6 лет,Среднее специальное образование,Data Scientist,synthetic_generator,yes
+1eb248bc,Data Scientist,"computer vision, статистика, tensorflow, ml, pytorch",Опыт более 6 лет,Среднее специальное образование,Data Scientist,synthetic_generator,yes
+68e25736,Data Scientist,"scikit-learn, ml, data science, tensorflow, computer vision, pandas",Опыт работы от 1 до 3 лет,Высшее образование,Data Scientist,synthetic_generator,yes
+8e59baf1,Data Scientist,"нейросети, python, ml, pandas, deep learning",Без опыта,Студент,Data Scientist,synthetic_generator,yes
+2af3bbcc,Data Scientist,"data science, математика, deep learning, machine learning, nlp, статистика, pandas, tensorflow",Без опыта,Высшее техническое образование,Data Scientist,synthetic_generator,yes
+53af1a35,Data Scientist,"pytorch, pandas, tensorflow, ml",Опыт работы от 3 до 6 лет,Не имеет значения,Data Scientist,synthetic_generator,yes
+08e13783,Data Scientist,"статистика, nlp, machine learning, python, deep learning, data science, нейросети, pandas",Без опыта,Высшее техническое образование,Data Scientist,synthetic_generator,yes
+58a9ca9d,Data Scientist,"machine learning, pandas, deep learning, статистика, математика, data science",Без опыта,Высшее образование,Data Scientist,synthetic_generator,yes
+e2327d85,Data Scientist,"pytorch, математика, pandas, machine learning, ml, нейросети, data science",Опыт работы от 3 до 6 лет,Не имеет значения,Data Scientist,synthetic_generator,yes
+6bc3f1c2,Data Scientist,"python, pandas, deep learning, nlp, ml",Без опыта,Высшее образование,Data Scientist,synthetic_generator,yes
+64e345d0,Data Scientist,"nlp, tensorflow, python, статистика, machine learning, deep learning",Без опыта,Высшее образование,Data Scientist,synthetic_generator,yes
+d1e9adb8,Data Scientist,"нейросети, tensorflow, ml, computer vision, python",Без опыта,Студент,Data Scientist,synthetic_generator,yes
+d953cc92,Data Scientist,"data science, scikit-learn, tensorflow, python, deep learning, статистика, pandas, pytorch",Опыт более 6 лет,Студент,Data Scientist,synthetic_generator,yes
+bc4514d7,Data Scientist,"нейросети, python, математика, статистика, tensorflow, pytorch, deep learning, nlp",Опыт работы от 1 до 3 лет,Студент,Data Scientist,synthetic_generator,yes
+1977bc14,Data Scientist,"data science, python, pandas, нейросети, pytorch, machine learning",Опыт работы от 3 до 6 лет,Высшее техническое образование,Data Scientist,synthetic_generator,yes
+78cb8eae,Data Scientist,"nlp, математика, computer vision, tensorflow, pytorch",Опыт работы от 3 до 6 лет,Среднее специальное образование,Data Scientist,synthetic_generator,yes
+ca4821df,Data Scientist,"нейросети, статистика, математика, deep learning, pandas, python, ml, tensorflow",Опыт более 6 лет,Высшее техническое образование,Data Scientist,synthetic_generator,yes
+8409f6c3,Data Scientist,"pandas, nlp, python, нейросети, tensorflow, pytorch",Опыт работы от 1 до 3 лет,Высшее техническое образование,Data Scientist,synthetic_generator,yes
+abef0714,Data Scientist,"computer vision, pytorch, нейросети, pandas, nlp, deep learning, python, scikit-learn",Опыт работы от 3 до 6 лет,Студент,Data Scientist,synthetic_generator,yes
+2cead074,Data Scientist,"pandas, ml, deep learning, математика",Без опыта,Среднее специальное образование,Data Scientist,synthetic_generator,yes
+560d3554,Data Scientist,"python, scikit-learn, статистика, нейросети, computer vision, ml",Без опыта,Среднее специальное образование,Data Scientist,synthetic_generator,yes
+ff0904d5,Data Scientist,"python, deep learning, data science, tensorflow, machine learning, ml, computer vision, pytorch",Опыт более 6 лет,Высшее образование,Data Scientist,synthetic_generator,yes
+5f78024c,Data Scientist,"nlp, ml, tensorflow, python, computer vision, статистика",Опыт работы от 3 до 6 лет,Высшее техническое образование,Data Scientist,synthetic_generator,yes
+0b007ca7,Data Scientist,"нейросети, pandas, pytorch, scikit-learn, machine learning, tensorflow",Опыт работы от 3 до 6 лет,Высшее образование,Data Scientist,synthetic_generator,yes
+6c4151a6,Data Scientist,"pytorch, нейросети, статистика, data science, pandas, scikit-learn",Опыт более 6 лет,Высшее образование,Data Scientist,synthetic_generator,yes
+7aed9c36,Data Scientist,"pytorch, scikit-learn, математика, tensorflow, computer vision",Опыт более 6 лет,Студент,Data Scientist,synthetic_generator,yes
+71db29a9,Data Scientist,"data science, статистика, computer vision, математика, ml, nlp, pandas",Опыт более 6 лет,Студент,Data Scientist,synthetic_generator,yes
+89a3e36b,Data Scientist,"tensorflow, deep learning, scikit-learn, pytorch, computer vision",Без опыта,Не имеет значения,Data Scientist,synthetic_generator,yes
+99bad42e,Data Scientist,"scikit-learn, deep learning, нейросети, data science, computer vision, ml, machine learning",Без опыта,Не имеет значения,Data Scientist,synthetic_generator,yes
+f5a4eefe,Data Scientist,"нейросети, data science, статистика, computer vision, scikit-learn, ml, python, tensorflow",Опыт работы от 3 до 6 лет,Среднее специальное образование,Data Scientist,synthetic_generator,yes
+4fd17205,Data Scientist,"deep learning, нейросети, scikit-learn, python, статистика, computer vision",Опыт работы от 1 до 3 лет,Не имеет значения,Data Scientist,synthetic_generator,yes
+97bba410,Data Scientist,"data science, scikit-learn, machine learning, computer vision, tensorflow, нейросети, pytorch, pandas",Без опыта,Студент,Data Scientist,synthetic_generator,yes
+f06a748a,Data Scientist,"scikit-learn, ml, python, pytorch, nlp, tensorflow, deep learning",Опыт работы от 3 до 6 лет,Среднее специальное образование,Data Scientist,synthetic_generator,yes
+bfc6715d,Data Scientist,"статистика, nlp, математика, machine learning",Опыт работы от 1 до 3 лет,Не имеет значения,Data Scientist,synthetic_generator,yes
+fe6c9f67,Data Scientist,"data science, статистика, deep learning, pandas, computer vision, scikit-learn, python, ml",Опыт более 6 лет,Высшее образование,Data Scientist,synthetic_generator,yes
+d693a6a6,Data Scientist,"scikit-learn, deep learning, computer vision, pandas, data science, tensorflow, ml, nlp",Опыт работы от 1 до 3 лет,Высшее образование,Data Scientist,synthetic_generator,yes
+72599742,Data Scientist,"scikit-learn, machine learning, нейросети, data science, статистика, pandas",Без опыта,Высшее образование,Data Scientist,synthetic_generator,yes
+1a852151,Data Scientist,"data science, математика, нейросети, deep learning, статистика, machine learning, scikit-learn",Опыт работы от 3 до 6 лет,Не имеет значения,Data Scientist,synthetic_generator,yes
+c90d3564,Data Scientist,"pytorch, computer vision, tensorflow, data science, pandas",Опыт работы от 1 до 3 лет,Среднее специальное образование,Data Scientist,synthetic_generator,yes
+2067126b,Data Scientist,"computer vision, нейросети, data science, deep learning, scikit-learn",Опыт работы от 1 до 3 лет,Высшее техническое образование,Data Scientist,synthetic_generator,yes
+e587391a,Data Scientist,"deep learning, python, tensorflow, machine learning",Без опыта,Студент,Data Scientist,synthetic_generator,yes
+1b6b4156,Data Scientist,"статистика, pandas, python, deep learning, data science, scikit-learn, computer vision",Опыт более 6 лет,Высшее образование,Data Scientist,synthetic_generator,yes
+d4696b22,Data Scientist,"tensorflow, pandas, pytorch, data science, scikit-learn, ml",Без опыта,Студент,Data Scientist,synthetic_generator,yes
+d8658c79,Data Scientist,"computer vision, статистика, pandas, tensorflow, nlp, scikit-learn",Опыт работы от 1 до 3 лет,Высшее техническое образование,Data Scientist,synthetic_generator,yes
+5a5a6bb7,Data Scientist,"математика, machine learning, ml, pytorch, tensorflow, scikit-learn, статистика",Опыт работы от 3 до 6 лет,Не имеет значения,Data Scientist,synthetic_generator,yes
+074b1064,Data Scientist,"математика, tensorflow, data science, scikit-learn, computer vision, python",Опыт работы от 3 до 6 лет,Студент,Data Scientist,synthetic_generator,yes
+cec5e174,Data Scientist,"ml, pandas, deep learning, pytorch, нейросети, математика, scikit-learn",Опыт более 6 лет,Студент,Data Scientist,synthetic_generator,yes
+0d434229,Data Scientist,"nlp, pytorch, data science, pandas",Опыт работы от 1 до 3 лет,Высшее техническое образование,Data Scientist,synthetic_generator,yes
+d556c902,Data Scientist,"математика, nlp, python, deep learning, pandas, scikit-learn, data science, статистика",Без опыта,Высшее техническое образование,Data Scientist,synthetic_generator,yes
+bbab409f,Data Scientist,"pytorch, tensorflow, deep learning, математика, ml, nlp, нейросети, machine learning",Опыт работы от 3 до 6 лет,Не имеет значения,Data Scientist,synthetic_generator,yes
+ace4f693,Data Scientist,"computer vision, ml, нейросети, nlp, математика",Опыт более 6 лет,Не имеет значения,Data Scientist,synthetic_generator,yes
+32bede97,Data Scientist,"ml, scikit-learn, deep learning, tensorflow, nlp, статистика, нейросети, computer vision",Без опыта,Не имеет значения,Data Scientist,synthetic_generator,yes
+d3559ff1,Data Scientist,"ml, computer vision, machine learning, tensorflow",Опыт работы от 1 до 3 лет,Не имеет значения,Data Scientist,synthetic_generator,yes
+635fbaf8,Data Scientist,"scikit-learn, deep learning, pandas, ml, data science, статистика, математика, python",Без опыта,Не имеет значения,Data Scientist,synthetic_generator,yes
+0d045d60,Data Scientist,"ml, python, pandas, scikit-learn, статистика",Опыт работы от 3 до 6 лет,Высшее образование,Data Scientist,synthetic_generator,yes
+96c6f086,Data Scientist,"pandas, nlp, scikit-learn, python, нейросети",Опыт работы от 1 до 3 лет,Высшее техническое образование,Data Scientist,synthetic_generator,yes
+25e470c2,Data Scientist,"нейросети, deep learning, pandas, computer vision, математика, ml",Опыт более 6 лет,Не имеет значения,Data Scientist,synthetic_generator,yes
+afcfb6d7,Data Scientist,"machine learning, pytorch, нейросети, nlp, python, deep learning, pandas",Опыт работы от 1 до 3 лет,Студент,Data Scientist,synthetic_generator,yes
+31c8471b,Data Scientist,"ml, pandas, статистика, nlp, deep learning, tensorflow, data science, scikit-learn",Опыт работы от 3 до 6 лет,Высшее образование,Data Scientist,synthetic_generator,yes
+0be9cb29,Data Scientist,"computer vision, python, ml, pytorch",Опыт более 6 лет,Высшее образование,Data Scientist,synthetic_generator,yes
+5c4c30d8,Data Scientist,"computer vision, статистика, нейросети, deep learning",Опыт более 6 лет,Высшее образование,Data Scientist,synthetic_generator,yes
+54d0eb03,Data Scientist,"python, статистика, nlp, нейросети, tensorflow, математика, machine learning, computer vision",Опыт более 6 лет,Высшее техническое образование,Data Scientist,synthetic_generator,yes
+3f24961f,Data Scientist,"scikit-learn, machine learning, pandas, python, ml, pytorch, нейросети, nlp",Опыт работы от 1 до 3 лет,Не имеет значения,Data Scientist,synthetic_generator,yes
+c16a062a,Data Analyst,"a/b тестирование, excel, google analytics, bi аналитик, power bi, sql",Опыт работы от 1 до 3 лет,Студент,Data Analyst,synthetic_generator,yes
+45d87b7e,Data Analyst,"pandas, анализ данных, bi аналитик, tableau, a/b тестирование, аналитик данных",Опыт работы от 1 до 3 лет,Не имеет значения,Data Analyst,synthetic_generator,yes
+6509b2d4,Data Analyst,"bi аналитик, data analyst, google analytics, a/b тестирование, power bi, анализ данных",Опыт более 6 лет,Высшее техническое образование,Data Analyst,synthetic_generator,yes
+ffd44bee,Data Analyst,"tableau, excel, power bi, pandas, аналитик данных, sql, data analyst, базы данных",Опыт более 6 лет,Среднее специальное образование,Data Analyst,synthetic_generator,yes
+ec0a584e,Data Analyst,"базы данных, python, аналитик данных, tableau, bi аналитик, google analytics, анализ данных",Опыт более 6 лет,Студент,Data Analyst,synthetic_generator,yes
+561303fb,Data Analyst,"анализ данных, pandas, базы данных, sql, аналитик данных, excel, a/b тестирование, power bi",Опыт работы от 3 до 6 лет,Студент,Data Analyst,synthetic_generator,yes
+d778d0bd,Data Analyst,"tableau, sql, power bi, bi аналитик, базы данных",Опыт работы от 3 до 6 лет,Среднее специальное образование,Data Analyst,synthetic_generator,yes
+09d17bd3,Data Analyst,"аналитик данных, sql, data analyst, базы данных, a/b тестирование, pandas, анализ данных, google analytics",Без опыта,Не имеет значения,Data Analyst,synthetic_generator,yes
+f9ac043c,Data Analyst,"excel, google analytics, аналитик данных, tableau, a/b тестирование, bi аналитик, pandas",Опыт работы от 3 до 6 лет,Высшее техническое образование,Data Analyst,synthetic_generator,yes
+0bc3282e,Data Analyst,"python, анализ данных, pandas, excel, a/b тестирование, data analyst",Опыт более 6 лет,Среднее специальное образование,Data Analyst,synthetic_generator,yes
+15feac5f,Data Analyst,"a/b тестирование, базы данных, excel, google analytics",Без опыта,Не имеет значения,Data Analyst,synthetic_generator,yes
+01a204e2,Data Analyst,"power bi, a/b тестирование, базы данных, data analyst, sql, tableau",Опыт работы от 1 до 3 лет,Высшее образование,Data Analyst,synthetic_generator,yes
+2faef84b,Data Analyst,"excel, pandas, sql, a/b тестирование, аналитик данных, tableau",Опыт работы от 3 до 6 лет,Высшее техническое образование,Data Analyst,synthetic_generator,yes
+4a48e12c,Data Analyst,"power bi, excel, tableau, bi аналитик",Опыт работы от 3 до 6 лет,Студент,Data Analyst,synthetic_generator,yes
+9940c92b,Data Analyst,"базы данных, a/b тестирование, аналитик данных, tableau, pandas, sql, google analytics",Опыт работы от 3 до 6 лет,Студент,Data Analyst,synthetic_generator,yes
+efb62f03,Data Analyst,"data analyst, tableau, power bi, аналитик данных, python, excel, pandas",Опыт работы от 3 до 6 лет,Студент,Data Analyst,synthetic_generator,yes
+01b9c766,Data Analyst,"bi аналитик, data analyst, pandas, google analytics, аналитик данных, tableau, a/b тестирование, анализ данных",Без опыта,Не имеет значения,Data Analyst,synthetic_generator,yes
+447d9a3d,Data Analyst,"excel, sql, bi аналитик, power bi, python, анализ данных, аналитик данных",Опыт работы от 1 до 3 лет,Высшее образование,Data Analyst,synthetic_generator,yes
+b89ee18a,Data Analyst,"базы данных, bi аналитик, sql, data analyst",Опыт работы от 1 до 3 лет,Студент,Data Analyst,synthetic_generator,yes
+71f5c4b3,Data Analyst,"a/b тестирование, sql, аналитик данных, tableau, pandas, базы данных, google analytics, анализ данных",Опыт работы от 1 до 3 лет,Не имеет значения,Data Analyst,synthetic_generator,yes
+714c3467,Data Analyst,"python, bi аналитик, data analyst, анализ данных",Опыт работы от 3 до 6 лет,Среднее специальное образование,Data Analyst,synthetic_generator,yes
+1a46298d,Data Analyst,"bi аналитик, анализ данных, базы данных, pandas",Опыт более 6 лет,Среднее специальное образование,Data Analyst,synthetic_generator,yes
+d164c04c,Data Analyst,"базы данных, bi аналитик, data analyst, excel, аналитик данных, a/b тестирование",Опыт работы от 3 до 6 лет,Не имеет значения,Data Analyst,synthetic_generator,yes
+af28fcc8,Data Analyst,"анализ данных, a/b тестирование, excel, bi аналитик, базы данных",Опыт работы от 3 до 6 лет,Высшее техническое образование,Data Analyst,synthetic_generator,yes
+621f77cc,Data Analyst,"bi аналитик, базы данных, excel, sql, python",Опыт более 6 лет,Студент,Data Analyst,synthetic_generator,yes
+840ef04c,Data Analyst,"excel, pandas, a/b тестирование, базы данных, bi аналитик, python, аналитик данных, sql",Опыт работы от 1 до 3 лет,Студент,Data Analyst,synthetic_generator,yes
+f96bf722,Data Analyst,"bi аналитик, data analyst, a/b тестирование, аналитик данных, python, анализ данных",Опыт более 6 лет,Не имеет значения,Data Analyst,synthetic_generator,yes
+1fe15521,Data Analyst,"pandas, sql, базы данных, tableau, bi аналитик, аналитик данных, power bi",Без опыта,Среднее специальное образование,Data Analyst,synthetic_generator,yes
+86df38e8,Data Analyst,"excel, sql, data analyst, google analytics, базы данных, a/b тестирование",Без опыта,Не имеет значения,Data Analyst,synthetic_generator,yes
+3f476b05,Data Analyst,"pandas, аналитик данных, a/b тестирование, google analytics",Опыт более 6 лет,Студент,Data Analyst,synthetic_generator,yes
+fb84e8aa,Data Analyst,"excel, tableau, анализ данных, базы данных, a/b тестирование, аналитик данных, bi аналитик, sql",Опыт работы от 3 до 6 лет,Не имеет значения,Data Analyst,synthetic_generator,yes
+41f7eff2,Data Analyst,"a/b тестирование, аналитик данных, pandas, базы данных",Опыт более 6 лет,Высшее техническое образование,Data Analyst,synthetic_generator,yes
+acf7bfbf,Data Analyst,"bi аналитик, excel, sql, анализ данных, data analyst, power bi, tableau, базы данных",Опыт работы от 3 до 6 лет,Высшее образование,Data Analyst,synthetic_generator,yes
+53d98a52,Data Analyst,"power bi, sql, google analytics, a/b тестирование, data analyst",Опыт работы от 1 до 3 лет,Среднее специальное образование,Data Analyst,synthetic_generator,yes
+82b8986b,Data Analyst,"power bi, python, tableau, базы данных, sql, аналитик данных, google analytics",Без опыта,Высшее образование,Data Analyst,synthetic_generator,yes
+9ea73c5d,Data Analyst,"pandas, tableau, python, excel, data analyst",Без опыта,Высшее техническое образование,Data Analyst,synthetic_generator,yes
+e611fdcb,Data Analyst,"a/b тестирование, sql, data analyst, python, power bi",Опыт работы от 3 до 6 лет,Не имеет значения,Data Analyst,synthetic_generator,yes
+8dc3d1eb,Data Analyst,"аналитик данных, анализ данных, google analytics, bi аналитик, sql",Опыт более 6 лет,Не имеет значения,Data Analyst,synthetic_generator,yes
+16f60cc0,Data Analyst,"a/b тестирование, sql, bi аналитик, базы данных, анализ данных",Опыт работы от 3 до 6 лет,Высшее техническое образование,Data Analyst,synthetic_generator,yes
+ab814be6,Data Analyst,"power bi, python, аналитик данных, sql, data analyst, tableau",Опыт работы от 3 до 6 лет,Высшее образование,Data Analyst,synthetic_generator,yes
+373c99f4,Data Analyst,"tableau, sql, excel, bi аналитик, аналитик данных",Опыт работы от 1 до 3 лет,Среднее специальное образование,Data Analyst,synthetic_generator,yes
+a50f4970,Data Analyst,"power bi, excel, sql, tableau",Без опыта,Студент,Data Analyst,synthetic_generator,yes
+8f90c510,Data Analyst,"bi аналитик, google analytics, power bi, a/b тестирование",Опыт работы от 3 до 6 лет,Не имеет значения,Data Analyst,synthetic_generator,yes
+b099745f,Data Analyst,"анализ данных, excel, аналитик данных, tableau",Опыт работы от 3 до 6 лет,Студент,Data Analyst,synthetic_generator,yes
+3a8d47d6,Data Analyst,"google analytics, sql, power bi, python, pandas, excel, data analyst, tableau",Опыт работы от 1 до 3 лет,Не имеет значения,Data Analyst,synthetic_generator,yes
+13326be7,Data Analyst,"pandas, a/b тестирование, tableau, excel",Опыт более 6 лет,Высшее образование,Data Analyst,synthetic_generator,yes
+b4960348,Data Analyst,"sql, tableau, базы данных, python, pandas",Опыт работы от 3 до 6 лет,Высшее техническое образование,Data Analyst,synthetic_generator,yes
+54de4617,Data Analyst,"power bi, аналитик данных, google analytics, базы данных, python, tableau",Опыт более 6 лет,Высшее техническое образование,Data Analyst,synthetic_generator,yes
+6e3b496a,Data Analyst,"power bi, анализ данных, a/b тестирование, data analyst, sql, pandas",Опыт более 6 лет,Высшее образование,Data Analyst,synthetic_generator,yes
+1b2dd183,Data Analyst,"python, excel, a/b тестирование, google analytics",Опыт работы от 1 до 3 лет,Среднее специальное образование,Data Analyst,synthetic_generator,yes
+52b1371f,Data Analyst,"python, power bi, sql, a/b тестирование, google analytics, tableau, анализ данных",Опыт более 6 лет,Не имеет значения,Data Analyst,synthetic_generator,yes
+7eb034ec,Data Analyst,"базы данных, power bi, google analytics, анализ данных, a/b тестирование, tableau, python",Опыт работы от 1 до 3 лет,Высшее техническое образование,Data Analyst,synthetic_generator,yes
+c75a2a79,Data Analyst,"анализ данных, data analyst, sql, a/b тестирование, python, bi аналитик, tableau, google analytics",Опыт работы от 1 до 3 лет,Высшее техническое образование,Data Analyst,synthetic_generator,yes
+6eefc93d,Data Analyst,"a/b тестирование, базы данных, excel, аналитик данных, tableau, pandas, google analytics, power bi",Опыт работы от 3 до 6 лет,Высшее техническое образование,Data Analyst,synthetic_generator,yes
+b8478fb7,Data Analyst,"pandas, data analyst, power bi, excel, google analytics, a/b тестирование, tableau",Опыт работы от 1 до 3 лет,Среднее специальное образование,Data Analyst,synthetic_generator,yes
+f7a087f3,Data Analyst,"a/b тестирование, excel, bi аналитик, анализ данных, sql, google analytics, power bi, tableau",Опыт более 6 лет,Не имеет значения,Data Analyst,synthetic_generator,yes
+2592a53e,Data Analyst,"tableau, excel, data analyst, python, a/b тестирование",Опыт работы от 3 до 6 лет,Не имеет значения,Data Analyst,synthetic_generator,yes
+8f7a4e32,Data Analyst,"data analyst, аналитик данных, анализ данных, sql, python, a/b тестирование, power bi",Без опыта,Среднее специальное образование,Data Analyst,synthetic_generator,yes
+b1786764,Data Analyst,"data analyst, a/b тестирование, базы данных, power bi, pandas, аналитик данных, excel",Опыт более 6 лет,Среднее специальное образование,Data Analyst,synthetic_generator,yes
+b2f5d5e6,Data Analyst,"sql, базы данных, a/b тестирование, pandas",Опыт более 6 лет,Среднее специальное образование,Data Analyst,synthetic_generator,yes
+3ee4d8f3,Data Analyst,"анализ данных, excel, google analytics, data analyst",Опыт работы от 3 до 6 лет,Не имеет значения,Data Analyst,synthetic_generator,yes
+dda4ebaf,Data Analyst,"sql, базы данных, power bi, анализ данных, bi аналитик, pandas",Без опыта,Не имеет значения,Data Analyst,synthetic_generator,yes
+6a009862,Data Analyst,"аналитик данных, data analyst, python, excel, базы данных, pandas",Опыт работы от 1 до 3 лет,Среднее специальное образование,Data Analyst,synthetic_generator,yes
+603f48c0,Data Analyst,"анализ данных, tableau, excel, bi аналитик, data analyst, базы данных, google analytics",Без опыта,Высшее образование,Data Analyst,synthetic_generator,yes
+95adbc47,Data Analyst,"базы данных, power bi, аналитик данных, bi аналитик, анализ данных, python",Опыт работы от 1 до 3 лет,Студент,Data Analyst,synthetic_generator,yes
+4800bc2f,Data Analyst,"bi аналитик, tableau, google analytics, a/b тестирование, анализ данных, python, аналитик данных",Без опыта,Среднее специальное образование,Data Analyst,synthetic_generator,yes
+290f09ac,Data Analyst,"excel, pandas, bi аналитик, tableau, a/b тестирование, анализ данных, google analytics, power bi",Опыт более 6 лет,Высшее образование,Data Analyst,synthetic_generator,yes
+33bab849,Data Analyst,"google analytics, excel, power bi, pandas, аналитик данных, базы данных",Без опыта,Среднее специальное образование,Data Analyst,synthetic_generator,yes
+6ae30664,Data Analyst,"pandas, sql, bi аналитик, python, анализ данных, data analyst, базы данных, a/b тестирование",Без опыта,Высшее образование,Data Analyst,synthetic_generator,yes
+87221a8a,Data Analyst,"data analyst, pandas, tableau, базы данных, анализ данных, sql, python, аналитик данных",Опыт работы от 1 до 3 лет,Среднее специальное образование,Data Analyst,synthetic_generator,yes
+1df2f893,Data Analyst,"sql, a/b тестирование, excel, pandas",Опыт работы от 3 до 6 лет,Среднее специальное образование,Data Analyst,synthetic_generator,yes
+a00a1960,Data Analyst,"sql, data analyst, pandas, power bi, a/b тестирование, excel, базы данных",Опыт более 6 лет,Высшее техническое образование,Data Analyst,synthetic_generator,yes
+7e9da54b,Data Analyst,"анализ данных, pandas, google analytics, python",Опыт работы от 3 до 6 лет,Высшее образование,Data Analyst,synthetic_generator,yes
+f233679e,Data Analyst,"bi аналитик, базы данных, аналитик данных, a/b тестирование, tableau, python, power bi",Опыт работы от 3 до 6 лет,Студент,Data Analyst,synthetic_generator,yes
+07877fa5,Data Analyst,"google analytics, pandas, python, excel, tableau, анализ данных, базы данных",Опыт более 6 лет,Высшее техническое образование,Data Analyst,synthetic_generator,yes
+769ffe82,Data Analyst,"power bi, data analyst, google analytics, bi аналитик, pandas, a/b тестирование, python, базы данных",Опыт работы от 3 до 6 лет,Не имеет значения,Data Analyst,synthetic_generator,yes
+6ec3d8f9,Data Analyst,"анализ данных, python, google analytics, power bi",Опыт работы от 1 до 3 лет,Студент,Data Analyst,synthetic_generator,yes
+c5c24714,Data Analyst,"bi аналитик, базы данных, excel, data analyst",Без опыта,Высшее техническое образование,Data Analyst,synthetic_generator,yes
+1e52a645,Data Analyst,"power bi, python, pandas, excel, data analyst, tableau, анализ данных",Без опыта,Высшее образование,Data Analyst,synthetic_generator,yes
+1f7040b3,Data Analyst,"data analyst, a/b тестирование, pandas, tableau, python, bi аналитик, excel",Опыт более 6 лет,Не имеет значения,Data Analyst,synthetic_generator,yes
+c50aca71,Data Engineer,"hadoop, базы данных, sql, data engineer, etl, dwh",Без опыта,Среднее специальное образование,Data Engineer,synthetic_generator,yes
+29e06e75,Data Engineer,"spark, hadoop, kubernetes, etl, dwh, airflow",Без опыта,Студент,Data Engineer,synthetic_generator,yes
+2ffdf6b8,Data Engineer,"airflow, dwh, etl, базы данных, sql",Опыт более 6 лет,Высшее техническое образование,Data Engineer,synthetic_generator,yes
+3cda66d6,Data Engineer,"dwh, postgresql, python, airflow",Опыт работы от 1 до 3 лет,Студент,Data Engineer,synthetic_generator,yes
+f4744917,Data Engineer,"инженер данных, docker, kubernetes, spark, dwh, data engineer",Опыт более 6 лет,Не имеет значения,Data Engineer,synthetic_generator,yes
+5e15e206,Data Engineer,"dwh, kafka, spark, инженер данных, docker, postgresql, hadoop, etl",Опыт более 6 лет,Среднее специальное образование,Data Engineer,synthetic_generator,yes
+b28b84f4,Data Engineer,"python, sql, kafka, data engineer, dwh, airflow",Опыт работы от 1 до 3 лет,Студент,Data Engineer,synthetic_generator,yes
+a62b7d53,Data Engineer,"sql, инженер данных, docker, hadoop, spark",Опыт работы от 1 до 3 лет,Высшее техническое образование,Data Engineer,synthetic_generator,yes
+0e4f23e5,Data Engineer,"kafka, dwh, kubernetes, etl, python, базы данных, airflow, hadoop",Без опыта,Студент,Data Engineer,synthetic_generator,yes
+4a996c98,Data Engineer,"data engineer, airflow, dwh, hadoop, postgresql, docker",Опыт работы от 3 до 6 лет,Среднее специальное образование,Data Engineer,synthetic_generator,yes
+f7a46dcf,Data Engineer,"базы данных, инженер данных, etl, python, spark, data engineer",Опыт работы от 3 до 6 лет,Высшее техническое образование,Data Engineer,synthetic_generator,yes
+f878fc04,Data Engineer,"sql, kafka, etl, hadoop, airflow, базы данных, инженер данных",Опыт более 6 лет,Высшее образование,Data Engineer,synthetic_generator,yes
+22a6d75b,Data Engineer,"python, инженер данных, hadoop, kafka, kubernetes, airflow, dwh",Без опыта,Не имеет значения,Data Engineer,synthetic_generator,yes
+9af7bf21,Data Engineer,"python, dwh, kubernetes, spark, sql, postgresql",Опыт работы от 1 до 3 лет,Среднее специальное образование,Data Engineer,synthetic_generator,yes
+2dbef4bf,Data Engineer,"kafka, инженер данных, etl, airflow, docker, dwh, базы данных",Опыт более 6 лет,Студент,Data Engineer,synthetic_generator,yes
+f1049a7c,Data Engineer,"postgresql, sql, docker, spark, базы данных, kubernetes",Без опыта,Студент,Data Engineer,synthetic_generator,yes
+1ad16c66,Data Engineer,"spark, hadoop, python, docker, postgresql",Опыт работы от 3 до 6 лет,Студент,Data Engineer,synthetic_generator,yes
+ffe4591f,Data Engineer,"sql, data engineer, dwh, airflow, kubernetes, postgresql",Опыт работы от 1 до 3 лет,Студент,Data Engineer,synthetic_generator,yes
+53b49dfa,Data Engineer,"dwh, postgresql, kafka, data engineer, kubernetes, инженер данных, airflow",Опыт работы от 1 до 3 лет,Не имеет значения,Data Engineer,synthetic_generator,yes
+a06beb75,Data Engineer,"hadoop, python, postgresql, kafka, dwh, инженер данных, базы данных, sql",Опыт более 6 лет,Высшее техническое образование,Data Engineer,synthetic_generator,yes
+4b8feef4,Data Engineer,"инженер данных, kafka, etl, data engineer, dwh, hadoop, kubernetes",Опыт работы от 1 до 3 лет,Высшее образование,Data Engineer,synthetic_generator,yes
+508b2a85,Data Engineer,"базы данных, airflow, kafka, kubernetes",Без опыта,Высшее техническое образование,Data Engineer,synthetic_generator,yes
+57eb2144,Data Engineer,"docker, dwh, spark, инженер данных, sql, python, postgresql",Опыт работы от 1 до 3 лет,Высшее техническое образование,Data Engineer,synthetic_generator,yes
+340cc803,Data Engineer,"etl, python, dwh, airflow, базы данных, docker",Опыт более 6 лет,Студент,Data Engineer,synthetic_generator,yes
+645db17b,Data Engineer,"dwh, postgresql, spark, docker, инженер данных",Опыт работы от 3 до 6 лет,Среднее специальное образование,Data Engineer,synthetic_generator,yes
+35f46fbe,Data Engineer,"sql, airflow, kubernetes, инженер данных, data engineer, etl, hadoop, dwh",Опыт более 6 лет,Среднее специальное образование,Data Engineer,synthetic_generator,yes
+6e701bf3,Data Engineer,"kubernetes, python, инженер данных, docker, data engineer, postgresql",Опыт более 6 лет,Высшее образование,Data Engineer,synthetic_generator,yes
+f4a5ba3b,Data Engineer,"postgresql, базы данных, airflow, data engineer, инженер данных, kubernetes, spark",Опыт работы от 1 до 3 лет,Студент,Data Engineer,synthetic_generator,yes
+7fd66d01,Data Engineer,"docker, sql, data engineer, базы данных, dwh, kubernetes, airflow",Опыт работы от 3 до 6 лет,Среднее специальное образование,Data Engineer,synthetic_generator,yes
+485b0e43,Data Engineer,"postgresql, dwh, spark, etl, базы данных",Опыт более 6 лет,Высшее техническое образование,Data Engineer,synthetic_generator,yes
+ab3794ad,Data Engineer,"airflow, dwh, data engineer, etl, инженер данных, spark",Опыт работы от 1 до 3 лет,Студент,Data Engineer,synthetic_generator,yes
+930da75d,Data Engineer,"spark, etl, postgresql, docker",Опыт работы от 1 до 3 лет,Высшее техническое образование,Data Engineer,synthetic_generator,yes
+4fa68acc,Data Engineer,"airflow, базы данных, spark, data engineer",Опыт работы от 1 до 3 лет,Высшее техническое образование,Data Engineer,synthetic_generator,yes
+ce017c47,Data Engineer,"airflow, data engineer, spark, инженер данных",Опыт работы от 1 до 3 лет,Не имеет значения,Data Engineer,synthetic_generator,yes
+1a1f2aa3,Data Engineer,"sql, etl, инженер данных, dwh, kubernetes, spark, python",Без опыта,Среднее специальное образование,Data Engineer,synthetic_generator,yes
+37d780e4,Data Engineer,"docker, hadoop, python, базы данных, kubernetes, postgresql",Опыт работы от 3 до 6 лет,Среднее специальное образование,Data Engineer,synthetic_generator,yes
+dc5a8f4a,Data Engineer,"hadoop, sql, spark, инженер данных, data engineer, kafka",Без опыта,Среднее специальное образование,Data Engineer,synthetic_generator,yes
+05c85cec,Data Engineer,"postgresql, kafka, airflow, sql, etl, docker, hadoop, инженер данных",Опыт работы от 1 до 3 лет,Студент,Data Engineer,synthetic_generator,yes
+2610cb05,Data Engineer,"docker, sql, postgresql, spark, kubernetes, airflow, python",Опыт более 6 лет,Студент,Data Engineer,synthetic_generator,yes
+a9648d5a,Data Engineer,"sql, kubernetes, dwh, spark",Опыт работы от 3 до 6 лет,Среднее специальное образование,Data Engineer,synthetic_generator,yes
+f6ad8df3,Data Engineer,"инженер данных, etl, airflow, data engineer, sql, dwh",Без опыта,Студент,Data Engineer,synthetic_generator,yes
+88e95956,Data Engineer,"базы данных, sql, kafka, инженер данных, hadoop, dwh, postgresql, docker",Опыт работы от 3 до 6 лет,Высшее образование,Data Engineer,synthetic_generator,yes
+633dc510,Data Engineer,"dwh, spark, sql, docker, kubernetes, postgresql",Без опыта,Студент,Data Engineer,synthetic_generator,yes
+40cf65f2,Data Engineer,"etl, dwh, docker, python, kubernetes, hadoop",Без опыта,Не имеет значения,Data Engineer,synthetic_generator,yes
+0f77f6d8,Data Engineer,"postgresql, python, dwh, инженер данных, kubernetes, etl, docker, sql",Опыт работы от 1 до 3 лет,Студент,Data Engineer,synthetic_generator,yes
+e0041609,Data Engineer,"dwh, python, docker, sql, data engineer, kafka, kubernetes, базы данных",Опыт работы от 3 до 6 лет,Высшее техническое образование,Data Engineer,synthetic_generator,yes
+28a3992f,Data Engineer,"dwh, etl, hadoop, python, data engineer, инженер данных, airflow",Без опыта,Студент,Data Engineer,synthetic_generator,yes
+790fc12c,Data Engineer,"hadoop, etl, базы данных, sql, kafka, kubernetes",Опыт работы от 3 до 6 лет,Студент,Data Engineer,synthetic_generator,yes
+401353a0,Data Engineer,"airflow, etl, инженер данных, kubernetes, data engineer",Опыт более 6 лет,Среднее специальное образование,Data Engineer,synthetic_generator,yes
+8304181f,Data Engineer,"базы данных, инженер данных, sql, hadoop, etl",Без опыта,Среднее специальное образование,Data Engineer,synthetic_generator,yes
+d80c89b1,Data Engineer,"инженер данных, sql, базы данных, hadoop, etl, kafka",Опыт более 6 лет,Не имеет значения,Data Engineer,synthetic_generator,yes
+802a9613,Data Engineer,"базы данных, инженер данных, data engineer, dwh, kafka, postgresql, python",Опыт работы от 1 до 3 лет,Среднее специальное образование,Data Engineer,synthetic_generator,yes
+6d572232,Data Engineer,"docker, инженер данных, dwh, etl",Без опыта,Высшее техническое образование,Data Engineer,synthetic_generator,yes
+98ef0b90,Data Engineer,"airflow, spark, базы данных, data engineer, etl, python, sql, docker",Опыт работы от 1 до 3 лет,Высшее техническое образование,Data Engineer,synthetic_generator,yes
+dea78fb3,Data Engineer,"базы данных, airflow, sql, postgresql, python, hadoop",Опыт работы от 3 до 6 лет,Высшее образование,Data Engineer,synthetic_generator,yes
+30f7e290,Data Engineer,"sql, etl, postgresql, dwh, spark, kubernetes, python, data engineer",Опыт работы от 1 до 3 лет,Среднее специальное образование,Data Engineer,synthetic_generator,yes
+30e96b4c,Data Engineer,"airflow, базы данных, python, kubernetes, dwh, hadoop",Опыт работы от 1 до 3 лет,Среднее специальное образование,Data Engineer,synthetic_generator,yes
+51cab1a8,Data Engineer,"sql, kafka, etl, базы данных",Опыт более 6 лет,Среднее специальное образование,Data Engineer,synthetic_generator,yes
+db7b6500,Data Engineer,"python, data engineer, базы данных, spark",Опыт работы от 3 до 6 лет,Не имеет значения,Data Engineer,synthetic_generator,yes
+50de5fe0,Data Engineer,"airflow, spark, data engineer, kubernetes",Без опыта,Не имеет значения,Data Engineer,synthetic_generator,yes
+dcff827a,Data Engineer,"data engineer, hadoop, postgresql, базы данных",Опыт работы от 3 до 6 лет,Высшее образование,Data Engineer,synthetic_generator,yes
+cfa8dfda,Data Engineer,"kafka, etl, airflow, sql",Опыт работы от 1 до 3 лет,Не имеет значения,Data Engineer,synthetic_generator,yes
+a117c251,Data Engineer,"базы данных, kubernetes, spark, dwh, kafka, etl, инженер данных",Без опыта,Среднее специальное образование,Data Engineer,synthetic_generator,yes
+d7ee5d0b,Data Engineer,"docker, data engineer, python, kafka, инженер данных, etl",Опыт более 6 лет,Не имеет значения,Data Engineer,synthetic_generator,yes
+9de4a445,Data Engineer,"airflow, sql, kubernetes, инженер данных, spark, hadoop, docker, postgresql",Опыт работы от 3 до 6 лет,Не имеет значения,Data Engineer,synthetic_generator,yes
+dbe96829,Data Engineer,"data engineer, airflow, kubernetes, sql, инженер данных, dwh",Опыт работы от 1 до 3 лет,Не имеет значения,Data Engineer,synthetic_generator,yes
+523bec7e,Data Engineer,"data engineer, hadoop, postgresql, spark, etl, airflow",Опыт более 6 лет,Не имеет значения,Data Engineer,synthetic_generator,yes
+b247fbdf,Data Engineer,"data engineer, sql, hadoop, kafka, postgresql, python, spark, airflow",Опыт работы от 3 до 6 лет,Среднее специальное образование,Data Engineer,synthetic_generator,yes
+126470fc,Data Engineer,"sql, hadoop, dwh, airflow, инженер данных",Опыт работы от 3 до 6 лет,Среднее специальное образование,Data Engineer,synthetic_generator,yes
+b662c47c,Data Engineer,"dwh, sql, docker, python, postgresql, базы данных, data engineer",Опыт работы от 3 до 6 лет,Среднее специальное образование,Data Engineer,synthetic_generator,yes
+8b4c10ff,Full Stack Developer,"python, postgresql, фуллстек, docker",Опыт более 6 лет,Студент,Full Stack Developer,synthetic_generator,yes
+319c5893,Full Stack Developer,"docker, javascript, react, html, php, python",Опыт работы от 1 до 3 лет,Не имеет значения,Full Stack Developer,synthetic_generator,yes
+2c774928,Full Stack Developer,"фуллстек, full stack, css, docker, git",Опыт работы от 3 до 6 лет,Высшее техническое образование,Full Stack Developer,synthetic_generator,yes
+bbbcddbb,Full Stack Developer,"docker, фуллстек, python, django, postgresql, html, typescript",Опыт более 6 лет,Студент,Full Stack Developer,synthetic_generator,yes
+c171ff03,Full Stack Developer,"python, фуллстек, html, git, full stack, php",Без опыта,Студент,Full Stack Developer,synthetic_generator,yes
+e559a996,Full Stack Developer,"git, typescript, css, python, php, фуллстек",Без опыта,Высшее техническое образование,Full Stack Developer,synthetic_generator,yes
+216af2d3,Full Stack Developer,"git, react, node.js, django, python, javascript, html, postgresql",Опыт более 6 лет,Студент,Full Stack Developer,synthetic_generator,yes
+2f42089b,Full Stack Developer,"html, postgresql, фуллстек, node.js",Без опыта,Студент,Full Stack Developer,synthetic_generator,yes
+04ce358b,Full Stack Developer,"php, html, typescript, javascript",Без опыта,Высшее техническое образование,Full Stack Developer,synthetic_generator,yes
+3e8ddac9,Full Stack Developer,"git, node.js, javascript, фуллстек",Опыт работы от 3 до 6 лет,Высшее образование,Full Stack Developer,synthetic_generator,yes
+5dd93bf2,Full Stack Developer,"django, python, typescript, docker, php, html, css",Опыт работы от 3 до 6 лет,Высшее образование,Full Stack Developer,synthetic_generator,yes
+53d68d6f,Full Stack Developer,"фуллстек, full stack, python, html, git, django, css, react",Опыт более 6 лет,Студент,Full Stack Developer,synthetic_generator,yes
+6e805053,Full Stack Developer,"docker, react, django, node.js, full stack",Без опыта,Среднее специальное образование,Full Stack Developer,synthetic_generator,yes
+3e00c0e3,Full Stack Developer,"html, css, postgresql, git, javascript, react, typescript",Опыт работы от 3 до 6 лет,Высшее образование,Full Stack Developer,synthetic_generator,yes
+29e34e54,Full Stack Developer,"docker, javascript, django, typescript, postgresql, git, node.js, react",Опыт работы от 3 до 6 лет,Высшее техническое образование,Full Stack Developer,synthetic_generator,yes
+bebaf9dd,Full Stack Developer,"node.js, postgresql, django, git, javascript, docker, html, python",Опыт более 6 лет,Высшее техническое образование,Full Stack Developer,synthetic_generator,yes
+fe3aad27,Full Stack Developer,"full stack, css, typescript, node.js",Без опыта,Студент,Full Stack Developer,synthetic_generator,yes
+0c28fb42,Full Stack Developer,"git, css, postgresql, фуллстек",Опыт работы от 1 до 3 лет,Студент,Full Stack Developer,synthetic_generator,yes
+2cb2ed6e,Full Stack Developer,"react, node.js, javascript, postgresql, typescript",Опыт работы от 3 до 6 лет,Студент,Full Stack Developer,synthetic_generator,yes
+40a75fe8,Full Stack Developer,"full stack, postgresql, javascript, css, html, docker, php, django",Опыт работы от 3 до 6 лет,Высшее техническое образование,Full Stack Developer,synthetic_generator,yes
+df98b58f,Full Stack Developer,"git, django, php, html",Опыт более 6 лет,Не имеет значения,Full Stack Developer,synthetic_generator,yes
+8bcdc319,Full Stack Developer,"full stack, postgresql, php, html, python, docker, javascript",Опыт более 6 лет,Студент,Full Stack Developer,synthetic_generator,yes
+9284d29f,Full Stack Developer,"django, postgresql, python, javascript, css, node.js, docker, react",Опыт работы от 1 до 3 лет,Студент,Full Stack Developer,synthetic_generator,yes
+376e2e23,Full Stack Developer,"typescript, php, css, full stack, postgresql",Опыт работы от 3 до 6 лет,Высшее образование,Full Stack Developer,synthetic_generator,yes
+78d4a708,Full Stack Developer,"typescript, node.js, css, django, php",Опыт работы от 1 до 3 лет,Высшее образование,Full Stack Developer,synthetic_generator,yes
+04dc91c4,Full Stack Developer,"typescript, git, css, django",Опыт работы от 3 до 6 лет,Не имеет значения,Full Stack Developer,synthetic_generator,yes
+8a115d2a,Full Stack Developer,"git, фуллстек, node.js, django, python, php, react",Опыт работы от 3 до 6 лет,Высшее образование,Full Stack Developer,synthetic_generator,yes
+9a4c5034,Full Stack Developer,"html, php, typescript, docker, react, postgresql",Без опыта,Среднее специальное образование,Full Stack Developer,synthetic_generator,yes
+0c5b7caa,Full Stack Developer,"html, full stack, node.js, django, react, javascript, css, docker",Опыт работы от 1 до 3 лет,Студент,Full Stack Developer,synthetic_generator,yes
+e78e94bd,Full Stack Developer,"docker, php, django, full stack, typescript",Без опыта,Студент,Full Stack Developer,synthetic_generator,yes
+068b78e3,Full Stack Developer,"docker, typescript, html, python, фуллстек, javascript, django, git",Опыт работы от 3 до 6 лет,Высшее образование,Full Stack Developer,synthetic_generator,yes
+7ecad5fb,Full Stack Developer,"react, фуллстек, html, node.js, git, python, django, css",Опыт работы от 1 до 3 лет,Высшее образование,Full Stack Developer,synthetic_generator,yes
+9902fe03,Full Stack Developer,"git, javascript, typescript, python, php, full stack, django, postgresql",Опыт более 6 лет,Не имеет значения,Full Stack Developer,synthetic_generator,yes
+97dc7710,Full Stack Developer,"typescript, postgresql, react, html, php, node.js",Опыт работы от 3 до 6 лет,Студент,Full Stack Developer,synthetic_generator,yes
+8a51919f,Full Stack Developer,"python, postgresql, full stack, git, django",Опыт работы от 1 до 3 лет,Не имеет значения,Full Stack Developer,synthetic_generator,yes
+8fea1322,Full Stack Developer,"python, react, php, node.js, html, git",Опыт работы от 3 до 6 лет,Высшее образование,Full Stack Developer,synthetic_generator,yes
+abc45294,Full Stack Developer,"php, postgresql, git, html, react",Опыт работы от 1 до 3 лет,Не имеет значения,Full Stack Developer,synthetic_generator,yes
+25e447b9,Full Stack Developer,"django, docker, postgresql, full stack",Опыт работы от 1 до 3 лет,Высшее техническое образование,Full Stack Developer,synthetic_generator,yes
+8018eac6,Full Stack Developer,"css, docker, react, javascript, php, postgresql",Без опыта,Студент,Full Stack Developer,synthetic_generator,yes
+0d978b72,Full Stack Developer,"javascript, css, typescript, git, full stack",Без опыта,Высшее образование,Full Stack Developer,synthetic_generator,yes
+ac511fd5,Full Stack Developer,"node.js, git, docker, typescript, javascript",Опыт работы от 3 до 6 лет,Не имеет значения,Full Stack Developer,synthetic_generator,yes
+d51e4cf5,Full Stack Developer,"full stack, node.js, django, фуллстек, python",Без опыта,Среднее специальное образование,Full Stack Developer,synthetic_generator,yes
+4e7de2a8,Full Stack Developer,"python, django, фуллстек, css, javascript, docker, postgresql, node.js",Опыт более 6 лет,Высшее образование,Full Stack Developer,synthetic_generator,yes
+166437b1,Full Stack Developer,"node.js, django, typescript, php, python, full stack, postgresql",Опыт работы от 3 до 6 лет,Высшее техническое образование,Full Stack Developer,synthetic_generator,yes
+4d044ed2,Full Stack Developer,"django, html, docker, postgresql, full stack, css, git",Опыт работы от 3 до 6 лет,Не имеет значения,Full Stack Developer,synthetic_generator,yes
+427de48d,Full Stack Developer,"typescript, css, php, postgresql, docker, python",Опыт работы от 1 до 3 лет,Среднее специальное образование,Full Stack Developer,synthetic_generator,yes
+bb8e866d,Full Stack Developer,"javascript, django, react, postgresql, css, python",Опыт работы от 3 до 6 лет,Высшее образование,Full Stack Developer,synthetic_generator,yes
+42c619c3,Full Stack Developer,"docker, css, node.js, react",Без опыта,Высшее техническое образование,Full Stack Developer,synthetic_generator,yes
+15d099f7,Full Stack Developer,"docker, python, react, фуллстек, javascript, node.js, postgresql",Опыт работы от 3 до 6 лет,Высшее техническое образование,Full Stack Developer,synthetic_generator,yes
+12711b08,Full Stack Developer,"postgresql, docker, react, фуллстек, git, python",Опыт более 6 лет,Студент,Full Stack Developer,synthetic_generator,yes
+1d647d7a,Full Stack Developer,"react, фуллстек, git, docker, html, css",Без опыта,Студент,Full Stack Developer,synthetic_generator,yes
+b065add8,Full Stack Developer,"postgresql, html, node.js, django, react, python",Без опыта,Высшее техническое образование,Full Stack Developer,synthetic_generator,yes
+1f1df6ef,Full Stack Developer,"python, html, docker, css",Без опыта,Высшее техническое образование,Full Stack Developer,synthetic_generator,yes
+1e3282ca,Full Stack Developer,"javascript, react, фуллстек, html, git, docker",Опыт более 6 лет,Студент,Full Stack Developer,synthetic_generator,yes
+e3dc44f6,Full Stack Developer,"node.js, html, typescript, php, git, docker",Без опыта,Среднее специальное образование,Full Stack Developer,synthetic_generator,yes
+eea96690,Full Stack Developer,"php, typescript, postgresql, python, html",Опыт работы от 1 до 3 лет,Не имеет значения,Full Stack Developer,synthetic_generator,yes
+0eb6c22a,Full Stack Developer,"postgresql, react, django, html, python, фуллстек",Опыт работы от 3 до 6 лет,Высшее техническое образование,Full Stack Developer,synthetic_generator,yes
+977350f5,Full Stack Developer,"html, git, django, typescript, node.js, docker",Опыт более 6 лет,Студент,Full Stack Developer,synthetic_generator,yes
+bbb321c7,Full Stack Developer,"full stack, docker, postgresql, react, css, typescript, фуллстек",Опыт работы от 1 до 3 лет,Высшее образование,Full Stack Developer,synthetic_generator,yes
+1a39e79d,Full Stack Developer,"фуллстек, git, react, css, html, python, node.js, javascript",Опыт работы от 3 до 6 лет,Не имеет значения,Full Stack Developer,synthetic_generator,yes
+8ff11c80,Full Stack Developer,"docker, postgresql, html, css, django",Опыт более 6 лет,Не имеет значения,Full Stack Developer,synthetic_generator,yes
+418b67a8,Full Stack Developer,"css, python, react, postgresql",Без опыта,Высшее техническое образование,Full Stack Developer,synthetic_generator,yes
+46c6908d,Full Stack Developer,"css, html, typescript, django, node.js",Опыт более 6 лет,Высшее техническое образование,Full Stack Developer,synthetic_generator,yes
+1d939119,Full Stack Developer,"css, full stack, python, фуллстек, typescript, php, node.js, javascript",Опыт работы от 3 до 6 лет,Студент,Full Stack Developer,synthetic_generator,yes
+5ec32f09,Full Stack Developer,"git, postgresql, html, typescript, node.js, react, full stack, php",Опыт работы от 3 до 6 лет,Не имеет значения,Full Stack Developer,synthetic_generator,yes
+6ccfce95,Full Stack Developer,"javascript, postgresql, full stack, css, docker, фуллстек",Опыт более 6 лет,Не имеет значения,Full Stack Developer,synthetic_generator,yes
+782b94ec,Full Stack Developer,"react, php, python, django, full stack, фуллстек, postgresql, node.js",Опыт более 6 лет,Среднее специальное образование,Full Stack Developer,synthetic_generator,yes
+b0ad7b7c,Full Stack Developer,"python, git, node.js, фуллстек, postgresql, javascript, full stack",Опыт работы от 1 до 3 лет,Высшее образование,Full Stack Developer,synthetic_generator,yes
+df8d6da3,Full Stack Developer,"фуллстек, react, javascript, node.js, css",Опыт работы от 1 до 3 лет,Высшее техническое образование,Full Stack Developer,synthetic_generator,yes
+f81822e5,Full Stack Developer,"html, python, django, docker",Без опыта,Не имеет значения,Full Stack Developer,synthetic_generator,yes
+e4323067,Mobile Developer,"kotlin, ios, мобильные приложения, android, ui/ux, swift",Опыт более 6 лет,Высшее образование,Mobile Developer,synthetic_generator,yes
+f407aac8,Mobile Developer,"мобильные приложения, ios, kotlin, rest api, flutter, android, react native",Опыт работы от 1 до 3 лет,Не имеет значения,Mobile Developer,synthetic_generator,yes
+96a0f831,Mobile Developer,"rest api, мобильный разработчик, mobile, flutter, ios, мобильные приложения, react native",Без опыта,Высшее образование,Mobile Developer,synthetic_generator,yes
+0825cd00,Mobile Developer,"kotlin, react native, rest api, android, mobile, ui/ux, мобильный разработчик",Без опыта,Высшее образование,Mobile Developer,synthetic_generator,yes
+06e9ca7b,Mobile Developer,"kotlin, ios, мобильный разработчик, flutter, swift",Опыт более 6 лет,Не имеет значения,Mobile Developer,synthetic_generator,yes
+2bda3e32,Mobile Developer,"мобильный разработчик, ui/ux, swift, мобильные приложения, mobile, rest api, react native, android",Опыт работы от 3 до 6 лет,Не имеет значения,Mobile Developer,synthetic_generator,yes
+9d6212b3,Mobile Developer,"ios, ui/ux, kotlin, android, мобильные приложения, mobile, react native",Опыт работы от 3 до 6 лет,Студент,Mobile Developer,synthetic_generator,yes
+969d8946,Mobile Developer,"react native, android, kotlin, mobile, мобильные приложения, ios, rest api",Опыт работы от 1 до 3 лет,Среднее специальное образование,Mobile Developer,synthetic_generator,yes
+e5d331e0,Mobile Developer,"android, rest api, swift, flutter, mobile, мобильный разработчик, react native",Опыт работы от 3 до 6 лет,Не имеет значения,Mobile Developer,synthetic_generator,yes
+2c3e264c,Mobile Developer,"flutter, swift, kotlin, react native, rest api, android, мобильный разработчик",Опыт работы от 3 до 6 лет,Студент,Mobile Developer,synthetic_generator,yes
+c4a08174,Mobile Developer,"mobile, flutter, rest api, kotlin",Опыт работы от 1 до 3 лет,Студент,Mobile Developer,synthetic_generator,yes
+4e5bf79d,Mobile Developer,"kotlin, android, flutter, swift, react native, мобильные приложения, мобильный разработчик, ui/ux",Без опыта,Высшее образование,Mobile Developer,synthetic_generator,yes
+0f7c79ea,Mobile Developer,"react native, swift, kotlin, ui/ux, мобильный разработчик, mobile",Опыт более 6 лет,Среднее специальное образование,Mobile Developer,synthetic_generator,yes
+d45ad2c5,Mobile Developer,"rest api, swift, mobile, react native, мобильный разработчик",Опыт работы от 3 до 6 лет,Высшее образование,Mobile Developer,synthetic_generator,yes
+a703872d,Mobile Developer,"react native, flutter, rest api, мобильный разработчик, android",Опыт работы от 3 до 6 лет,Среднее специальное образование,Mobile Developer,synthetic_generator,yes
+d4b1068a,Mobile Developer,"ui/ux, ios, rest api, react native",Опыт работы от 1 до 3 лет,Высшее техническое образование,Mobile Developer,synthetic_generator,yes
+4f16f270,Mobile Developer,"swift, mobile, ios, kotlin, ui/ux",Опыт более 6 лет,Среднее специальное образование,Mobile Developer,synthetic_generator,yes
+b3debdaf,Mobile Developer,"мобильный разработчик, react native, swift, ios, rest api, flutter, mobile",Без опыта,Высшее техническое образование,Mobile Developer,synthetic_generator,yes
+8b3f2dd3,Mobile Developer,"android, react native, ios, мобильные приложения, мобильный разработчик, rest api, flutter",Без опыта,Высшее образование,Mobile Developer,synthetic_generator,yes
+eb2b3bf7,Mobile Developer,"react native, mobile, kotlin, flutter, ui/ux, мобильные приложения, мобильный разработчик",Опыт работы от 3 до 6 лет,Высшее образование,Mobile Developer,synthetic_generator,yes
+02745904,Mobile Developer,"ios, kotlin, мобильный разработчик, ui/ux, мобильные приложения",Опыт работы от 3 до 6 лет,Среднее специальное образование,Mobile Developer,synthetic_generator,yes
+ab094126,Mobile Developer,"swift, react native, android, ios, ui/ux, flutter, мобильные приложения",Опыт более 6 лет,Студент,Mobile Developer,synthetic_generator,yes
+704f6601,Mobile Developer,"kotlin, rest api, flutter, мобильные приложения, ui/ux",Опыт работы от 1 до 3 лет,Студент,Mobile Developer,synthetic_generator,yes
+206ed658,Mobile Developer,"rest api, мобильные приложения, react native, android, mobile, swift, мобильный разработчик, flutter",Опыт работы от 3 до 6 лет,Высшее образование,Mobile Developer,synthetic_generator,yes
+1b7d9b45,Mobile Developer,"swift, rest api, mobile, react native, мобильные приложения",Опыт более 6 лет,Высшее техническое образование,Mobile Developer,synthetic_generator,yes
+733f9f9f,Mobile Developer,"kotlin, мобильные приложения, rest api, android, swift, мобильный разработчик, react native",Опыт работы от 3 до 6 лет,Среднее специальное образование,Mobile Developer,synthetic_generator,yes
+9e983e59,Mobile Developer,"ui/ux, mobile, rest api, flutter, ios, react native",Опыт более 6 лет,Высшее техническое образование,Mobile Developer,synthetic_generator,yes
+d3235b35,Mobile Developer,"flutter, kotlin, мобильный разработчик, мобильные приложения, swift, ios, mobile",Без опыта,Высшее техническое образование,Mobile Developer,synthetic_generator,yes
+f6a3f57a,Mobile Developer,"swift, мобильные приложения, ui/ux, flutter, react native, мобильный разработчик, kotlin",Опыт работы от 3 до 6 лет,Среднее специальное образование,Mobile Developer,synthetic_generator,yes
+36d6933d,Mobile Developer,"flutter, ios, ui/ux, rest api, мобильный разработчик, react native",Опыт работы от 1 до 3 лет,Не имеет значения,Mobile Developer,synthetic_generator,yes
+0c84378f,Mobile Developer,"swift, ui/ux, мобильные приложения, mobile",Опыт работы от 1 до 3 лет,Высшее образование,Mobile Developer,synthetic_generator,yes
+a6ff6dca,Mobile Developer,"swift, ui/ux, мобильный разработчик, kotlin",Без опыта,Высшее образование,Mobile Developer,synthetic_generator,yes
+b557a47f,Mobile Developer,"мобильные приложения, mobile, react native, kotlin, rest api, ios, мобильный разработчик",Опыт работы от 3 до 6 лет,Не имеет значения,Mobile Developer,synthetic_generator,yes
+0c6d455d,Mobile Developer,"ui/ux, мобильный разработчик, react native, ios, мобильные приложения, kotlin, mobile",Опыт работы от 3 до 6 лет,Высшее образование,Mobile Developer,synthetic_generator,yes
+9205cef9,Mobile Developer,"мобильные приложения, ios, react native, kotlin, swift, mobile, flutter",Опыт более 6 лет,Высшее техническое образование,Mobile Developer,synthetic_generator,yes
+4c89b5cb,Mobile Developer,"rest api, kotlin, мобильные приложения, flutter, android, react native, ui/ux, mobile",Опыт более 6 лет,Высшее техническое образование,Mobile Developer,synthetic_generator,yes
+8f010e87,Mobile Developer,"rest api, ios, android, мобильный разработчик, ui/ux, react native, kotlin, flutter",Опыт работы от 3 до 6 лет,Студент,Mobile Developer,synthetic_generator,yes
+a38579ac,Mobile Developer,"мобильный разработчик, rest api, мобильные приложения, flutter, ui/ux, kotlin, ios, react native",Опыт более 6 лет,Высшее образование,Mobile Developer,synthetic_generator,yes
+eebd4010,Mobile Developer,"android, мобильные приложения, mobile, flutter, react native, swift, ui/ux",Без опыта,Студент,Mobile Developer,synthetic_generator,yes
+34d8b4ac,Mobile Developer,"ios, kotlin, mobile, react native, android, мобильные приложения",Опыт работы от 3 до 6 лет,Среднее специальное образование,Mobile Developer,synthetic_generator,yes
+b3cfdfd9,Mobile Developer,"мобильный разработчик, swift, kotlin, ios",Опыт работы от 1 до 3 лет,Высшее техническое образование,Mobile Developer,synthetic_generator,yes
+eb0aa88b,Mobile Developer,"react native, мобильный разработчик, мобильные приложения, mobile",Без опыта,Не имеет значения,Mobile Developer,synthetic_generator,yes
+862805b6,Mobile Developer,"мобильные приложения, mobile, ui/ux, react native, мобильный разработчик, flutter",Опыт работы от 3 до 6 лет,Студент,Mobile Developer,synthetic_generator,yes
+b3440738,Mobile Developer,"android, ui/ux, мобильный разработчик, flutter, kotlin",Без опыта,Высшее образование,Mobile Developer,synthetic_generator,yes
+f163a96c,Mobile Developer,"мобильный разработчик, ios, swift, kotlin, android, mobile",Опыт работы от 1 до 3 лет,Высшее образование,Mobile Developer,synthetic_generator,yes
+8105e34b,Mobile Developer,"mobile, react native, ios, android, flutter",Опыт работы от 1 до 3 лет,Среднее специальное образование,Mobile Developer,synthetic_generator,yes
+7cc877ba,Mobile Developer,"flutter, swift, react native, android",Опыт работы от 1 до 3 лет,Студент,Mobile Developer,synthetic_generator,yes
+1baa46d4,Mobile Developer,"мобильный разработчик, react native, rest api, ui/ux, ios",Опыт работы от 1 до 3 лет,Не имеет значения,Mobile Developer,synthetic_generator,yes
+70dcb6bb,Mobile Developer,"android, rest api, flutter, react native",Опыт работы от 3 до 6 лет,Высшее образование,Mobile Developer,synthetic_generator,yes
+471945e3,Mobile Developer,"ios, swift, мобильный разработчик, kotlin, rest api, react native, flutter, mobile",Без опыта,Не имеет значения,Mobile Developer,synthetic_generator,yes
+a18a0af5,Mobile Developer,"kotlin, ui/ux, swift, react native, android",Опыт работы от 1 до 3 лет,Студент,Mobile Developer,synthetic_generator,yes
+16ac6453,Mobile Developer,"android, swift, react native, kotlin, flutter, мобильные приложения, ui/ux, mobile",Без опыта,Не имеет значения,Mobile Developer,synthetic_generator,yes
+e1a19682,Mobile Developer,"react native, swift, flutter, rest api",Опыт работы от 1 до 3 лет,Студент,Mobile Developer,synthetic_generator,yes
+e24de60e,Mobile Developer,"react native, android, mobile, flutter, мобильный разработчик, swift",Опыт работы от 1 до 3 лет,Студент,Mobile Developer,synthetic_generator,yes
+0db02884,Mobile Developer,"react native, rest api, swift, мобильные приложения, mobile, flutter, мобильный разработчик",Опыт более 6 лет,Среднее специальное образование,Mobile Developer,synthetic_generator,yes
+f7cfd188,Mobile Developer,"мобильные приложения, ios, android, rest api, мобильный разработчик",Опыт работы от 1 до 3 лет,Высшее образование,Mobile Developer,synthetic_generator,yes
+e9596a10,Mobile Developer,"react native, mobile, мобильные приложения, мобильный разработчик, ui/ux, flutter, kotlin",Опыт работы от 3 до 6 лет,Среднее специальное образование,Mobile Developer,synthetic_generator,yes
+1d768263,Mobile Developer,"swift, mobile, android, ios, flutter, ui/ux, kotlin",Опыт работы от 3 до 6 лет,Высшее образование,Mobile Developer,synthetic_generator,yes
+be495de1,Mobile Developer,"ios, swift, mobile, react native, rest api, мобильный разработчик, flutter",Опыт работы от 1 до 3 лет,Высшее образование,Mobile Developer,synthetic_generator,yes
+d3ec2fc2,Mobile Developer,"мобильные приложения, mobile, ios, мобильный разработчик",Без опыта,Среднее специальное образование,Mobile Developer,synthetic_generator,yes
+dab23617,Frontend Developer,"html, javascript, typescript, spa, css, webpack, ui/ux, angular",Опыт работы от 1 до 3 лет,Высшее техническое образование,Frontend Developer,synthetic_generator,yes
+3c5d308c,Frontend Developer,"angular, webpack, spa, sass, vue",Опыт работы от 3 до 6 лет,Студент,Frontend Developer,synthetic_generator,yes
+d8dd46f7,Frontend Developer,"webpack, spa, vue, react, фронтенд, ui/ux, javascript, figma",Опыт более 6 лет,Высшее техническое образование,Frontend Developer,synthetic_generator,yes
+082d771c,Frontend Developer,"react, javascript, html, spa, vue, webpack, ui/ux",Опыт более 6 лет,Высшее образование,Frontend Developer,synthetic_generator,yes
+f8fb02b9,Frontend Developer,"frontend, spa, css, html, react",Опыт работы от 3 до 6 лет,Высшее образование,Frontend Developer,synthetic_generator,yes
+aa424625,Frontend Developer,"spa, фронтенд, ui/ux, angular, sass, javascript, vue, css",Без опыта,Высшее образование,Frontend Developer,synthetic_generator,yes
+3ed25dfd,Frontend Developer,"javascript, фронтенд, angular, react, figma, html, webpack",Опыт работы от 1 до 3 лет,Не имеет значения,Frontend Developer,synthetic_generator,yes
+0bfe46e7,Frontend Developer,"ui/ux, webpack, javascript, sass, react",Опыт более 6 лет,Среднее специальное образование,Frontend Developer,synthetic_generator,yes
+b0f623e1,Frontend Developer,"sass, javascript, angular, frontend, react",Опыт работы от 1 до 3 лет,Не имеет значения,Frontend Developer,synthetic_generator,yes
+f3437095,Frontend Developer,"vue, sass, typescript, react, css, spa, javascript, figma",Без опыта,Не имеет значения,Frontend Developer,synthetic_generator,yes
+b9a89388,Frontend Developer,"angular, ui/ux, react, typescript, spa",Опыт более 6 лет,Студент,Frontend Developer,synthetic_generator,yes
+e08dc93b,Frontend Developer,"spa, html, figma, sass, ui/ux",Опыт более 6 лет,Студент,Frontend Developer,synthetic_generator,yes
+afd92ea1,Frontend Developer,"react, angular, фронтенд, ui/ux, vue, spa",Без опыта,Высшее техническое образование,Frontend Developer,synthetic_generator,yes
+27dcc8f3,Frontend Developer,"frontend, javascript, sass, ui/ux, webpack, css, react",Опыт работы от 1 до 3 лет,Не имеет значения,Frontend Developer,synthetic_generator,yes
+08f526e5,Frontend Developer,"webpack, sass, ui/ux, html, spa, frontend",Опыт более 6 лет,Не имеет значения,Frontend Developer,synthetic_generator,yes
+653e64f9,Frontend Developer,"фронтенд, figma, webpack, typescript, react, html, javascript",Опыт более 6 лет,Высшее техническое образование,Frontend Developer,synthetic_generator,yes
+b8fa2573,Frontend Developer,"html, css, figma, angular, react",Без опыта,Высшее техническое образование,Frontend Developer,synthetic_generator,yes
+220795fd,Frontend Developer,"spa, javascript, react, angular",Опыт работы от 3 до 6 лет,Высшее техническое образование,Frontend Developer,synthetic_generator,yes
+6b8e4140,Frontend Developer,"vue, figma, frontend, react, css, typescript, angular, html",Опыт работы от 3 до 6 лет,Студент,Frontend Developer,synthetic_generator,yes
+0ee9bda5,Frontend Developer,"фронтенд, figma, react, spa, vue, css, frontend, ui/ux",Опыт более 6 лет,Среднее специальное образование,Frontend Developer,synthetic_generator,yes
+93465226,Frontend Developer,"webpack, sass, angular, ui/ux, фронтенд, spa, vue",Опыт работы от 1 до 3 лет,Студент,Frontend Developer,synthetic_generator,yes
+1d82d493,Frontend Developer,"фронтенд, html, frontend, sass, figma, vue, angular",Без опыта,Среднее специальное образование,Frontend Developer,synthetic_generator,yes
+32bb613e,Frontend Developer,"ui/ux, javascript, angular, css, фронтенд, vue, react",Без опыта,Высшее техническое образование,Frontend Developer,synthetic_generator,yes
+99728409,Frontend Developer,"css, typescript, фронтенд, webpack, angular, sass, javascript, html",Опыт работы от 3 до 6 лет,Высшее техническое образование,Frontend Developer,synthetic_generator,yes
+d4b23be0,Frontend Developer,"ui/ux, spa, html, css",Опыт работы от 3 до 6 лет,Студент,Frontend Developer,synthetic_generator,yes
+ffb7bd3a,Frontend Developer,"react, spa, angular, html",Опыт работы от 3 до 6 лет,Студент,Frontend Developer,synthetic_generator,yes
+08be3acc,Frontend Developer,"фронтенд, javascript, angular, sass, css, typescript",Без опыта,Студент,Frontend Developer,synthetic_generator,yes
+ef7077ca,Frontend Developer,"angular, css, webpack, frontend, typescript, figma, фронтенд",Опыт работы от 1 до 3 лет,Среднее специальное образование,Frontend Developer,synthetic_generator,yes
+3d542766,Frontend Developer,"html, figma, spa, angular, vue, react, typescript",Опыт работы от 1 до 3 лет,Высшее образование,Frontend Developer,synthetic_generator,yes
+6225039e,Frontend Developer,"webpack, react, angular, vue, typescript",Опыт более 6 лет,Не имеет значения,Frontend Developer,synthetic_generator,yes
+6cd9c9c0,Frontend Developer,"react, ui/ux, frontend, angular, vue",Без опыта,Не имеет значения,Frontend Developer,synthetic_generator,yes
+bacf27de,Frontend Developer,"css, frontend, html, фронтенд, vue",Опыт работы от 1 до 3 лет,Среднее специальное образование,Frontend Developer,synthetic_generator,yes
+0dc7e57a,Frontend Developer,"фронтенд, frontend, webpack, figma, typescript, css",Опыт работы от 1 до 3 лет,Высшее техническое образование,Frontend Developer,synthetic_generator,yes
+3edf635d,Frontend Developer,"sass, фронтенд, frontend, react, ui/ux, javascript, typescript, figma",Опыт работы от 3 до 6 лет,Высшее техническое образование,Frontend Developer,synthetic_generator,yes
+bc1cb304,Frontend Developer,"spa, frontend, html, css",Без опыта,Не имеет значения,Frontend Developer,synthetic_generator,yes
+100cd464,Frontend Developer,"css, angular, spa, react",Без опыта,Высшее техническое образование,Frontend Developer,synthetic_generator,yes
+dd87758d,Frontend Developer,"spa, vue, ui/ux, typescript, sass, css, angular",Опыт работы от 3 до 6 лет,Студент,Frontend Developer,synthetic_generator,yes
+ce4987ae,Frontend Developer,"фронтенд, angular, javascript, vue, css, sass, spa",Опыт работы от 1 до 3 лет,Высшее техническое образование,Frontend Developer,synthetic_generator,yes
+2dc12424,Frontend Developer,"javascript, angular, react, typescript, frontend",Опыт более 6 лет,Высшее образование,Frontend Developer,synthetic_generator,yes
+a792a3ba,Frontend Developer,"css, фронтенд, spa, html, typescript, javascript, angular, vue",Без опыта,Высшее техническое образование,Frontend Developer,synthetic_generator,yes
+3256097a,Frontend Developer,"spa, css, typescript, html",Опыт работы от 1 до 3 лет,Высшее образование,Frontend Developer,synthetic_generator,yes
+a37d7d7e,Frontend Developer,"webpack, angular, vue, html, css",Опыт работы от 3 до 6 лет,Не имеет значения,Frontend Developer,synthetic_generator,yes
+ab58b5ec,Frontend Developer,"фронтенд, vue, figma, angular",Опыт работы от 1 до 3 лет,Студент,Frontend Developer,synthetic_generator,yes
+47f59618,Frontend Developer,"vue, css, frontend, react",Опыт более 6 лет,Среднее специальное образование,Frontend Developer,synthetic_generator,yes
+6a6d01f3,Frontend Developer,"typescript, webpack, angular, react, sass, html, spa",Опыт работы от 1 до 3 лет,Высшее образование,Frontend Developer,synthetic_generator,yes
+00f92995,Frontend Developer,"sass, css, ui/ux, angular, webpack, vue, spa",Опыт работы от 3 до 6 лет,Не имеет значения,Frontend Developer,synthetic_generator,yes
+9cd52e92,Frontend Developer,"angular, typescript, фронтенд, figma, vue, react",Без опыта,Высшее техническое образование,Frontend Developer,synthetic_generator,yes
+8f8a5b83,Frontend Developer,"webpack, html, frontend, spa, фронтенд",Опыт работы от 3 до 6 лет,Студент,Frontend Developer,synthetic_generator,yes
+3386d75a,Frontend Developer,"react, фронтенд, frontend, webpack, html, typescript",Без опыта,Не имеет значения,Frontend Developer,synthetic_generator,yes
+6f839c6b,Frontend Developer,"figma, javascript, фронтенд, angular",Опыт работы от 1 до 3 лет,Высшее образование,Frontend Developer,synthetic_generator,yes
+058b75cc,Frontend Developer,"angular, figma, html, sass, javascript, react, vue, ui/ux",Опыт работы от 1 до 3 лет,Высшее техническое образование,Frontend Developer,synthetic_generator,yes
+6bbe1e75,Frontend Developer,"typescript, react, ui/ux, vue, figma, css, javascript",Опыт работы от 3 до 6 лет,Среднее специальное образование,Frontend Developer,synthetic_generator,yes
+ad1154d2,Frontend Developer,"vue, frontend, react, javascript",Опыт более 6 лет,Не имеет значения,Frontend Developer,synthetic_generator,yes
+1eb5ee4a,Frontend Developer,"angular, css, html, webpack",Опыт работы от 3 до 6 лет,Среднее специальное образование,Frontend Developer,synthetic_generator,yes
+046d4707,Frontend Developer,"webpack, frontend, figma, javascript, vue",Опыт более 6 лет,Высшее образование,Frontend Developer,synthetic_generator,yes
+4882dfb4,Frontend Developer,"react, vue, typescript, javascript, webpack",Без опыта,Высшее техническое образование,Frontend Developer,synthetic_generator,yes
+88ea4620,Frontend Developer,"figma, фронтенд, javascript, frontend, vue",Опыт работы от 1 до 3 лет,Не имеет значения,Frontend Developer,synthetic_generator,yes
+1eaa9b52,Frontend Developer,"webpack, react, css, figma, javascript, фронтенд, frontend, ui/ux",Опыт работы от 3 до 6 лет,Высшее образование,Frontend Developer,synthetic_generator,yes
+432ad16e,Frontend Developer,"typescript, javascript, css, html, react, vue, ui/ux",Опыт работы от 3 до 6 лет,Студент,Frontend Developer,synthetic_generator,yes
+167c891d,Frontend Developer,"css, sass, vue, figma, javascript, spa, react",Без опыта,Не имеет значения,Frontend Developer,synthetic_generator,yes
