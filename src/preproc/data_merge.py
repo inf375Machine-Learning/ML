@@ -2,7 +2,7 @@ import pandas as pd
 import glob
 import os
 
-def merge_csv_files(input_folder='../../data/final', output_file='../../data/final_dataset.csv'):
+def merge_csv_files(input_folder='../../data/merge', output_file='../../data/final_dataset.csv'):
 
     file_pattern = os.path.join(input_folder, "*.csv")
     all_files = glob.glob(file_pattern)
