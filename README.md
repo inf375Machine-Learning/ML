@@ -24,6 +24,30 @@ For parser scripts only, install Playwright browsers:
 playwright install
 ```
 
+## Problem & Goal
+At now graduated students know their stack but not sure about best job role for them this project will 
+solve this problem by suggesting best job roles for them based on their skills education and experience
+## Dataset Collection & Augmentation
+The dataset was collected and merged from headhunter.kz and qyzmet.kz using Playwright/Selenium scripts.
+- **Data Augmentation:** To solve problem with not popular jobs like CyberSecurity and others.We used synthetic data to make dataset more balanced
+- **Traceability:** For dividing scrapped data and synthetic data we add columns 'is_custom' and 'source'
+
+## Data Cleaning & Preprocessing
+Preprocessing pipeline was made for cleaning and preparing the dataset for models training
+- First we remove duplicates and na rows
+- Converted skills from javascript to js and others cause of convenience and performance 
+- We used regular expressions to extract columns 'experience_level','education_level' and 'skills'
+    from unstructured data
+- Filled missing data using realistic distribution based on existing data
+- Created 'job_id' for each job to show uniqueness of job
+
+## Exploratory Data Analysis (EDA)
+Before training, we analyzed the dataset to understand market trends. The visualizations are saved in the `outputs/` folder:
+- **Class Distribution:** Confirmed that Data Augmentation successfully balanced our target classes.
+- **Average skill per role**: Analyzed the average number of skills per job role.
+- **Top 20 Skills:** Identified the most requested technologies across all roles.
+- **Experience vs. Education:** Analyzed the correlation between required experience levels and academic degrees.
+
 ## Notebook
 
 `src/train_model.ipynb` is kept as a readable demonstration notebook. It shows the same training idea in a notebook format for explanation and presentation.
