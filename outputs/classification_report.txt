@@ -1,0 +1,16 @@
+                       precision    recall  f1-score   support
+
+    Backend Developer     0.8333    0.8824    0.8571        34
+Cybersecurity Analyst     1.0000    0.9286    0.9630        28
+         Data Analyst     0.8000    0.9600    0.8727        25
+        Data Engineer     1.0000    0.8333    0.9091        24
+       Data Scientist     0.9600    0.9600    0.9600        25
+      DevOps Engineer     0.9091    0.9091    0.9091        22
+   Frontend Developer     0.8800    0.8800    0.8800        25
+ Full Stack Developer     0.9500    0.7917    0.8636        24
+     Mobile Developer     0.8846    0.9583    0.9200        24
+          QA Engineer     0.7391    0.7727    0.7556        22
+
+             accuracy                         0.8893       253
+            macro avg     0.8956    0.8876    0.8890       253
+         weighted avg     0.8958    0.8893    0.8900       253
