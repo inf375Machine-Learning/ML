@@ -125,8 +125,8 @@ Main output files:
 - GitHub repository: https://github.com/inf375Machine-Learning/ML
 - Deployed website: https://role-finder.streamlit.app
 - Public video demo: TODO
-- Final report: `final_report.pdf` (TODO)
-- Poster: `poster/poster_A3.pdf` (TODO)
+- Final report: https://docs.google.com/document/d/1bB0f_33X26WGMqgmdkxcm-CfOfke3tberf-D3PR2vFU/edit?tab=t.0
+- Poster: https://canva.link/ow21ywt65a0t0uo
 
 ## Connection to INF375 Course Topics
 
